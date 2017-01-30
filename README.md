@@ -1,7 +1,5 @@
 # humarec-manuscript-viewer
 
-<p>Files will be uploaded soon!!</p>
-
 <p>HumaReC is a Vital-DH@Vital-IT project.</p>
 
 <p>The viewer is based on Edition Visualization Technology (EVT).<br>
