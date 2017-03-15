@@ -193,14 +193,7 @@
 			<graphic
 				url="..\..\..\..\Applications\MAMP\htdocs\Humarec_viewer\data\input_data\images\single\Gr-Z_0011-00379_155v.jpg"
 				width="3525px" height="4088px"/>
-			<zone xml:id="Gr-Z_0011-00379_155v_gr_line_24" rendition="Line" ulx="1144" uly="2788"
-				lrx="1872" lry="2978" rend="visible"/>
-			<zone xml:id="Gr-Z_0011-00379_155v_gr_line_25" rendition="Line" ulx="950" uly="2998"
-				lrx="1861" lry="3096" rend="visible"/>
-			<zone xml:id="Gr-Z_0011-00379_155v_gr_line_26" rendition="Line" ulx="1142" uly="3092"
-				lrx="1857" lry="3186" rend="visible"/>
-			<zone xml:id="Gr-Z_0011-00379_155v_gr_line_27" rendition="Line" ulx="1156" uly="3182"
-				lrx="1853" lry="3286" rend="visible"/>
+			
 
 			<zone xml:id="Gr-Z_0011-00379_155v_la_line_21" rendition="Line" ulx="1876" uly="2452"
 				lrx="2635" lry="2580" rend="visible"/>
@@ -214,16 +207,7 @@
 				lrx="2637" lry="3160" rend="visible"/>
 			<zone xml:id="Gr-Z_0011-00379_155v_la_line_26" rendition="Line" ulx="1906" uly="3138"
 				lrx="2705" lry="3266" rend="visible"/>
-			<zone xml:id="Gr-Z_0011-00379_155v_ar_line_23" rendition="Line" ulx="2622" uly="2736"
-				lrx="3315" lry="2864" rend="visible"/>
-			<zone xml:id="Gr-Z_0011-00379_155v_ar_line_24" rendition="Line" ulx="2672" uly="2844"
-				lrx="3317" lry="2958" rend="visible"/>
-			<zone xml:id="Gr-Z_0011-00379_155v_ar_line_25" rendition="Line" ulx="2632" uly="2932"
-				lrx="3325" lry="3060" rend="visible"/>
-			<zone xml:id="Gr-Z_0011-00379_155v_ar_line_26" rendition="Line" ulx="2662" uly="3056"
-				lrx="3321" lry="3162" rend="visible"/>
-			<zone xml:id="Gr-Z_0011-00379_155v_ar_line_27" rendition="Line" ulx="2848" uly="3142"
-				lrx="3327" lry="3264" rend="visible"/>
+		
 		</surface>
 		<surface corresp="#Gr-Z_0011-00379_156r">
 			<graphic
@@ -413,12 +397,17 @@
 			<zone xml:id="Gr-Z_0011-00379_246v_la_line_28" rendition="Line" ulx="2018" uly="3222"
 				lrx="2764" lry="3321" rend="visible"/>
 		</surface>
+		<surface corresp="#Gr-Z_0011-00379_247r"><graphic url="..\Marciana Gr. Z. 11\Gr-Z_0011-00379_247r.jpg" width="3750px" height="4542px"></graphic><zone xml:id="Gr-Z_0011-00379_247r_la_line_1" rendition="Line" ulx="1594" uly="712" lrx="1742" lry="800" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_2" rendition="Line" ulx="1206" uly="742" lrx="2052" lry="882" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_3" rendition="Line" ulx="1234" uly="882" lrx="2010" lry="996" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_4" rendition="Line" ulx="1224" uly="976" lrx="2024" lry="1082" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_5" rendition="Line" ulx="1224" uly="1072" lrx="1954" lry="1174" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_6" rendition="Line" ulx="1178" uly="1176" lrx="1944" lry="1286" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_7" rendition="Line" ulx="1196" uly="1278" lrx="1920" lry="1386" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_8" rendition="Line" ulx="1178" uly="1380" lrx="1954" lry="1492" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_9" rendition="Line" ulx="1194" uly="1474" lrx="1946" lry="1592" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_10" rendition="Line" ulx="1196" uly="1574" lrx="2002" lry="1684" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_11" rendition="Line" ulx="1188" uly="1680" lrx="1956" lry="1782" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_12" rendition="Line" ulx="1162" uly="1780" lrx="2008" lry="1908" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_13" rendition="Line" ulx="1170" uly="1898" lrx="1994" lry="2012" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_14" rendition="Line" ulx="1184" uly="1992" lrx="1972" lry="2114" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_15" rendition="Line" ulx="1176" uly="2082" lrx="1970" lry="2198" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_16" rendition="Line" ulx="1166" uly="2182" lrx="1934" lry="2284" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_17" rendition="Line" ulx="1154" uly="2268" lrx="1916" lry="2380" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_18" rendition="Line" ulx="1178" uly="2374" lrx="1944" lry="2476" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_19" rendition="Line" ulx="1166" uly="2470" lrx="1926" lry="2590" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_20" rendition="Line" ulx="1170" uly="2578" lrx="1912" lry="2682" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_21" rendition="Line" ulx="1190" uly="2674" lrx="1926" lry="2784" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_22" rendition="Line" ulx="1186" uly="2780" lrx="1852" lry="2874" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_23" rendition="Line" ulx="1174" uly="2872" lrx="1856" lry="2980" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_24" rendition="Line" ulx="1170" uly="2974" lrx="1862" lry="3072" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_25" rendition="Line" ulx="1186" uly="3066" lrx="1792" lry="3176" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_26" rendition="Line" ulx="1112" uly="3178" lrx="1940" lry="3292" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_27" rendition="Line" ulx="1142" uly="3276" lrx="1964" lry="3388" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_28" rendition="Line" ulx="1136" uly="3382" lrx="1862" lry="3482" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247r_la_line_29" rendition="Line" ulx="1152" uly="3482" lrx="1844" lry="3600" rend="visible"></zone></surface>
+
+		<surface corresp="#Gr-Z_0011-00379_247v"><graphic url="..\Marciana Gr. Z. 11\Gr-Z_0011-00379_247v.jpg" width="3600px" height="4088px"></graphic><zone xml:id="Gr-Z_0011-00379_247v_la_line_1" rendition="Line" ulx="1984" uly="550" lrx="2652" lry="664" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_2" rendition="Line" ulx="1986" uly="646" lrx="2680" lry="746" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_3" rendition="Line" ulx="1986" uly="746" lrx="2668" lry="854" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_4" rendition="Line" ulx="1984" uly="848" lrx="2682" lry="960" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_5" rendition="Line" ulx="1984" uly="950" lrx="2662" lry="1056" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_6" rendition="Line" ulx="1984" uly="1036" lrx="2642" lry="1146" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_7" rendition="Line" ulx="1984" uly="1148" lrx="2672" lry="1260" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_8" rendition="Line" ulx="1984" uly="1236" lrx="2754" lry="1356" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_9" rendition="Line" ulx="1974" uly="1340" lrx="2706" lry="1456" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_10" rendition="Line" ulx="1978" uly="1432" lrx="2772" lry="1544" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_11" rendition="Line" ulx="1978" uly="1540" lrx="2730" lry="1660" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_12" rendition="Line" ulx="1978" uly="1650" lrx="2630" lry="1740" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_13" rendition="Line" ulx="1980" uly="1752" lrx="2666" lry="1870" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_14" rendition="Line" ulx="1980" uly="1856" lrx="2652" lry="1976" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_15" rendition="Line" ulx="1980" uly="1966" lrx="2676" lry="2066" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_16" rendition="Line" ulx="1980" uly="2052" lrx="2654" lry="2168" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_17" rendition="Line" ulx="1998" uly="2152" lrx="2736" lry="2254" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_18" rendition="Line" ulx="2026" uly="2250" lrx="2718" lry="2366" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_19" rendition="Line" ulx="2028" uly="2346" lrx="2780" lry="2442" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_20" rendition="Line" ulx="2028" uly="2418" lrx="2688" lry="2548" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_21" rendition="Line" ulx="2046" uly="2522" lrx="2746" lry="2626" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_22" rendition="Line" ulx="2054" uly="2620" lrx="2786" lry="2728" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_23" rendition="Line" ulx="2052" uly="2726" lrx="2788" lry="2836" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_24" rendition="Line" ulx="2036" uly="2814" lrx="2712" lry="2940" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_25" rendition="Line" ulx="2040" uly="2922" lrx="2716" lry="3044" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_26" rendition="Line" ulx="2052" uly="3012" lrx="2722" lry="3128" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_27" rendition="Line" ulx="2054" uly="3128" lrx="2628" lry="3238" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_la_line_28" rendition="Line" ulx="2056" uly="3202" lrx="2736" lry="3334" rend="visible"></zone></surface>
+
 
 	</facsimile>
 	<text xml:id="Paul_transcript" n="Paul">
 		<group>
 			<text xml:id="Paul_transcript_1Cor" n="1 Cor">
 				<body>
+					<!--folio 155v-->
 					<pb xml:id="Gr-Z_0011-00379_155v" facs="#Gr-Z_0011-00379_155v" n="155v"/>
 					<p>
 						<lb facs="#Gr-Z_0011-00379_155v_la_line_21" n="21" xml:id="Gr-Z_0011-00379_155v_la_lb_21"/>
@@ -434,7 +423,7 @@
 						christi iesu per volunta
 						<lb facs="#Gr-Z_0011-00379_155v_la_line_26" n="26" xml:id="Gr-Z_0011-00379_155v_la_lb_26"/>
 						tem dei et sosthenes frater · <milestone unit="verse" n="1:2"/> ecclesiae </p>
-
+					<!--folio 156r-->
 					<pb xml:id="Gr-Z_0011-00379_156r" facs="#Gr-Z_0011-00379_156r" n="156r"/>
 					<p>
 						<lb facs="#Gr-Z_0011-00379_156r_la_line_1" n="1" xml:id="Gr-Z_0011-00379_156r_la_lb_1"/>
@@ -503,6 +492,7 @@
 			</text>
 			<text xml:id="Paul_transcript_1Thess" n="1 Thess">
 				<body>
+					<!--folio 246r-->
 					<pb xml:id="Gr-Z_0011-00379_246r" n="246r"/>
 					<p>
 						<lb facs="#Gr-Z_0011-00379_246r_la_line_1" n="1" xml:id="Gr-Z_0011-00379_246r_la_lb_1"/><milestone
@@ -565,6 +555,7 @@
 						verbum in tri
 						<lb facs="#Gr-Z_0011-00379_246r_la_line_29" n="29" xml:id="Gr-Z_0011-00379_246r_la_lb_29"/>bulatione
 						multa </p>
+					<!--folio 246v-->
 					<pb xml:id="Gr-Z_0011-00379_246v" n="246v"/>
 					<p>
 						<lb facs="#Gr-Z_0011-00379_246v_la_line_1" n="1" xml:id="Gr-Z_0011-00379_246v_la_lb_1"/>cum
@@ -626,6 +617,72 @@
 						loqui ad vos evangelium
 						<lb facs="#Gr-Z_0011-00379_246v_la_line_28" n="28" xml:id="Gr-Z_0011-00379_246v_la_lb_28"/>
 						dei in multa sollicitudine : </p>
+				<!--folio 247r-->
+					<pb xml:id="Gr-Z_0011-00379_247r" n="247r"/>
+					<p>
+						<lb facs="#Gr-Z_0011-00379_247r_la_line_1" n="1" xml:id="Gr-Z_0011-00379_247r_la_lb_1"/>	<hi rend="red">ıııı</hi>
+						<lb facs="#Gr-Z_0011-00379_247r_la_line_2" n="2" xml:id="Gr-Z_0011-00379_247r_la_lb_2"/><milestone unit="verse" n="2:3"/> <hi rend="red">E</hi>xhortatio enim nostra non de e
+						<lb facs="#Gr-Z_0011-00379_247r_la_line_3" n="3" xml:id="Gr-Z_0011-00379_247r_la_lb_3"/>rrore neque de inmundi
+							<lb facs="#Gr-Z_0011-00379_247r_la_line_4" n="4" xml:id="Gr-Z_0011-00379_247r_la_lb_4"/>cia neque in dolo · <milestone unit="verse" n="2:4"/> sed sicut probati 
+						<lb facs="#Gr-Z_0011-00379_247r_la_line_5" n="5" xml:id="Gr-Z_0011-00379_247r_la_lb_5"/>	sumus a deo ut crede
+						<lb facs="#Gr-Z_0011-00379_247r_la_line_6" n="6" xml:id="Gr-Z_0011-00379_247r_la_lb_6"/>	retur nobis evangelium ita 
+						<lb facs="#Gr-Z_0011-00379_247r_la_line_7" n="7" xml:id="Gr-Z_0011-00379_247r_la_lb_7"/>	loquimur · non quasi hominibus 
+						<lb facs="#Gr-Z_0011-00379_247r_la_line_8" n="8" xml:id="Gr-Z_0011-00379_247r_la_lb_8"/>	placentes sed deo qui probat cor
+						<lb facs="#Gr-Z_0011-00379_247r_la_line_9" n="9" xml:id="Gr-Z_0011-00379_247r_la_lb_9"/>	da nostra  <hi rend="red">v</hi> <milestone unit="verse" n="2:5"/> <hi rend="red">N</hi>eque 
+						<lb facs="#Gr-Z_0011-00379_247r_la_line_10" n="10" xml:id="Gr-Z_0011-00379_247r_la_lb_10"/>	enim aliquando fuimus in sermo
+						<lb facs="#Gr-Z_0011-00379_247r_la_line_11" n="11" xml:id="Gr-Z_0011-00379_247r_la_lb_11"/>	ne adulationis sicut scitis 
+						<lb facs="#Gr-Z_0011-00379_247r_la_line_12" n="12" xml:id="Gr-Z_0011-00379_247r_la_lb_12"/>	neque in occasione avari
+									<lb facs="#Gr-Z_0011-00379_247r_la_line_13" n="13" xml:id="Gr-Z_0011-00379_247r_la_lb_13"/>	cie deus testis est <milestone unit="verse" n="2:6"/> nequae queren
+						<lb facs="#Gr-Z_0011-00379_247r_la_line_14" n="14" xml:id="Gr-Z_0011-00379_247r_la_lb_14"/>	tes ab hominibus gloriam ~ neque
+										<lb facs="#Gr-Z_0011-00379_247r_la_line_15" n="15" xml:id="Gr-Z_0011-00379_247r_la_lb_15"/>a vobis neque ab aliis  · <milestone unit="verse" n="2:7"/> cum 
+						<lb facs="#Gr-Z_0011-00379_247r_la_line_16" n="16" xml:id="Gr-Z_0011-00379_247r_la_lb_16"/>	possemus oneri esse ut 
+						<lb facs="#Gr-Z_0011-00379_247r_la_line_17" n="17" xml:id="Gr-Z_0011-00379_247r_la_lb_17"/>	christi apostoli · sed facti sumus 
+						<lb facs="#Gr-Z_0011-00379_247r_la_line_18" n="18" xml:id="Gr-Z_0011-00379_247r_la_lb_18"/>	paruuli in medio vestrum ·
+						<lb facs="#Gr-Z_0011-00379_247r_la_line_19" n="19" xml:id="Gr-Z_0011-00379_247r_la_lb_19"/>	Tamquam si nutrix foveat 
+											<lb facs="#Gr-Z_0011-00379_247r_la_line_20" n="20" xml:id="Gr-Z_0011-00379_247r_la_lb_20"/>	filios suos ~ <milestone unit="verse" n="2:8"/> ita desideran
+						<lb facs="#Gr-Z_0011-00379_247r_la_line_21" n="21" xml:id="Gr-Z_0011-00379_247r_la_lb_21"/>	tes vos cupide volebamus 
+						<lb facs="#Gr-Z_0011-00379_247r_la_line_22" n="22" xml:id="Gr-Z_0011-00379_247r_la_lb_22"/>	tradere vobis  · non solum 
+						<lb facs="#Gr-Z_0011-00379_247r_la_line_23" n="23" xml:id="Gr-Z_0011-00379_247r_la_lb_23"/>	evangelium dei sed etiam ani
+						<lb facs="#Gr-Z_0011-00379_247r_la_line_24" n="24" xml:id="Gr-Z_0011-00379_247r_la_lb_24"/>	mas nostras  · quoniam karissimi 
+						<lb facs="#Gr-Z_0011-00379_247r_la_line_25" n="25" xml:id="Gr-Z_0011-00379_247r_la_lb_25"/>	nobis facti estis <hi rend="red">vı</hi>
+						<lb facs="#Gr-Z_0011-00379_247r_la_line_26" n="26" xml:id="Gr-Z_0011-00379_247r_la_lb_26"/>	<milestone unit="verse" n="2:9"/><hi rend="red">M</hi>emores enim estis fratres · la
+						<lb facs="#Gr-Z_0011-00379_247r_la_line_27" n="27" xml:id="Gr-Z_0011-00379_247r_la_lb_27"/>	boris nostri et fatigationis<ptr type="noteAnchor" target="#Note_1Thess_la7"/>
+						<lb facs="#Gr-Z_0011-00379_247r_la_line_28" n="28" xml:id="Gr-Z_0011-00379_247r_la_lb_28"/>	nocte acdie operan
+						<lb facs="#Gr-Z_0011-00379_247r_la_line_29" n="29" xml:id="Gr-Z_0011-00379_247r_la_lb_29"/>	tes · ne aliquem<ptr type="noteAnchor" target="#Note_1Thess_la8"/>
+					
+				</p>
+					<!--folio 247v-->
+					<pb xml:id="Gr-Z_0011-00379_247v" n="247v"/>
+				<p>	
+					<lb facs="#Gr-Z_0011-00379_247v_la_line_1" n="1" xml:id="Gr-Z_0011-00379_247v_la_lb_1"/>	vestrum gravaremus · predi
+					<lb facs="#Gr-Z_0011-00379_247v_la_line_2" n="2" xml:id="Gr-Z_0011-00379_247v_la_lb_2"/>cavimus in vobis evangelium
+					<lb facs="#Gr-Z_0011-00379_247v_la_line_3" n="3" xml:id="Gr-Z_0011-00379_247v_la_lb_3"/>dei ·  <milestone unit="verse" n="2:10"/> Vos testes estis et 
+					<lb facs="#Gr-Z_0011-00379_247v_la_line_4" n="4" xml:id="Gr-Z_0011-00379_247v_la_lb_4"/>deus · quam sancte et iuste et 
+					<lb facs="#Gr-Z_0011-00379_247v_la_line_5" n="5" xml:id="Gr-Z_0011-00379_247v_la_lb_5"/>sine querela vobis qui 
+						<lb facs="#Gr-Z_0011-00379_247v_la_line_6" n="6" xml:id="Gr-Z_0011-00379_247v_la_lb_6"/>credidistis fuimus <milestone unit="verse" n="2:11"/> sicut 
+					<lb facs="#Gr-Z_0011-00379_247v_la_line_7" n="7" xml:id="Gr-Z_0011-00379_247v_la_lb_7"/>scitis · qualiter unum
+					<lb facs="#Gr-Z_0011-00379_247v_la_line_8" n="8" xml:id="Gr-Z_0011-00379_247v_la_lb_8"/>quemque vestrum tamquam pater filios 
+					<lb facs="#Gr-Z_0011-00379_247v_la_line_9" n="9" xml:id="Gr-Z_0011-00379_247v_la_lb_9"/>os<ptr type="noteAnchor" target="#Note_1Thess_la9"/> suos <milestone unit="verse" n="2:12"/> deprecantes vos et 
+					<lb facs="#Gr-Z_0011-00379_247v_la_line_10" n="10" xml:id="Gr-Z_0011-00379_247v_la_lb_10"/>consolantes · testificati sumus 
+					<lb facs="#Gr-Z_0011-00379_247v_la_line_11" n="11" xml:id="Gr-Z_0011-00379_247v_la_lb_11"/>ut ambularetis digne deo qui 
+					<lb facs="#Gr-Z_0011-00379_247v_la_line_12" n="12" xml:id="Gr-Z_0011-00379_247v_la_lb_12"/>vocavit vos in suum 
+							<lb facs="#Gr-Z_0011-00379_247v_la_line_13" n="13" xml:id="Gr-Z_0011-00379_247v_la_lb_13"/>regnum et gloriam · <milestone unit="verse" n="2:13"/> ideo 
+					<lb facs="#Gr-Z_0011-00379_247v_la_line_14" n="14" xml:id="Gr-Z_0011-00379_247v_la_lb_14"/>et nos gratias agimus deo 
+					<lb facs="#Gr-Z_0011-00379_247v_la_line_15" n="15" xml:id="Gr-Z_0011-00379_247v_la_lb_15"/>sine intermissione · quoniam 
+					<lb facs="#Gr-Z_0011-00379_247v_la_line_16" n="16" xml:id="Gr-Z_0011-00379_247v_la_lb_16"/>	cum accepissetis a nobis 
+					<lb facs="#Gr-Z_0011-00379_247v_la_line_17" n="17" xml:id="Gr-Z_0011-00379_247v_la_lb_17"/>	verbum auditus dei · acce
+					<lb facs="#Gr-Z_0011-00379_247v_la_line_18" n="18" xml:id="Gr-Z_0011-00379_247v_la_lb_18"/>pistis illud<ptr type="noteAnchor" target="#Note_1Thess_la10"/> non ut ver
+					<lb facs="#Gr-Z_0011-00379_247v_la_line_19" n="19" xml:id="Gr-Z_0011-00379_247v_la_lb_19"/>bum hominum · sed sicut est vere ver
+					<lb facs="#Gr-Z_0011-00379_247v_la_line_20" n="20" xml:id="Gr-Z_0011-00379_247v_la_lb_20"/>	bum dei qui operatur in vobis qui 
+					<lb facs="#Gr-Z_0011-00379_247v_la_line_21" n="21" xml:id="Gr-Z_0011-00379_247v_la_lb_21"/>	credidistis <hi rend="red">vıı</hi> <milestone unit="verse" n="2:14"/> <hi rend="red">V</hi>os enim 
+					<lb facs="#Gr-Z_0011-00379_247v_la_line_22" n="22" xml:id="Gr-Z_0011-00379_247v_la_lb_22"/>imitatores facti estis fratres ·
+					<lb facs="#Gr-Z_0011-00379_247v_la_line_23" n="23" xml:id="Gr-Z_0011-00379_247v_la_lb_23"/>ecclesiarum dei quae sunt in iu
+					<lb facs="#Gr-Z_0011-00379_247v_la_line_24" n="24" xml:id="Gr-Z_0011-00379_247v_la_lb_24"/>dea in christo iesu · quia ea
+					<lb facs="#Gr-Z_0011-00379_247v_la_line_25" n="25" xml:id="Gr-Z_0011-00379_247v_la_lb_25"/>dem passi estis et vos · a 
+					<lb facs="#Gr-Z_0011-00379_247v_la_line_26" n="26" xml:id="Gr-Z_0011-00379_247v_la_lb_26"/>contribulibus vestris · sicut 
+					<lb facs="#Gr-Z_0011-00379_247v_la_line_27" n="27" xml:id="Gr-Z_0011-00379_247v_la_lb_27"/>et ipsi a iudeis ·
+									<lb facs="#Gr-Z_0011-00379_247v_la_line_28" n="28" xml:id="Gr-Z_0011-00379_247v_la_lb_28"/><milestone unit="verse" n="2:15"/> qui et dominum occiderunt 
+				</p>
 				</body>
 			</text>
 		</group>
@@ -645,6 +702,12 @@
 				loci</emph></note>
 			<note  xml:id="Note_1Thess_la6">Only few manuscripts
 				have <emph>vobis</emph> here and not <emph>nobis</emph>. Influence from the Greek column?</note>
+			<note  xml:id="Note_1Thess_la7"><emph>laboris nostri et fatigationis</emph>: R Λ Φ k (vid.) &#x1D520;</note>
+			<note  xml:id="Note_1Thess_la8">In Weber-Gryson's edition: <emph>quem
+			</emph></note>
+			<note  xml:id="Note_1Thess_la9">The repetition of the ending -<emph>os</emph> seems to be a mistake.</note>
+			<note  xml:id="Note_1Thess_la10">add. <emph>illud</emph> as in: Φ &#x1D520;</note>
+			
 		</back>
 		
 	</text>
