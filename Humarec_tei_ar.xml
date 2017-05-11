@@ -135,15 +135,11 @@
 		</fileDesc>
 	</teiHeader>
 	<facsimile xml:id="facs_1">
-
-		<!--	<surface ulx="0" uly="0" lrx="4088" lry="3525" corresp="#Gr-Z_0011-00379_155v">
-			<graphic height="4088px" width="3525px" url="Gr-Z_0011-00379_155v.jpg"/>
-
-			<zone lrx="1824" lry="2979" ulx="1150" uly="2816" rendition="Line"
-				xml:id="facs_1_line_1481101770874_24" corresp="#Gr-Z_0011-00379_155v_l24"/>
-
-		</surface >
---><!--folio 155v-->
+	<!--folio 125r-->
+		<surface corresp="#Gr-Z_0011-00379_125r"><graphic url="..\Marciana Gr. Z. 11\Gr-Z_0011-00379_125r.jpg" width="3750px" height="4542px"></graphic><zone xml:id="Gr-Z_0011-00379_125r_ar_line_21" rendition="Line" ulx="1864" uly="2819" lrx="2552" lry="2954" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125r_ar_line_22" rendition="Line" ulx="1848" uly="2943" lrx="2566" lry="3096" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125r_ar_line_23" rendition="Line" ulx="1896" uly="3048" lrx="2566" lry="3184" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125r_ar_line_24" rendition="Line" ulx="1896" uly="3159" lrx="2562" lry="3280" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125r_ar_line_25" rendition="Line" ulx="1958" uly="3256" lrx="2572" lry="3394" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125r_ar_line_26" rendition="Line" ulx="2060" uly="3373" lrx="2560" lry="3494" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125r_ar_line_27" rendition="Line" ulx="2152" uly="3474" lrx="2546" lry="3608" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125r_ar_line_20" rendition="Line" ulx="1900" uly="2714" lrx="2578" lry="2842" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125r_ar_line_19" rendition="Line" ulx="1884" uly="2608" lrx="2572" lry="2744" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125r_ar_line_18" rendition="Line" ulx="1882" uly="2512" lrx="2572" lry="2640" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125r_ar_line__17" rendition="Line" ulx="1796" uly="2342" lrx="2562" lry="2534" rend="visible"></zone></surface>
+	<!--folio 125v-->
+		<surface corresp="#Gr-Z_0011-00379_125v"><graphic url="..\Marciana Gr. Z. 11\Gr-Z_0011-00379_125v.jpg" width="3525px" height="4088px"></graphic><zone xml:id="Gr-Z_0011-00379_125v_ar_line_1" rendition="Line" ulx="2913" uly="534" lrx="3333" lry="672" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_2" rendition="Line" ulx="2839" uly="634" lrx="3335" lry="760" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_3" rendition="Line" ulx="2753" uly="732" lrx="3329" lry="874" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_4" rendition="Line" ulx="2679" uly="842" lrx="3327" lry="960" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_5" rendition="Line" ulx="2693" uly="936" lrx="3325" lry="1044" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_6" rendition="Line" ulx="2845" uly="1026" lrx="3325" lry="1132" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_7" rendition="Line" ulx="2901" uly="1116" lrx="3311" lry="1238" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_8" rendition="Line" ulx="2845" uly="1216" lrx="3327" lry="1326" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_9" rendition="Line" ulx="2753" uly="1302" lrx="3317" lry="1420" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_10" rendition="Line" ulx="2685" uly="1396" lrx="3319" lry="1528" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_11" rendition="Line" ulx="2815" uly="1508" lrx="3323" lry="1622" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_12" rendition="Line" ulx="2769" uly="1606" lrx="3323" lry="1712" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_13" rendition="Line" ulx="2719" uly="1704" lrx="3311" lry="1818" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_14" rendition="Line" ulx="2721" uly="1796" lrx="3325" lry="1912" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_15" rendition="Line" ulx="2677" uly="1872" lrx="3323" lry="2004" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_16" rendition="Line" ulx="2697" uly="1980" lrx="3317" lry="2098" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_17" rendition="Line" ulx="2727" uly="2074" lrx="3321" lry="2186" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_18" rendition="Line" ulx="2771" uly="2170" lrx="3327" lry="2282" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_19" rendition="Line" ulx="2851" uly="2266" lrx="3327" lry="2366" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_20" rendition="Line" ulx="2825" uly="2352" lrx="3317" lry="2458" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_21" rendition="Line" ulx="2859" uly="2454" lrx="3321" lry="2578" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_22" rendition="Line" ulx="2821" uly="2556" lrx="3315" lry="2664" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_23" rendition="Line" ulx="3003" uly="2652" lrx="3367" lry="2760" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_24" rendition="Line" ulx="2881" uly="2744" lrx="3309" lry="2856" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_25" rendition="Line" ulx="2837" uly="2842" lrx="3295" lry="2956" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_26" rendition="Line" ulx="2957" uly="2924" lrx="3285" lry="3046" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_27" rendition="Line" ulx="2610" uly="3040" lrx="3291" lry="3146" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_125v_ar_line_28" rendition="Line" ulx="2883" uly="3132" lrx="3305" lry="3268" rend="visible"></zone></surface>
+	<!--folio 155v-->
 		<surface corresp="#Gr-Z_0011-00379_155v">
 			<graphic
 				url="..\..\..\..\Applications\MAMP\htdocs\Humarec_viewer\data\input_data\images\single\Gr-Z_0011-00379_155v.jpg"
@@ -224,6 +220,14 @@
 				lrx="2574" lry="3580" rend="visible"/>
 
 		</surface>
+		<!--folio 156v-->
+		<surface corresp="#Gr-Z_0011-00379_156v"><graphic url="..\Marciana Gr. Z. 11\Gr-Z_0011-00379_156v.jpg" width="3525px" height="4088px"></graphic><zone xml:id="Gr-Z_0011-00379_156v_ar_line_1" rendition="Line" ulx="2697" uly="513" lrx="3310" lry="636" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_2" rendition="Line" ulx="2720" uly="620" lrx="3319" lry="712" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_3" rendition="Line" ulx="2618" uly="703" lrx="3342" lry="806" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_4" rendition="Line" ulx="2665" uly="793" lrx="3318" lry="904" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_5" rendition="Line" ulx="2741" uly="893" lrx="3313" lry="1004" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_6" rendition="Line" ulx="2760" uly="1001" lrx="3313" lry="1097" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_7" rendition="Line" ulx="2760" uly="1095" lrx="3305" lry="1196" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_8" rendition="Line" ulx="2704" uly="1193" lrx="3295" lry="1292" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_9" rendition="Line" ulx="2750" uly="1291" lrx="3310" lry="1392" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_10" rendition="Line" ulx="2782" uly="1377" lrx="3314" lry="1493" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_11" rendition="Line" ulx="2786" uly="1489" lrx="3313" lry="1600" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_12" rendition="Line" ulx="2892" uly="1572" lrx="3299" lry="1687" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_13" rendition="Line" ulx="2740" uly="1682" lrx="3312" lry="1807" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_14" rendition="Line" ulx="2649" uly="1768" lrx="3313" lry="1888" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_15" rendition="Line" ulx="2762" uly="1877" lrx="3312" lry="1997" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_16" rendition="Line" ulx="2853" uly="1985" lrx="3320" lry="2092" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_17" rendition="Line" ulx="2892" uly="2077" lrx="3348" lry="2202" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_18" rendition="Line" ulx="2854" uly="2179" lrx="3346" lry="2295" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_19" rendition="Line" ulx="2832" uly="2284" lrx="3345" lry="2382" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_20" rendition="Line" ulx="2888" uly="2363" lrx="3343" lry="2476" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_21" rendition="Line" ulx="2949" uly="2469" lrx="3346" lry="2592" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_22" rendition="Line" ulx="2948" uly="2573" lrx="3331" lry="2678" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_23" rendition="Line" ulx="2820" uly="2663" lrx="3335" lry="2770" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_24" rendition="Line" ulx="2752" uly="2772" lrx="3345" lry="2877" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_25" rendition="Line" ulx="2758" uly="2860" lrx="3343" lry="2981" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_26" rendition="Line" ulx="2766" uly="2959" lrx="3355" lry="3075" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_27" rendition="Line" ulx="2682" uly="3060" lrx="3350" lry="3176" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_156v_ar_line_28" rendition="Line" ulx="2765" uly="3145" lrx="3345" lry="3280" rend="visible"></zone></surface>
+		<!--folio 157r-->
+		<surface corresp="#Gr-Z_0011-00379_157r"><graphic url="..\Marciana Gr. Z. 11\Gr-Z_0011-00379_157r.jpg" width="3750px" height="4542px"></graphic><zone xml:id="Gr-Z_0011-00379_157r_ar_line_1" rendition="Line" ulx="2015" uly="667" lrx="2584" lry="791" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_2" rendition="Line" ulx="2056" uly="757" lrx="2587" lry="883" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_3" rendition="Line" ulx="2114" uly="867" lrx="2597" lry="999" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_4" rendition="Line" ulx="2210" uly="977" lrx="2588" lry="1078" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_5" rendition="Line" ulx="2094" uly="1061" lrx="2588" lry="1176" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_6" rendition="Line" ulx="2080" uly="1159" lrx="2592" lry="1270" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_7" rendition="Line" ulx="2112" uly="1258" lrx="2592" lry="1376" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_8" rendition="Line" ulx="2003" uly="1354" lrx="2597" lry="1499" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_9" rendition="Line" ulx="1998" uly="1472" lrx="2593" lry="1593" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_10" rendition="Line" ulx="2216" uly="1587" lrx="2590" lry="1707" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_11" rendition="Line" ulx="2066" uly="1685" lrx="2600" lry="1807" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_12" rendition="Line" ulx="2050" uly="1790" lrx="2589" lry="1899" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_13" rendition="Line" ulx="2214" uly="1891" lrx="2601" lry="2008" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_14" rendition="Line" ulx="2024" uly="2000" lrx="2616" lry="2116" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_15" rendition="Line" ulx="2099" uly="2106" lrx="2611" lry="2216" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_16" rendition="Line" ulx="2148" uly="2206" lrx="2612" lry="2325" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_17" rendition="Line" ulx="2103" uly="2310" lrx="2618" lry="2413" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_18" rendition="Line" ulx="2100" uly="2404" lrx="2609" lry="2514" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_19" rendition="Line" ulx="2076" uly="2514" lrx="2629" lry="2630" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_20" rendition="Line" ulx="2058" uly="2627" lrx="2619" lry="2739" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_21" rendition="Line" ulx="2079" uly="2726" lrx="2614" lry="2862" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_22" rendition="Line" ulx="2024" uly="2832" lrx="2620" lry="2936" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_23" rendition="Line" ulx="1994" uly="2932" lrx="2619" lry="3051" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_24" rendition="Line" ulx="1966" uly="3026" lrx="2615" lry="3147" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_25" rendition="Line" ulx="2016" uly="3140" lrx="2615" lry="3258" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_26" rendition="Line" ulx="2000" uly="3239" lrx="2612" lry="3372" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_27" rendition="Line" ulx="1976" uly="3334" lrx="2612" lry="3456" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_157r_ar_line_28" rendition="Line" ulx="2058" uly="3444" lrx="2627" lry="3562" rend="visible"></zone></surface>
+		<!--folio 207v-->
+		<surface corresp="#Gr-Z_0011-00379_207v"><graphic url="..\Marciana Gr. Z. 11\Gr-Z_0011-00379_207v.jpg" width="3600px" height="4088px"></graphic><zone xml:id="Gr-Z_0011-00379_207v_ar_line_1" rendition="Line" ulx="2578" uly="986" lrx="3366" lry="1136" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_2" rendition="Line" ulx="2736" uly="1132" lrx="3370" lry="1252" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_3" rendition="Line" ulx="2798" uly="1224" lrx="3368" lry="1340" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_4" rendition="Line" ulx="2688" uly="1326" lrx="3370" lry="1456" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_5" rendition="Line" ulx="2868" uly="1432" lrx="3374" lry="1544" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_6" rendition="Line" ulx="2800" uly="1530" lrx="3374" lry="1646" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_7" rendition="Line" ulx="2822" uly="1628" lrx="3364" lry="1744" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_8" rendition="Line" ulx="2736" uly="1732" lrx="3352" lry="1840" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_9" rendition="Line" ulx="2836" uly="1822" lrx="3374" lry="1942" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_10" rendition="Line" ulx="2844" uly="1916" lrx="3364" lry="2038" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_11" rendition="Line" ulx="2898" uly="2020" lrx="3364" lry="2124" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_12" rendition="Line" ulx="2764" uly="2094" lrx="3364" lry="2222" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_13" rendition="Line" ulx="2838" uly="2202" lrx="3354" lry="2314" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_14" rendition="Line" ulx="2832" uly="2300" lrx="3360" lry="2426" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_15" rendition="Line" ulx="2984" uly="2396" lrx="3362" lry="2514" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_16" rendition="Line" ulx="2826" uly="2508" lrx="3428" lry="2626" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_17" rendition="Line" ulx="2670" uly="2606" lrx="3352" lry="2716" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_18" rendition="Line" ulx="2712" uly="2690" lrx="3356" lry="2812" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_19" rendition="Line" ulx="2718" uly="2796" lrx="3348" lry="2920" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_20" rendition="Line" ulx="2806" uly="2896" lrx="3350" lry="3008" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_21" rendition="Line" ulx="2794" uly="2984" lrx="3348" lry="3100" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_22" rendition="Line" ulx="2930" uly="3086" lrx="3342" lry="3194" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_23" rendition="Line" ulx="2744" uly="3166" lrx="3342" lry="3304" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_24" rendition="Line" ulx="1906" uly="2778" lrx="2652" lry="2882" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_25" rendition="Line" ulx="1894" uly="2874" lrx="2720" lry="2976" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_26" rendition="Line" ulx="1900" uly="2970" lrx="2742" lry="3078" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_27" rendition="Line" ulx="1896" uly="3062" lrx="2714" lry="3154" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_207v_ar_line_28" rendition="Line" ulx="1902" uly="3158" lrx="2618" lry="3270" rend="visible"></zone></surface>
+		<!--folio 208r-->
+		<surface corresp="#Gr-Z_0011-00379_208r"><graphic url="..\Marciana Gr. Z. 11\Gr-Z_0011-00379_208r.jpg" width="3750px" height="4542px"></graphic><zone xml:id="Gr-Z_0011-00379_208r_ar_line_1" rendition="Line" ulx="2166" uly="608" lrx="2678" lry="740" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_2" rendition="Line" ulx="2172" uly="724" lrx="2676" lry="830" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_3" rendition="Line" ulx="2164" uly="820" lrx="2676" lry="928" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_4" rendition="Line" ulx="2174" uly="916" lrx="2674" lry="1042" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_5" rendition="Line" ulx="2144" uly="1030" lrx="2674" lry="1142" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_6" rendition="Line" ulx="2150" uly="1124" lrx="2686" lry="1246" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_7" rendition="Line" ulx="2016" uly="1220" lrx="2676" lry="1346" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_8" rendition="Line" ulx="2124" uly="1334" lrx="2676" lry="1458" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_9" rendition="Line" ulx="2092" uly="1442" lrx="2684" lry="1552" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_10" rendition="Line" ulx="1942" uly="1540" lrx="2684" lry="1674" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_11" rendition="Line" ulx="1964" uly="1642" lrx="2682" lry="1750" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_12" rendition="Line" ulx="1970" uly="1718" lrx="2700" lry="1868" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_13" rendition="Line" ulx="2032" uly="1840" lrx="2690" lry="1966" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_14" rendition="Line" ulx="1934" uly="1956" lrx="2694" lry="2066" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_15" rendition="Line" ulx="1950" uly="2044" lrx="2688" lry="2168" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_16" rendition="Line" ulx="2028" uly="2160" lrx="2694" lry="2294" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_17" rendition="Line" ulx="2146" uly="2246" lrx="2694" lry="2372" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_18" rendition="Line" ulx="2184" uly="2356" lrx="2726" lry="2480" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_19" rendition="Line" ulx="2228" uly="2468" lrx="2714" lry="2576" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_20" rendition="Line" ulx="2096" uly="2548" lrx="2702" lry="2670" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_21" rendition="Line" ulx="2056" uly="2656" lrx="2708" lry="2780" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_22" rendition="Line" ulx="2052" uly="2756" lrx="2698" lry="2880" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_23" rendition="Line" ulx="2082" uly="2864" lrx="2694" lry="2988" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_24" rendition="Line" ulx="2052" uly="2964" lrx="2708" lry="3084" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_25" rendition="Line" ulx="1984" uly="3064" lrx="2706" lry="3180" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_26" rendition="Line" ulx="2174" uly="3156" lrx="2704" lry="3272" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_27" rendition="Line" ulx="2262" uly="3258" lrx="2702" lry="3368" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_208r_ar_line_28" rendition="Line" ulx="2372" uly="3354" lrx="2710" lry="3474" rend="visible"></zone></surface>
 		<!--folio 246r-->
 		<surface corresp="#Gr-Z_0011-00379_246r">
 			<graphic url="..\Marciana Gr. Z. 11\Gr-Z_0011-00379_246r.jpg" width="3750px"
@@ -292,6 +296,7 @@
 			<zone corresp="#Gr-Z_0011-00379_hotspot_ar_246r_01" xml:id="Gr-Z_0011-00379_hs_ar_246r_01" rendition="HotSpot" ulx="2111" uly="1688" lrx="2235" lry="1803" rend="visible"></zone>
 			
 		</surface>
+	
 		<!--folio 246v-->
 		<surface corresp="#Gr-Z_0011-00379_246v">
 			<graphic url="..\Marciana Gr. Z. 11\Gr-Z_0011-00379_246v.jpg" width="3600px" height="4088px"></graphic><zone xml:id="Gr-Z_0011-00379_246v_ar_line_1" rendition="Line" ulx="2740" uly="552" lrx="3376" lry="664" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_2" rendition="Line" ulx="2976" uly="652" lrx="3402" lry="766" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_3" rendition="Line" ulx="2898" uly="742" lrx="3406" lry="848" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_4" rendition="Line" ulx="2878" uly="836" lrx="3412" lry="962" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_5" rendition="Line" ulx="2804" uly="942" lrx="3408" lry="1052" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_6" rendition="Line" ulx="2902" uly="1050" lrx="3412" lry="1164" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_7" rendition="Line" ulx="2796" uly="1142" lrx="3406" lry="1278" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_8" rendition="Line" ulx="2727" uly="1236" lrx="3411" lry="1366" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_9" rendition="Line" ulx="2724" uly="1340" lrx="3407" lry="1458" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_10" rendition="Line" ulx="2958" uly="1443" lrx="3406" lry="1570" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_11" rendition="Line" ulx="2956" uly="1554" lrx="3410" lry="1668" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_12" rendition="Line" ulx="2922" uly="1641" lrx="3406" lry="1756" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_13" rendition="Line" ulx="2806" uly="1752" lrx="3404" lry="1876" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_14" rendition="Line" ulx="3066" uly="1848" lrx="3416" lry="1962" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_15" rendition="Line" ulx="2796" uly="1942" lrx="3440" lry="2054" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_16" rendition="Line" ulx="2798" uly="2032" lrx="3415" lry="2164" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_17" rendition="Line" ulx="2920" uly="2128" lrx="3418" lry="2254" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_18" rendition="Line" ulx="2836" uly="2232" lrx="3424" lry="2352" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_19" rendition="Line" ulx="2822" uly="2340" lrx="3428" lry="2447" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_20" rendition="Line" ulx="2838" uly="2422" lrx="3432" lry="2546" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_21" rendition="Line" ulx="2844" uly="2533" lrx="3428" lry="2644" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_22" rendition="Line" ulx="2852" uly="2632" lrx="3424" lry="2746" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_23" rendition="Line" ulx="2820" uly="2730" lrx="3424" lry="2838" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_24" rendition="Line" ulx="2858" uly="2842" lrx="3426" lry="2948" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_25" rendition="Line" ulx="2816" uly="2932" lrx="3431" lry="3066" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_26" rendition="Line" ulx="3082" uly="3044" lrx="3420" lry="3158" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_27" rendition="Line" ulx="2837" uly="3130" lrx="3422" lry="3240" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_246v_ar_line_28" rendition="Line" ulx="2764" uly="3200" lrx="3422" lry="3339" rend="visible"></zone>			
@@ -305,12 +310,76 @@
 		<surface corresp="#Gr-Z_0011-00379_247v"><graphic url="..\Marciana Gr. Z. 11\Gr-Z_0011-00379_247v.jpg" width="3600px" height="4088px"></graphic><zone xml:id="Gr-Z_0011-00379_247v_ar_line_1" rendition="Line" ulx="2694" uly="496" lrx="3408" lry="658" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_2" rendition="Line" ulx="2896" uly="640" lrx="3406" lry="756" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_3" rendition="Line" ulx="2944" uly="740" lrx="3404" lry="862" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_4" rendition="Line" ulx="2842" uly="818" lrx="3400" lry="962" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_5" rendition="Line" ulx="2862" uly="926" lrx="3404" lry="1054" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_6" rendition="Line" ulx="2892" uly="1036" lrx="3402" lry="1152" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_7" rendition="Line" ulx="2748" uly="1114" lrx="3424" lry="1256" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_8" rendition="Line" ulx="2738" uly="1224" lrx="3418" lry="1362" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_9" rendition="Line" ulx="2892" uly="1332" lrx="3412" lry="1462" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_10" rendition="Line" ulx="2780" uly="1442" lrx="3414" lry="1554" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_11" rendition="Line" ulx="2782" uly="1544" lrx="3406" lry="1660" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_12" rendition="Line" ulx="2886" uly="1640" lrx="3398" lry="1768" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_13" rendition="Line" ulx="3060" uly="1760" lrx="3392" lry="1864" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_14" rendition="Line" ulx="2958" uly="1834" lrx="3400" lry="1956" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_15" rendition="Line" ulx="2914" uly="1938" lrx="3402" lry="2046" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_16" rendition="Line" ulx="2880" uly="2028" lrx="3414" lry="2152" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_17" rendition="Line" ulx="2780" uly="2122" lrx="3410" lry="2254" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_18" rendition="Line" ulx="2778" uly="2222" lrx="3424" lry="2354" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_19" rendition="Line" ulx="2760" uly="2334" lrx="3422" lry="2446" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_20" rendition="Line" ulx="2726" uly="2426" lrx="3424" lry="2554" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_21" rendition="Line" ulx="2880" uly="2532" lrx="3422" lry="2658" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_22" rendition="Line" ulx="2906" uly="2634" lrx="3422" lry="2762" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_23" rendition="Line" ulx="2920" uly="2734" lrx="3300" lry="2860" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_24" rendition="Line" ulx="2724" uly="2842" lrx="3314" lry="2982" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_25" rendition="Line" ulx="2752" uly="2930" lrx="3428" lry="3062" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_26" rendition="Line" ulx="2948" uly="3026" lrx="3428" lry="3148" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_27" rendition="Line" ulx="3006" uly="3122" lrx="3428" lry="3250" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_247v_ar_line_28" rendition="Line" ulx="2882" uly="3214" lrx="3430" lry="3354" rend="visible"></zone>
 		
 		<!--hotspot-->	
-	<zone corresp="#Gr-Z_0011-00379_hotspot_ar_247v_01" xml:id="Gr-Z_0011-00379_hs_ar_247v_01" rendition="HotSpot" ulx="3286" uly="2744" lrx="3420" lry="2914" rend="visible"></zone>
+	<zone corresp="#Gr-Z_0011-00379_hotspot_ar_247v_01" xml:id="Gr-Z_0011-00379_hs_ar_247v_01" rendition="HotSpot" ulx="3286" uly="2744" lrx="3420" lry="2914" rend="visible"></zone></surface>
+		<!--folio 248r-->
+			
+		<surface corresp="#Gr-Z_0011-00379_248r"><graphic url="..\Marciana Gr. Z. 11\Gr-Z_0011-00379_248r.jpg" width="3750px" height="4542px"></graphic><zone xml:id="Gr-Z_0011-00379_248r_ar_line_1" rendition="Line" ulx="2240" uly="755" lrx="2651" lry="863" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_2" rendition="Line" ulx="2110" uly="845" lrx="2659" lry="957" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_3" rendition="Line" ulx="2035" uly="955" lrx="2650" lry="1078" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_4" rendition="Line" ulx="2018" uly="1045" lrx="2649" lry="1168" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_5" rendition="Line" ulx="2158" uly="1149" lrx="2645" lry="1273" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_6" rendition="Line" ulx="1966" uly="1240" lrx="2647" lry="1375" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_7" rendition="Line" ulx="1996" uly="1354" lrx="2648" lry="1490" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_8" rendition="Line" ulx="1904" uly="1447" lrx="2643" lry="1583" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_9" rendition="Line" ulx="2038" uly="1558" lrx="2631" lry="1687" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_10" rendition="Line" ulx="2026" uly="1676" lrx="2627" lry="1792" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_11" rendition="Line" ulx="1894" uly="1726" lrx="2617" lry="1891" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_12" rendition="Line" ulx="1878" uly="1859" lrx="2619" lry="2011" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_13" rendition="Line" ulx="1914" uly="1971" lrx="2605" lry="2106" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_14" rendition="Line" ulx="1928" uly="2068" lrx="2604" lry="2201" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_15" rendition="Line" ulx="2143" uly="2182" lrx="2610" lry="2290" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_16" rendition="Line" ulx="2068" uly="2264" lrx="2621" lry="2391" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_17" rendition="Line" ulx="2028" uly="2375" lrx="2607" lry="2499" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_18" rendition="Line" ulx="1999" uly="2482" lrx="2599" lry="2598" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_19" rendition="Line" ulx="2126" uly="2584" lrx="2597" lry="2695" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_20" rendition="Line" ulx="1922" uly="2666" lrx="2595" lry="2799" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_21" rendition="Line" ulx="1994" uly="2784" lrx="2597" lry="2912" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_22" rendition="Line" ulx="1975" uly="2892" lrx="2595" lry="3024" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_23" rendition="Line" ulx="2038" uly="2990" lrx="2587" lry="3109" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_24" rendition="Line" ulx="2044" uly="3094" lrx="2583" lry="3209" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_25" rendition="Line" ulx="2003" uly="3194" lrx="2582" lry="3314" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_26" rendition="Line" ulx="1851" uly="3280" lrx="2582" lry="3409" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_27" rendition="Line" ulx="2003" uly="3396" lrx="2587" lry="3507" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248r_ar_line_28" rendition="Line" ulx="2020" uly="3498" lrx="2589" lry="3622" rend="visible"></zone></surface>
+		<!--folio 248v-->
 		
-	</surface>
+		<surface corresp="#Gr-Z_0011-00379_248v"><graphic url="..\Marciana Gr. Z. 11\Gr-Z_0011-00379_248v.jpg" width="3600px" height="4088px"></graphic><zone xml:id="Gr-Z_0011-00379_248v_ar_line_1" rendition="Line" ulx="2823" uly="515" lrx="3417" lry="643" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_2" rendition="Line" ulx="2777" uly="625" lrx="3422" lry="757" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_3" rendition="Line" ulx="3123" uly="726" lrx="3407" lry="858" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_4" rendition="Line" ulx="2947" uly="818" lrx="3411" lry="937" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_5" rendition="Line" ulx="3076" uly="922" lrx="3408" lry="1028" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_6" rendition="Line" ulx="2825" uly="1012" lrx="3406" lry="1124" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_7" rendition="Line" ulx="2982" uly="1102" lrx="3418" lry="1216" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_8" rendition="Line" ulx="2839" uly="1204" lrx="3416" lry="1334" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_9" rendition="Line" ulx="2790" uly="1298" lrx="3418" lry="1434" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_10" rendition="Line" ulx="2832" uly="1413" lrx="3413" lry="1521" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_11" rendition="Line" ulx="2929" uly="1503" lrx="3411" lry="1639" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_12" rendition="Line" ulx="2751" uly="1611" lrx="3402" lry="1719" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_13" rendition="Line" ulx="2768" uly="1705" lrx="3411" lry="1828" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_14" rendition="Line" ulx="2828" uly="1813" lrx="3427" lry="1943" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_15" rendition="Line" ulx="2867" uly="1899" lrx="3419" lry="2033" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_16" rendition="Line" ulx="3107" uly="2009" lrx="3408" lry="2128" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_17" rendition="Line" ulx="2960" uly="2121" lrx="3424" lry="2229" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_18" rendition="Line" ulx="3024" uly="2205" lrx="3427" lry="2327" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_19" rendition="Line" ulx="2799" uly="2312" lrx="3435" lry="2429" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_20" rendition="Line" ulx="2817" uly="2405" lrx="3441" lry="2530" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_21" rendition="Line" ulx="3004" uly="2500" lrx="3435" lry="2625" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_22" rendition="Line" ulx="2806" uly="2607" lrx="3420" lry="2728" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_23" rendition="Line" ulx="2850" uly="2715" lrx="3424" lry="2819" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_24" rendition="Line" ulx="2876" uly="2810" lrx="3431" lry="2928" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_25" rendition="Line" ulx="2799" uly="2884" lrx="3428" lry="3019" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_26" rendition="Line" ulx="2863" uly="3003" lrx="3426" lry="3125" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_27" rendition="Line" ulx="2883" uly="3083" lrx="3427" lry="3206" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_28" rendition="Line" ulx="2812" uly="3179" lrx="3409" lry="3309" rend="visible"></zone></surface>
+			
 	</facsimile>
 	<text  xml:id="Paul_transcript" n="Paul">
 		<group>
+			<text xml:lang="ar" rend="ar" xml:id="Paul_transcript_Rom" n="Rom">
+				<body>
+					<div type="verse">
+						<!--folio 125r-->
+						<pb xml:id="Gr-Z_0011-00379_125r" facs="#Gr-Z_0011-00379_125r" n="125r"/>	
+					<p>
+						<lb facs="#Gr-Z_0011-00379_125r_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_125r_ar_lb_17"/><hi rend="red">	و هذه رساله بولس احواري
+						<lb facs="#Gr-Z_0011-00379_125r_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_125r_ar_lb_18"/>	الى الرمانين « « « «
+						<lb facs="#Gr-Z_0011-00379_125r_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_125r_ar_lb_19"/>	بسم الثالوث الواحد
+						<lb facs="#Gr-Z_0011-00379_125r_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_125r_ar_lb_20"/>	المقدس المبارك المحمود
+						<lb facs="#Gr-Z_0011-00379_125r_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_125r_ar_lb_21"/>	فى دهور العالمين امين</hi>
+						<lb facs="#Gr-Z_0011-00379_125r_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_125r_ar_lb_22"/>	<milestone unit="verse" n="1:1"/> من بولس عند يسوع المسيح <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_125r_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_125r_ar_lb_23"/>	المدعو بالرسول <hi rend="red">//</hi> المنتحب
+						<lb facs="#Gr-Z_0011-00379_125r_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_125r_ar_lb_24"/>	انجيل اللّه <hi rend="red">//</hi> <milestone unit="verse" n="1:2"/> الدي وعد به
+						<lb facs="#Gr-Z_0011-00379_125r_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_125r_ar_lb_25"/>	‫<choice><reg>من قبل</reg><orig>مں ٯبل</orig></choice> <hi rend="red">//</hi> على السن انبايه <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_125r_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_125r_ar_lb_26"/>	في كتب مقدّسه <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_125r_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_125r_ar_lb_27"/>	<milestone unit="verse" n="1:3"/> بابنه الذي
+						</p>
+						<!--folio 125v-->
+						<pb xml:id="Gr-Z_0011-00379_125v" facs="#Gr-Z_0011-00379_125v" n="125v"/>	
+						<p>
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_125v_ar_lb_1"/>	خلق <choice><reg>من</reg><orig>مں</orig></choice> <choice><orig>رريعة</orig><reg>زريعة</reg></choice>
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_125v_ar_lb_2"/>	داود من <choice><orig>طريٯ‬</orig><reg>طريق‬</reg></choice> اللحمه <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_125v_ar_lb_3"/>	<milestone unit="verse" n="1:4"/> و المجتوم ابنًا اللّه <hi rend="red">//</hi> بالقدره
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_125v_ar_lb_4"/>	على حسب روح القدس <hi rend="red">//</hi> عن
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_125v_ar_lb_5"/>	قيامه يسوع ربنا عن الموتى
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_125v_ar_lb_6"/>	<milestone unit="verse" n="1:5"/> الذي به نلنا امتنان
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_125v_ar_lb_7"/>	الرساله <hi rend="red">//</hi> ليطيع جميع
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_125v_ar_lb_8"/>	الاجناس مُسارعون
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_125v_ar_lb_9"/>	الى الايمان باسمه <hi rend="red">//</hi> <milestone unit="verse" n="1:6"/> الذى
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_125v_ar_lb_10"/>	منهم دعيتم الى يسوع المسيح <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_125v_ar_lb_11"/>	<milestone unit="verse" n="1:7"/> الى جميع <choice><reg>من</reg><orig>مں</orig></choice> برومه <hi rend="red">//</hi> <choice><orig>احبا</orig><reg>احباء</reg></choice>
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_125v_ar_lb_12"/>	الله المدعين مقدسين <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_125v_ar_lb_13"/>	كان الامتنان و السّلم من
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_125v_ar_lb_14"/>	اللّه ابينا <hi rend="red">//</hi> و الرب يسوع
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_125v_ar_lb_15"/>	المسيح معكم و لكم وعلىكم4 <hi rend="red">//</hi> <milestone unit="verse" n="1:8"/> اما
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_125v_ar_lb_16"/>	بعد فانى اشكر الاهي بيسوع
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_125v_ar_lb_17"/>	المسيح عن جميعكم <hi rend="red">//</hi> <choice><reg>من</reg><orig>مں</orig></choice> ايمانكم
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_125v_ar_lb_18"/>	الذي قد انتشر <choice><reg>في</reg><orig>ڡى</orig></choice> جميع
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_125v_ar_lb_19"/>	الدنيا <hi rend="red">//</hi> <milestone unit="verse" n="1:9"/> و شاهدي
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_125v_ar_lb_20"/>	اللّه الذى انا اخدمه
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_125v_ar_lb_21"/>	بروحى بانجيل ابنه <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_125v_ar_lb_22"/>	انى اذكركم بلا فقور
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_125v_ar_lb_23"/>	<milestone unit="verse" n="1:10"/> <choice><reg>في</reg><orig>ڡى</orig></choice> صلواتى <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_125v_ar_lb_24"/>	راغبًا اليه <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_125v_ar_lb_25"/>	ان يجعل لي يومًا مَا <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_125v_ar_lb_26"/>	سبيلًا سهلًا
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_125v_ar_lb_27"/>	للقدوم عليكم بمشيّه اللّه <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_125v_ar_lb_28"/>	<milestone unit="verse" n="1:11"/> فانى اشتاق الي
+							
+							
+							
+							
+							
+						</p>
+					</div>
+				</body>
+			</text>
+			
 			<text xml:lang="ar" rend="ar" xml:id="Paul_transcript_1Cor" n="1 Cor">
 				<body>
 					<pb xml:id="Gr-Z_0011-00379_155v" facs="#Gr-Z_0011-00379_155v" n="155v"/>
@@ -397,16 +466,157 @@
 						المسيح ربنا <hi rend="red">//</hi>
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_156r_ar_lb_27"/>
 						<milestone unit="verse" n="1:10"/> و انا <choice>
-						</choice> يا معشر
+							<orig>اس<hi rend="exp">ء</hi>لكم</orig>
+						<reg>اسألكم</reg></choice> يا معشر
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_156r_ar_lb_28"/>
 						اخوتي <hi rend="red">//</hi> بحق اسم </p>
+					
+					<!--folio 156v-->
+					<pb xml:id="Gr-Z_0011-00379_156v" facs="#Gr-Z_0011-00379_156v" n="156v"/>
+					
+					<p>
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_156v_ar_lb_1"/>	ربنا يسوع المسيح <hi rend="red">//</hi> ان نقولوا 
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_156v_ar_lb_2"/>	اجمعون بهذه الماقله <hi rend="red">//</hi> وَ لَا
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_156v_ar_lb_3"/>	يكون فيكم <choice><orig>الاحتلاف</orig><reg>الاختلاف</reg></choice> و الشتات <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_156v_ar_lb_4"/>	و ان تكونوا كلكم كاملين <choice><orig>ڡي</orig><reg>في</reg></choice> ذلك
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_156v_ar_lb_5"/>	المعنَى <hi rend="red">//</hi> و فى <choice><orig>ىلك</orig><reg>تلك</reg></choice> المقاله <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_156v_ar_lb_6"/>	<milestone unit="verse" n="1:11"/> فقد نبغنى عنكم يا معشر
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_156v_ar_lb_7"/>	اخوتي <hi rend="red">//</hi> بقول اهل قلوان <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_156v_ar_lb_8"/>	ان بينكم منازعه و مذاهب
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_156v_ar_lb_9"/>	الشتات <hi rend="red">//</hi> <milestone unit="verse" n="1:12"/> و انا اقول 
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_156v_ar_lb_10"/>	لكم مَا يقوله كل واحد
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_156v_ar_lb_11"/>	منكم زعهتم <hi rend="red">//</hi> انا لبولس
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_156v_ar_lb_12"/>	و انا لابلّوا <hi rend="red">//</hi> و انا 
+								<lb facs="#Gr-Z_0011-00379_156v_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_156v_ar_lb_13"/>	لكيفا و انا للمسيح <milestone unit="verse" n="1:13"/> فالمسيح
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_156v_ar_lb_14"/>	اذًا مقسومٌ <hi rend="red">//</hi> هل صُلب بولس
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_156v_ar_lb_15"/>	عنكم <hi rend="red">//</hi> اوصبغتم على اسم
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_156v_ar_lb_16"/>	بولس <hi rend="red">//</hi> <milestone unit="verse" n="1:14"/> انا احمد 
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_156v_ar_lb_17"/>	إلَهي <hi rend="red">//</hi> انى مَا عمّدت
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_156v_ar_lb_18"/>	منكم وَاحدًا <hi rend="red">//</hi> ما عدا
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_156v_ar_lb_19"/>	قرسبس و غاييوس <hi rend="red">//</hi>
+										<lb facs="#Gr-Z_0011-00379_156v_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_156v_ar_lb_20"/>	<milestone unit="verse" n="1:15"/> ليلا يقول احدٌ انكم 
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_156v_ar_lb_21"/>	صُبغتم<ptr type="noteAnchor" target="#Note_1Cor_ar1"/> على اسمى <hi rend="red">//</hi>
+											<lb facs="#Gr-Z_0011-00379_156v_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_156v_ar_lb_22"/>	<milestone unit="verse" n="1:16"/> و قد صبغت بيت
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_156v_ar_lb_23"/>	اصطفنه <hi rend="red">//</hi> فامّا غيرهم 
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_156v_ar_lb_24"/>	فلستُ اعرف انى صبغته <hi rend="red">//</hi>
+												<lb facs="#Gr-Z_0011-00379_156v_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_156v_ar_lb_25"/>	<milestone unit="verse" n="1:17"/> فلم يبعثنى المسيح لصَبغه
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_156v_ar_lb_26"/>	المهوديّه<ptr type="noteAnchor" target="#Note_1Cor_ar2"/> <hi rend="red">//</hi> بل بعثنى بالانداد 
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_156v_ar_lb_27"/>	و البشرا <hi rend="red">//</hi>  وليس بحكمة المنطق <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_156v_ar_lb_28"/>	ليلّا يبطل صَلب المسيح <hi rend="red">//</hi>
+					</p>
+					<!--folio 157r-->
+					<pb xml:id="Gr-Z_0011-00379_157r" facs="#Gr-Z_0011-00379_157r" n="157r"/>
+					<p>
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_157r_ar_lb_1"/>	<milestone unit="verse" n="1:18"/> فان القول بالصليب <hi rend="red">//</hi> هو
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_157r_ar_lb_2"/>	جهل عند <choice><orig>الظالّين</orig><reg>الضالّين</reg></choice> <hi rend="red">//</hi> و هو
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_157r_ar_lb_3"/>	للمنجيّن و نحن اوليك
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_157r_ar_lb_4"/>	قدره اللّه <hi rend="red">//
+</hi>							<lb facs="#Gr-Z_0011-00379_157r_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_157r_ar_lb_5"/>	<milestone unit="verse" n="1:19"/> فقد كتب <hi rend="red">//</hi> سَاُتلف
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_157r_ar_lb_6"/>	حكمه العلما <hi rend="red">//</hi> و امقت
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_157r_ar_lb_7"/>	نُبل النُّبلا <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_157r_ar_lb_8"/>	اعراضًا عنه <hi rend="red">//</hi> <milestone unit="verse" n="1:20"/> اين الحكيم <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_157r_ar_lb_9"/>	ابن الكاتب <hi rend="red">//</hi> اين طالب هذه
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_157r_ar_lb_10"/>	الدنيا <hi rend="red">//</hi> اليس قد 
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_157r_ar_lb_11"/>	استجهل اللّه علم
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_157r_ar_lb_12"/>	هذه الدّنيا <hi rend="red">//</hi> <milestone unit="verse" n="1:21"/> فكما انه
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_157r_ar_lb_13"/>	 <choice><orig>كاں</orig><reg>كان</reg></choice> <choice><orig>ڡى</orig><reg>في</reg></choice> علم اللّه <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_157r_ar_lb_14"/>	الا يفهم اهل الدّنيا اللّه 
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_157r_ar_lb_15"/>	بعلمهم <hi rend="red">//</hi> اراد اللّه 
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_157r_ar_lb_16"/>	ان يخلّص المومنين
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_157r_ar_lb_17"/>	بجهاله الشارعين <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_157r_ar_lb_18"/>	<milestone unit="verse" n="1:22"/> لان اليهود <choice><orig>يس<hi rend="exp">ء</hi>لون</orig><reg>يسألون</reg></choice>
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_157r_ar_lb_19"/>	الايات <hi rend="red">//</hi> و اليونانين
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_157r_ar_lb_20"/>	يطلبون الحكمه <hi rend="red">//</hi>
+										<lb facs="#Gr-Z_0011-00379_157r_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_157r_ar_lb_21"/>	<milestone unit="verse" n="1:23"/> و نحن نشرع ان المسيح
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_157r_ar_lb_22"/>	صلب <hi rend="red">//</hi> و هذا القول
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_157r_ar_lb_23"/>	عند اليهود فتنه الزلق  <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_157r_ar_lb_24"/>	و عند اليونانين جهل و نقصٌ <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_157r_ar_lb_25"/>	<milestone unit="verse" n="1:24"/> و عند المدعين و اليهود <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_157r_ar_lb_26"/>		و اليونانين المسيح قدره اللّه <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_157r_ar_lb_27"/>		وَ عِلم اللّه <hi rend="red">//</hi> <milestone unit="verse" n="1:25"/> لان الذي هو جهل
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_157r_ar_lb_28"/>		عند اللّه <hi rend="red">//</hi> هو اعلم
+						
+						
+						
+						
+						
+						
+					</p>
 				</body>
 
 			</text>
-			<text xml:lang="ar" rend="ar" xml:id="Paul_transcript_1Thess" n="1 Thess">
+			<text xml:lang="ar" rend="ar" xml:id="Paul_transcript_Gal" n="Gal">
+				<body>
+					<div type="verse">
+						<!--folio 207v-->
+						<pb facs="#Gr-Z_0011-00379_207v" xml:id="Gr-Z_0011-00379_207v" n="207v"/>
+						<p>
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_207v_ar_lb_1"/><hi rend="red">	رسله بولس الى اهل غلاطيه</hi>
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_207v_ar_lb_2"/>	<milestone unit="verse" n="1:1"/> من بولس الرّسول <hi rend="red">//</hi> لا رسول
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_207v_ar_lb_3"/>	الناس و لا من انسان <hi rend="red">//</hi> بل
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_207v_ar_lb_4"/>	رسول يسوع المسيح و الله الاب 
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_207v_ar_lb_5"/>	<choice><orig>الدي</orig><reg>الذي</reg></choice> احياهُ عن الموتا <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_207v_ar_lb_6"/>	<milestone unit="verse" n="1:2"/> و <choice><orig>مں</orig><reg>من</reg></choice> جميع الاخوه الذين معى
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_207v_ar_lb_7"/>	الى جميع بيع غلاطيه <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_207v_ar_lb_8"/>	<milestone unit="verse" n="1:3"/> كان التفضل عليكم و السلم
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_207v_ar_lb_9"/>	<choice><orig>مں</orig><reg>من</reg></choice> الله ابينا و الرب 
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_207v_ar_lb_10"/>	يسوع المسيح <hi rend="red">//</hi> <milestone unit="verse" n="1:4"/> الذي
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_207v_ar_lb_11"/>	بذل نفسه لاجل
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_207v_ar_lb_12"/>	ذنوبنا <hi rend="red">//</hi> ان يخلّصنا مں هذا
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_207v_ar_lb_13"/>	العالم السو <hi rend="red">//</hi> الحاضر
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_207v_ar_lb_14"/>	على قدر ارادة اللّه
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_207v_ar_lb_15"/>	ابينا <hi rend="red">//</hi> <milestone unit="verse" n="1:5"/> له العزه
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_207v_ar_lb_16"/>	<choice><orig>ڡى</orig></choice> عالم العوالم امن <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_207v_ar_lb_17"/>	<milestone unit="verse" n="1:6"/> اما بعد فانى اتعجب مَا اسرع
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_207v_ar_lb_18"/>	مَا تتقلبون <hi rend="red">//</hi> عن الذي دعاكم
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_207v_ar_lb_19"/>	الى امتنان المسيح <hi rend="red">//</hi> الى انجيلٍ
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_207v_ar_lb_20"/>	اخرٍ <milestone unit="verse" n="1:7"/> و ليس هو غيره <hi rend="red">//</hi> الّا
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_207v_ar_lb_21"/>	انّ بعض ناس يخبّلونكم <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_207v_ar_lb_22"/>	و يرومون ازاله
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_207v_ar_lb_23"/>	انجيل المسيح <hi rend="red">//</hi> <milestone unit="verse" n="1:8"/> و لكن
+												</p>
+						<!--folio 208r-->
+						<pb facs="#Gr-Z_0011-00379_208r" xml:id="Gr-Z_0011-00379_208r" n="208r"/>
+						<p>
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_208r_ar_lb_1"/>	ان نحن او مَلك مں السّما 
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_208r_ar_lb_2"/>	يبشركم بخلاف مَا
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_208r_ar_lb_3"/>	بشرناكم به <hi rend="red">//</hi> فعليه 
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_208r_ar_lb_4"/>	اللّعن <hi rend="red">//</hi> <milestone unit="verse" n="1:9"/> 
+							فكما قلنا<ptr type="noteAnchor" target="#Note_Gal_ar1"/>
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_208r_ar_lb_5"/>	فكذلك ايضى فلنقل<ptr type="noteAnchor" target="#Note_Gal_ar2"/> <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_208r_ar_lb_6"/>	كلمن بشركم بخلاف
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_208r_ar_lb_7"/>	مَا حملتم عنا فعليه اللعن <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_208r_ar_lb_8"/>	<milestone unit="verse" n="1:10"/> فانا الان <choice><orig>مں</orig><reg>من</reg></choice> استرضى اثرا
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_208r_ar_lb_9"/>	الله ام الناس <hi rend="red">//</hi> ام هل 
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_208r_ar_lb_10"/>	اطلب مرضات الناس <hi rend="red">//</hi> أيم اللّه<ptr type="noteAnchor" target="#Note_Gal_ar3"/>
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_208r_ar_lb_11"/>	انى لو استرضيت بعد الناس مَا
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_208r_ar_lb_12"/>	كنت للمسيح عبدًا <hi rend="red">//</hi> <milestone unit="verse" n="1:11"/> و انا اعلمكم
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_208r_ar_lb_13"/>	<ptr type="noteAnchor" target="#Note_Gal_ar4"/> ان شريعه البشرى <hi rend="red">//</hi> التى اشرعَها
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_208r_ar_lb_14"/>	ليسَت مُستفاده <choice><orig>مں</orig><reg>من</reg></choice> عند انسان <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_208r_ar_lb_15"/>	<milestone unit="verse" n="1:12"/> و لا تعلمتها <choice><orig>مں</orig><reg>من</reg></choice> ادمي // و لا استفدتها
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_208r_ar_lb_16"/>	منه <hi rend="red">//</hi> الا بايجاب<ptr type="noteAnchor" target="#Note_Gal_ar5"/> يسوع المسيح <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_208r_ar_lb_17"/>	<milestone unit="verse" n="1:13"/> و قد بلغكم كينونتى مرّه
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_208r_ar_lb_18"/>	<choice><orig>ڡى</orig><reg>في</reg></choice> اليهود <hi rend="red">//</hi> و انى <choice><orig>اسدّ</orig><reg>اشدّ</reg></choice>
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_208r_ar_lb_19"/>	الناس طلبًا لبيعه
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_208r_ar_lb_20"/>	اللّه <hi rend="red">//</hi> و كنتُ اعاديها
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_208r_ar_lb_21"/>	و احنق عليها <hi rend="red">//</hi> <milestone unit="verse" n="1:14"/> و كنتُ في
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_208r_ar_lb_22"/>	اليهود اشرف حالًا من كثير
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_208r_ar_lb_23"/>	من نظراي <choice><orig>مں</orig><reg>من</reg></choice> اهل رهطى
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_208r_ar_lb_24"/>	و قبيلتى <hi rend="red">//</hi> اذ كنت اكثرهم
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_208r_ar_lb_25"/>	شُحًا بفرايض اباي و ذبًا عنهم <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_208r_ar_lb_26"/>	<milestone unit="verse" n="1:15"/> فلما شا الذى خزلنى
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_208r_ar_lb_27"/>	<choice><orig>مں</orig><reg>من</reg></choice> بطن امى <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_208r_ar_lb_28"/>	و دعانى
+							
+						</p>
+					</div>
+				</body>
+			</text>
+			
+			<text xml:lang="ar" rend="ar" xml:id="Paul_transcript_1Thes" n="1 Thes">
 				<body>
 					<!--folio 246r-->
-					<pb xml:id="Gr-Z_0011-00379_246r" n="246r"/>
+					<pb xml:id="Gr-Z_0011-00379_246r" facs="#Gr-Z_0011-00379_246r" n="246r"/>
 					<p>
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_246r_ar_lb_1"/><milestone
 							unit="verse" n="1:1"/> من بولس و سلوانس
@@ -490,7 +700,7 @@
 						</choice> كثير <hi rend="red">//</hi>
 					</p>
 					<!--folio 246v-->
-					<pb xml:id="Gr-Z_0011-00379_246v" n="246v"/>
+					<pb xml:id="Gr-Z_0011-00379_246v" facs="#Gr-Z_0011-00379_246v" n="246v"/>
 					<p>
 						<lb facs="#Gr-Z_0011-00379_246v_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_246v_ar_lb_1"/>	بسرور روح القدس <hi rend="red">//</hi> <milestone unit="verse" n="1:7"/> حتى
 						<lb facs="#Gr-Z_0011-00379_246v_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_246v_ar_lb_2"/>	صرتم قالبًا لجميع
@@ -507,7 +717,7 @@
 						<lb facs="#Gr-Z_0011-00379_246v_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_246v_ar_lb_13"/>		اليكم <hi rend="red">//</hi> و كيف رجعتم 
 						<lb facs="#Gr-Z_0011-00379_246v_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_246v_ar_lb_14"/>		الى اللّه <hi rend="red">//</hi> عن 
 						<lb facs="#Gr-Z_0011-00379_246v_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_246v_ar_lb_15"/>		الاوثان <hi rend="red">//</hi> ان تعبدوا اللّه
-						<lb facs="#Gr-Z_0011-00379_246v_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_246v_ar_lb_16"/>		الحيّ اليقين <hi rend="red">//</hi> <milestone unit="verse" n="1:10"/> و ان ننتظروا<ptr type="noteAnchor" target="#Note_1Thess_ar1"/>
+						<lb facs="#Gr-Z_0011-00379_246v_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_246v_ar_lb_16"/>		الحيّ اليقين <hi rend="red">//</hi> <milestone unit="verse" n="1:10"/> و ان ننتظروا<ptr type="noteAnchor" target="#Note_1Thes_ar1"/>
 						<lb facs="#Gr-Z_0011-00379_246v_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_246v_ar_lb_17"/>		ابنه من السموات <hi rend="red">//</hi>
 						<lb facs="#Gr-Z_0011-00379_246v_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_246v_ar_lb_18"/>		الذي اقامه <choice><orig>مں‬</orig><reg>من</reg></choice> <choice><orig>ىىں</orig><reg>بين</reg></choice> الموتا <hi rend="red">//</hi>
 						<lb facs="#Gr-Z_0011-00379_246v_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_246v_ar_lb_19"/>		يسوع الذي خلصنا من 
@@ -524,7 +734,7 @@
 						
 					</p>
 					<!--folio 247r-->
-					<pb xml:id="Gr-Z_0011-00379_247r" n="247r"/>
+					<pb xml:id="Gr-Z_0011-00379_247r" facs="#Gr-Z_0011-00379_247r" n="247r"/>
 					<p>
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_247r_ar_lb_1"/>
 						<milestone unit="verse" n="2:3"/> فان ارشادنا لكم ليس
@@ -537,7 +747,7 @@
 							بلوناه من اللّه
 							<hi rend="red">//</hi> ان
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_247r_ar_lb_5"/>
-						تقبلوا منا<ptr type="noteAnchor" target="#Note_1Thess_ar2"/> الانجيل كذلك
+						تقبلوا منا<ptr type="noteAnchor" target="#Note_1Thes_ar2"/> الانجيل كذلك
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_247r_ar_lb_6"/>
 						نقول <hi rend="red">//</hi> و ليس كمن يستحمد الي
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_247r_ar_lb_7"/>
@@ -560,11 +770,11 @@
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_247r_ar_lb_15"/>
 						و لا من غيركم <hi rend="red">//</hi> كل ذلك
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_247r_ar_lb_16"/>
-						ان نكون عند جميعكم مكرمين <hi rend="red">//</hi>
+						<milestone unit="verse" n="2:7"/> ان نكون عند جميعكم مكرمين <hi rend="red">//</hi>
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_247r_ar_lb_17"/>
-						كرسل المسيح <hi rend="red">//</hi> <milestone unit="verse" n="2:7"/> و  لقد صرنا 
+						كرسل المسيح <hi rend="red">//</hi> و  لقد صرنا 
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_247r_ar_lb_18"/>
-						اطفالًا بينكم <hi rend="red">//</hi> كمثل الطير<ptr type="noteAnchor" target="#Note_1Thess_ar3"/>
+						اطفالًا بينكم <hi rend="red">//</hi> كمثل الطير<ptr type="noteAnchor" target="#Note_1Thes_ar3"/>
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_247r_ar_lb_19"/>
 						الحاضنه لاولادها <hi rend="red">//</hi>
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_247r_ar_lb_20"/>
@@ -604,7 +814,7 @@
 						<lb facs="#Gr-Z_0011-00379_247v_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_247v_ar_lb_4"/>	و اللّه <hi rend="red">//</hi> فاصلح مَا كنا
 						<lb facs="#Gr-Z_0011-00379_247v_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_247v_ar_lb_5"/>	لكم و اعدل <hi rend="red">//</hi> و بلا شكيه
 						<lb facs="#Gr-Z_0011-00379_247v_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_247v_ar_lb_6"/>	<choice><orig>يايها</orig><reg>يا ايها</reg></choice> الذين امنتم <hi rend="red">//</hi>
-						<lb facs="#Gr-Z_0011-00379_247v_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_247v_ar_lb_7"/>	<milestone unit="verse" n="2:11"/> كالذي تعلمون <choice><orig>كيڡ</orig><reg>كيف</reg></choice> تضرعنا<ptr type="noteAnchor" target="#Note_1Thess_ar4"/>
+						<lb facs="#Gr-Z_0011-00379_247v_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_247v_ar_lb_7"/>	<milestone unit="verse" n="2:11"/> كالذي تعلمون <choice><orig>كيڡ</orig><reg>كيف</reg></choice> تضرعنا<ptr type="noteAnchor" target="#Note_1Thes_ar4"/>
 						<lb facs="#Gr-Z_0011-00379_247v_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_247v_ar_lb_8"/>	الى كل واحدٍ منكم <hi rend="red">//</hi> كالاب الي
 								<lb facs="#Gr-Z_0011-00379_247v_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_247v_ar_lb_9"/>	اولاده <hi rend="red">//</hi> <milestone unit="verse" n="2:12"/> طالبين اليكم
 						<lb facs="#Gr-Z_0011-00379_247v_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_247v_ar_lb_10"/>	و معزين لكم <hi rend="red">//</hi> و شهدنا ان 
@@ -628,6 +838,123 @@
 									<lb facs="#Gr-Z_0011-00379_247v_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_247v_ar_lb_28"/>	اليهود <hi rend="red">//</hi> <milestone unit="verse" n="2:15"/> الذين قتلوا
 						
 					</p>
+					<!--folio 248r-->
+					
+					<pb facs="#Gr-Z_0011-00379_248r" xml:id="Gr-Z_0011-00379_248r" n="248r"/>
+					<p>
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_248r_ar_lb_1"/>	الرب يسوع <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_248r_ar_lb_2"/>	و <choice><orig>الانبيا</orig><reg>الانبياء</reg></choice> <hi rend="red">//</hi> و طالبونا
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_248r_ar_lb_3"/>	و لم يرضَ الله عنهم <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_248r_ar_lb_4"/>	و يخالفوا جميع الناس <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_248r_ar_lb_5"/>	<milestone unit="verse" n="2:16"/> و يمنعونا الدخول
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_248r_ar_lb_6"/>	اليكم <hi rend="red">//</hi> ان نكالم الاجناس ان
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_248r_ar_lb_7"/>	تتخلص سالمه <hi rend="red">//</hi> <choice><orig>ا‫ں‬</orig><reg>ان</reg></choice> يوعبوا
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_248r_ar_lb_8"/>	ذنوبهم ابدًا <hi rend="red">//</hi> فقد غافصهم سخط
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_248r_ar_lb_9"/>	اللّه<ptr type="noteAnchor" target="#Note_1Thes_ar5"/> و نزل اليهم <hi rend="red">//</hi> حتى الى
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_248r_ar_lb_10"/>	الانقراض <hi rend="red">//</hi> <milestone unit="verse" n="2:17"/> و امّا <choice><orig>ىحں</orig><reg>نحن</reg></choice>
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_248r_ar_lb_11"/>	<choice><orig>‬ىاخوتى</orig><reg>يا يخوتي</reg></choice> فانا مستوحشون لكم <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_248r_ar_lb_12"/>	الى زمان ساعه <hi rend="red">//</hi> بالوجه و ليس
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_248r_ar_lb_13"/>	بالقلب <hi rend="red">//</hi> فلقد سَارعنا جدا
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_248r_ar_lb_14"/>	الى رويه وجوهكم <hi rend="red">//</hi> شوق
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_248r_ar_lb_15"/>	شديد <hi rend="red">//</hi> <milestone unit="verse" n="2:18"/> لانا اردنا
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_248r_ar_lb_16"/>	الاقبال اليكم <hi rend="red">//</hi> انا
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_248r_ar_lb_17"/>	بولس مرّه و ثانيه <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_248r_ar_lb_18"/>	فعارضنا الشيطان <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_248r_ar_lb_19"/>	<milestone unit="verse" n="2:19"/> فماذا <choice><orig>رجانا</orig><reg>رجاؤنا</reg></choice> <hi rend="red">//</hi> او
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_248r_ar_lb_20"/>	سرورنا <hi rend="red">//</hi> و اكليل فخرنا <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_248r_ar_lb_21"/>	اليس انتم امام ربنا
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_248r_ar_lb_22"/>	يسوع المسيح <hi rend="red">//</hi> فى حين
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_248r_ar_lb_23"/>	اقباله <hi rend="red">//</hi> <milestone unit="verse" n="2:20"/> فانتم عزّتنا
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_248r_ar_lb_24"/>	و سرورنا <hi rend="red">//</hi> <milestone unit="verse" n="3:1"/> و لذلك لا
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_248r_ar_lb_25"/>	تنتظرونا<ptr type="noteAnchor" target="#Note_1Thes_ar6"/> بعدها <hi rend="red">//</hi> فقد
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_248r_ar_lb_26"/>		رضينا ان نمكث باثينس
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_248r_ar_lb_27"/>		خاصّه فرادًا <hi rend="red">//</hi> <milestone unit="verse" n="3:2"/> و بعثنا
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_248r_ar_lb_28"/>		تيموثاوس اخانا <hi rend="red">//</hi>
+						
+					</p>	
+					
+					<!--folio 248r-->
+					
+					<pb facs="#Gr-Z_0011-00379_248v" xml:id="Gr-Z_0011-00379_248v" n="248v"/>
+					
+					<p>
+						<lb facs="#Gr-Z_0011-00379_248v_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_248v_ar_lb_1"/>
+						و خادم اللّه<ptr type="noteAnchor" target="#Note_1Thes_ar7"/> بانجيل
+						<lb facs="#Gr-Z_0011-00379_248v_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_248v_ar_lb_2"/>
+						المسيح // لتثبيتكم و ارشادكم
+						<lb facs="#Gr-Z_0011-00379_248v_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_248v_ar_lb_3"/>
+						و موعضتكم
+						<lb facs="#Gr-Z_0011-00379_248v_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_248v_ar_lb_4"/>
+							لدينكم<ptr type="noteAnchor" target="#Note_1Thes_ar8"/> // <milestone
+							unit="verse" n="3:3"/> الا يتزلزل
+						<lb facs="#Gr-Z_0011-00379_248v_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_248v_ar_lb_5"/>
+						احد فى هذه
+						<lb facs="#Gr-Z_0011-00379_248v_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_248v_ar_lb_6"/>
+						الاحزان // فقد تعلمون
+						<lb facs="#Gr-Z_0011-00379_248v_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_248v_ar_lb_7"/>
+						انا لتلك جعلنا // <lb facs="#Gr-Z_0011-00379_248v_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_248v_ar_lb_8"/>
+						<milestone unit="verse" n="3:4"/> فان يوم كوننا عندكم //
+						<lb facs="#Gr-Z_0011-00379_248v_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_248v_ar_lb_9"/>
+						كنا نخبركم بما سَوف نلقى
+						<lb facs="#Gr-Z_0011-00379_248v_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_248v_ar_lb_10"/>
+						من الكروب // كما قد كان
+						<lb facs="#Gr-Z_0011-00379_248v_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_248v_ar_lb_11"/>
+						تعرفونه // <milestone unit="verse" n="3:5"/> و لذلك لم <lb facs="#Gr-Z_0011-00379_248v_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_248v_ar_lb_12"/>
+						<choice>
+							<orig>اترفٯ</orig>
+							<reg>اترفق</reg>
+						</choice><ptr type="noteAnchor" target="#Note_1Thes_ar9"/> اكثر// فبعثت
+						لمعرفه
+						<lb facs="#Gr-Z_0011-00379_248v_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_248v_ar_lb_13"/>
+						ايمانكم حزرًا // من ان يمتحنكم
+						<lb facs="#Gr-Z_0011-00379_248v_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_248v_ar_lb_14"/>
+						ذا الذي يمتحن // <choice>
+							<orig>فىكون</orig>
+							<reg>فيكون</reg>
+						</choice> عملنا
+						<lb facs="#Gr-Z_0011-00379_248v_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_248v_ar_lb_15"/>
+						بوارًا // <milestone unit="verse" n="3:6"/>
+						<choice>
+							<orig>فالأ‫ں‬</orig>
+							<reg>فالآن‬</reg>
+						</choice> اذًا اقبل
+						<lb facs="#Gr-Z_0011-00379_248v_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_248v_ar_lb_16"/>
+						تيموثاوس
+						<lb facs="#Gr-Z_0011-00379_248v_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_248v_ar_lb_17"/>
+						الينا من عندكم //
+						<lb facs="#Gr-Z_0011-00379_248v_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_248v_ar_lb_18"/>
+						و بشرنا بايمانكم
+						<lb facs="#Gr-Z_0011-00379_248v_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_248v_ar_lb_19"/>
+						و محبتكم // و انكم <choice>
+							<orig>تذكرونثا</orig>
+							<reg>تذكروننا</reg>
+						</choice>
+						<lb facs="#Gr-Z_0011-00379_248v_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_248v_ar_lb_20"/>
+						خير ذكر // و تشتاقون
+						<lb facs="#Gr-Z_0011-00379_248v_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_248v_ar_lb_21"/>
+						ابدًا رويتنا // كما
+						<lb facs="#Gr-Z_0011-00379_248v_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_248v_ar_lb_22"/>
+						نشتاق نحن الى رويتكم // <lb facs="#Gr-Z_0011-00379_248v_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_248v_ar_lb_23"/>
+						<milestone unit="verse" n="3:7"/> فتعزينا لذلك // <choice>
+							<orig>ياخوتى</orig>
+							<reg>ياخوتى</reg>
+						</choice>
+						<lb facs="#Gr-Z_0011-00379_248v_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_248v_ar_lb_24"/>
+						بكم <choice>
+							<orig>ڡى</orig>
+							<reg>في</reg>
+						</choice> جميع احزاننا //
+						<lb facs="#Gr-Z_0011-00379_248v_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_248v_ar_lb_25"/>
+						و احتياجنا // لاجل ايمانكم // <lb facs="#Gr-Z_0011-00379_248v_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_248v_ar_lb_26"/>
+						<milestone unit="verse" n="3:8"/> لاننا الان نعيش اذ انتم
+						<lb facs="#Gr-Z_0011-00379_248v_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_248v_ar_lb_27"/>
+						ثابتون <choice>
+							<orig>ڡى</orig>
+							<reg>في</reg>
+						</choice> الرب //
+						<lb facs="#Gr-Z_0011-00379_248v_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_248v_ar_lb_28"/>
+						فايما شكر للّه نقوا على </p>
+					
 				</body>
 			</text>
 		</group>
@@ -646,10 +973,25 @@
 					</figure>
 				</div>
 			</div>
-			<note xml:id="Note_1Thess_ar1">We would expect a 2nd-person plural here تنتظروا</note>
-			<note xml:id="Note_1Thess_ar2">The meaning "that you receive the Gospel from us" slightly differs from Greek and Latin</note>
-			<note xml:id="Note_1Thess_ar3">Mention of "the bird" comes probably from the Latin <emph>fovere</emph></note>
-			<note xml:id="Note_1Thess_ar4">Original reading</note>
-		</back>
+			 
+			<note xml:id="Note_1Cor_ar1">The Arabic column has a 2nd-person plural; Greek and Latin have a 1st-person singular</note>
+			<note xml:id="Note_1Cor_ar2">Singular reading</note>
+			<note xml:id="Note_Gal_ar1">See note in Latin column</note>
+			<note xml:id="Note_Gal_ar2">اقل was expected (in Latin: <emph>dico</emph>; in Greek: λέγω)</note>
+			<note xml:id="Note_Gal_ar3">This expression is surprising in this context</note>
+			<note xml:id="Note_Gal_ar4">No mention of brothers as in Greek and Latin</note>
+			<note xml:id="Note_Gal_ar5">In the edition of Vat. Lat. 12900: ايحاء. Error in the present text?</note>
+			<note xml:id="Note_Gal_ar6">Singular reading</note>
+			<note xml:id="Note_Gal_ar7">Singular reading</note>
+			<note xml:id="Note_1Thes_ar1">We would expect a 2nd-person plural here تنتظروا</note>
+			<note xml:id="Note_1Thes_ar2">The meaning "that you receive the Gospel from us" slightly differs from Greek and Latin</note>
+			<note xml:id="Note_1Thes_ar3">Mention of "the bird" comes probably from the Latin <emph>fovere</emph></note>
+			<note xml:id="Note_1Thes_ar4">Original reading</note>
+			<note xml:id="Note_1Thes_ar5">As in the Latin column</note>
+			<note xml:id="Note_1Thes_ar6">The meaning "because of that you shouldn't wait for us" differs from the Greek and the Latin</note>
+			<note xml:id="Note_1Thes_ar7">Similar reading as in the Latin column; Greek column differs</note>
+			<note xml:id="Note_1Thes_ar8">Interesting translation for πίστεως / <emph>fide</emph></note>
+			<note xml:id="Note_1Thes_ar9">We suppose اترفق. Meaning?</note>
+			 	</back>
 	</text>
 </TEI>
