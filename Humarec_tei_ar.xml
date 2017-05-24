@@ -29,7 +29,7 @@
 
 			<publicationStmt>
 				<authority>Humarec Vital-DH project@Vital-IT </authority>
-				<date>2016</date>
+				<date>2016-2017</date>
 				<availability status="unknown">
 					<p>Visit the Humarec Homepage for more information.</p>
 				</availability>
@@ -317,8 +317,20 @@
 		<!--folio 248v-->
 		
 		<surface corresp="#Gr-Z_0011-00379_248v"><graphic url="..\Marciana Gr. Z. 11\Gr-Z_0011-00379_248v.jpg" width="3600px" height="4088px"></graphic><zone xml:id="Gr-Z_0011-00379_248v_ar_line_1" rendition="Line" ulx="2823" uly="515" lrx="3417" lry="643" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_2" rendition="Line" ulx="2777" uly="625" lrx="3422" lry="757" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_3" rendition="Line" ulx="3123" uly="726" lrx="3407" lry="858" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_4" rendition="Line" ulx="2947" uly="818" lrx="3411" lry="937" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_5" rendition="Line" ulx="3076" uly="922" lrx="3408" lry="1028" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_6" rendition="Line" ulx="2825" uly="1012" lrx="3406" lry="1124" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_7" rendition="Line" ulx="2982" uly="1102" lrx="3418" lry="1216" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_8" rendition="Line" ulx="2839" uly="1204" lrx="3416" lry="1334" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_9" rendition="Line" ulx="2790" uly="1298" lrx="3418" lry="1434" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_10" rendition="Line" ulx="2832" uly="1413" lrx="3413" lry="1521" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_11" rendition="Line" ulx="2929" uly="1503" lrx="3411" lry="1639" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_12" rendition="Line" ulx="2751" uly="1611" lrx="3402" lry="1719" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_13" rendition="Line" ulx="2768" uly="1705" lrx="3411" lry="1828" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_14" rendition="Line" ulx="2828" uly="1813" lrx="3427" lry="1943" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_15" rendition="Line" ulx="2867" uly="1899" lrx="3419" lry="2033" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_16" rendition="Line" ulx="3107" uly="2009" lrx="3408" lry="2128" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_17" rendition="Line" ulx="2960" uly="2121" lrx="3424" lry="2229" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_18" rendition="Line" ulx="3024" uly="2205" lrx="3427" lry="2327" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_19" rendition="Line" ulx="2799" uly="2312" lrx="3435" lry="2429" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_20" rendition="Line" ulx="2817" uly="2405" lrx="3441" lry="2530" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_21" rendition="Line" ulx="3004" uly="2500" lrx="3435" lry="2625" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_22" rendition="Line" ulx="2806" uly="2607" lrx="3420" lry="2728" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_23" rendition="Line" ulx="2850" uly="2715" lrx="3424" lry="2819" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_24" rendition="Line" ulx="2876" uly="2810" lrx="3431" lry="2928" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_25" rendition="Line" ulx="2799" uly="2884" lrx="3428" lry="3019" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_26" rendition="Line" ulx="2863" uly="3003" lrx="3426" lry="3125" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_27" rendition="Line" ulx="2883" uly="3083" lrx="3427" lry="3206" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_248v_ar_line_28" rendition="Line" ulx="2812" uly="3179" lrx="3409" lry="3309" rend="visible"></zone></surface>
-			
+		<!--folio 249r-->
+		<surface corresp="#Gr-Z_0011-00379_249r"><graphic url="..\Marciana Gr. Z. 11\Gr-Z_0011-00379_249r.jpg" width="3750px" height="4542px"></graphic><zone xml:id="Gr-Z_0011-00379_249r_ar_line_1" rendition="Line" ulx="2100" uly="702" lrx="2652" lry="832" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_2" rendition="Line" ulx="2110" uly="826" lrx="2652" lry="938" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_3" rendition="Line" ulx="2110" uly="928" lrx="2640" lry="1050" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_4" rendition="Line" ulx="2102" uly="1024" lrx="2642" lry="1134" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_5" rendition="Line" ulx="2200" uly="1126" lrx="2634" lry="1244" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_6" rendition="Line" ulx="2104" uly="1222" lrx="2624" lry="1350" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_7" rendition="Line" ulx="2104" uly="1340" lrx="2618" lry="1456" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_8" rendition="Line" ulx="2122" uly="1452" lrx="2612" lry="1556" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_9" rendition="Line" ulx="2070" uly="1554" lrx="2612" lry="1654" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_10" rendition="Line" ulx="2020" uly="1648" lrx="2624" lry="1770" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_11" rendition="Line" ulx="2064" uly="1758" lrx="2628" lry="1864" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_12" rendition="Line" ulx="2096" uly="1848" lrx="2620" lry="1964" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_13" rendition="Line" ulx="2012" uly="1952" lrx="2616" lry="2066" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_14" rendition="Line" ulx="2120" uly="2052" lrx="2622" lry="2174" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_15" rendition="Line" ulx="2222" uly="2142" lrx="2634" lry="2276" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_16" rendition="Line" ulx="2204" uly="2262" lrx="2620" lry="2366" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_17" rendition="Line" ulx="2026" uly="2360" lrx="2620" lry="2470" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_18" rendition="Line" ulx="2094" uly="2466" lrx="2608" lry="2578" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_19" rendition="Line" ulx="2136" uly="2576" lrx="2610" lry="2688" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_20" rendition="Line" ulx="2120" uly="2684" lrx="2608" lry="2800" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_21" rendition="Line" ulx="2112" uly="2780" lrx="2618" lry="2896" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_22" rendition="Line" ulx="2190" uly="2870" lrx="2600" lry="2998" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_23" rendition="Line" ulx="2026" uly="2976" lrx="2604" lry="3096" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_24" rendition="Line" ulx="2068" uly="3090" lrx="2600" lry="3206" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_25" rendition="Line" ulx="1850" uly="3168" lrx="2596" lry="3284" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_26" rendition="Line" ulx="1948" uly="3262" lrx="2588" lry="3396" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_27" rendition="Line" ulx="1868" uly="3362" lrx="2592" lry="3488" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249r_ar_line_28" rendition="Line" ulx="1876" uly="3470" lrx="2580" lry="3602" rend="visible"></zone></surface>	
+		<!--folio 249v-->
+		<surface corresp="#Gr-Z_0011-00379_249v"><graphic url="..\Marciana Gr. Z. 11\Gr-Z_0011-00379_249v.jpg" width="3600px" height="4088px"></graphic><zone xml:id="Gr-Z_0011-00379_249v_ar_line_1" rendition="Line" ulx="2741" uly="507" lrx="3389" lry="636" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_2" rendition="Line" ulx="2815" uly="617" lrx="3394" lry="741" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_3" rendition="Line" ulx="2792" uly="720" lrx="3375" lry="833" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_4" rendition="Line" ulx="2828" uly="807" lrx="3388" lry="911" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_5" rendition="Line" ulx="2763" uly="895" lrx="3388" lry="1019" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_6" rendition="Line" ulx="2997" uly="1003" lrx="3386" lry="1107" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_7" rendition="Line" ulx="2708" uly="1105" lrx="3391" lry="1218" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_8" rendition="Line" ulx="2913" uly="1207" lrx="3397" lry="1318" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_9" rendition="Line" ulx="2847" uly="1304" lrx="3398" lry="1413" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_10" rendition="Line" ulx="2756" uly="1395" lrx="3400" lry="1528" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_11" rendition="Line" ulx="2801" uly="1501" lrx="3396" lry="1628" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_12" rendition="Line" ulx="2829" uly="1608" lrx="3417" lry="1723" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_13" rendition="Line" ulx="2803" uly="1695" lrx="3383" lry="1808" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_14" rendition="Line" ulx="2737" uly="1800" lrx="3400" lry="1916" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_15" rendition="Line" ulx="2756" uly="1909" lrx="3408" lry="2021" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_16" rendition="Line" ulx="2831" uly="2013" lrx="3410" lry="2112" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_17" rendition="Line" ulx="2807" uly="2096" lrx="3410" lry="2212" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_18" rendition="Line" ulx="2817" uly="2200" lrx="3412" lry="2313" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_19" rendition="Line" ulx="2773" uly="2300" lrx="3417" lry="2419" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_20" rendition="Line" ulx="2735" uly="2392" lrx="3418" lry="2523" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_21" rendition="Line" ulx="2815" uly="2503" lrx="3423" lry="2619" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_22" rendition="Line" ulx="2751" uly="2600" lrx="3420" lry="2713" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_23" rendition="Line" ulx="2927" uly="2697" lrx="3423" lry="2814" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_24" rendition="Line" ulx="2761" uly="2791" lrx="3426" lry="2910" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_25" rendition="Line" ulx="2883" uly="2895" lrx="3416" lry="2998" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_26" rendition="Line" ulx="3001" uly="2987" lrx="3424" lry="3108" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_27" rendition="Line" ulx="2851" uly="3089" lrx="3414" lry="3189" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_249v_ar_line_28" rendition="Line" ulx="2843" uly="3187" lrx="3424" lry="3306" rend="visible"></zone></surface>
+		<!--folio 250r-->
+		<surface corresp="#Gr-Z_0011-00379_250r"><graphic url="..\Marciana Gr. Z. 11\Gr-Z_0011-00379_250r.jpg" width="3750px" height="4542px"></graphic><zone xml:id="Gr-Z_0011-00379_250r_ar_line_1" rendition="Line" ulx="1951" uly="739" lrx="2612" lry="878" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_2" rendition="Line" ulx="2018" uly="867" lrx="2621" lry="991" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_3" rendition="Line" ulx="1923" uly="956" lrx="2626" lry="1089" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_4" rendition="Line" ulx="2075" uly="1069" lrx="2614" lry="1200" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_5" rendition="Line" ulx="2052" uly="1160" lrx="2603" lry="1277" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_6" rendition="Line" ulx="1869" uly="1243" lrx="2598" lry="1378" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_7" rendition="Line" ulx="1995" uly="1373" lrx="2592" lry="1477" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_8" rendition="Line" ulx="1830" uly="1439" lrx="2591" lry="1573" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_9" rendition="Line" ulx="1849" uly="1574" lrx="2588" lry="1691" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_10" rendition="Line" ulx="1904" uly="1671" lrx="2580" lry="1800" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_11" rendition="Line" ulx="2094" uly="1781" lrx="2582" lry="1894" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_12" rendition="Line" ulx="2120" uly="1880" lrx="2585" lry="1991" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_13" rendition="Line" ulx="1922" uly="1975" lrx="2581" lry="2096" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_14" rendition="Line" ulx="1842" uly="2075" lrx="2565" lry="2180" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_15" rendition="Line" ulx="1970" uly="2172" lrx="2582" lry="2289" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_16" rendition="Line" ulx="2134" uly="2271" lrx="2582" lry="2382" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_17" rendition="Line" ulx="1999" uly="2362" lrx="2582" lry="2475" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_18" rendition="Line" ulx="1922" uly="2456" lrx="2582" lry="2585" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_19" rendition="Line" ulx="2106" uly="2585" lrx="2605" lry="2684" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_20" rendition="Line" ulx="1847" uly="2660" lrx="2568" lry="2784" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_21" rendition="Line" ulx="1875" uly="2786" lrx="2558" lry="2898" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_22" rendition="Line" ulx="1900" uly="2883" lrx="2563" lry="2998" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_23" rendition="Line" ulx="1958" uly="2986" lrx="2569" lry="3097" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_24" rendition="Line" ulx="1866" uly="3072" lrx="2558" lry="3193" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_25" rendition="Line" ulx="1842" uly="3176" lrx="2557" lry="3296" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_26" rendition="Line" ulx="1824" uly="3283" lrx="2556" lry="3398" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_27" rendition="Line" ulx="1832" uly="3384" lrx="2552" lry="3509" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250r_ar_line_28" rendition="Line" ulx="1794" uly="3483" lrx="2550" lry="3616" rend="visible"></zone></surface>
+		<!--folio 250v-->
+		<surface corresp="#Gr-Z_0011-00379_250v"><graphic url="..\Marciana Gr. Z. 11\Gr-Z_0011-00379_250v.jpg" width="3600px" height="4088px"></graphic><zone xml:id="Gr-Z_0011-00379_250v_ar_line_1" rendition="Line" ulx="2761" uly="563" lrx="3374" lry="679" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_2" rendition="Line" ulx="2692" uly="675" lrx="3384" lry="771" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_3" rendition="Line" ulx="2733" uly="760" lrx="3379" lry="864" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_4" rendition="Line" ulx="2773" uly="855" lrx="3393" lry="955" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_5" rendition="Line" ulx="2770" uly="939" lrx="3387" lry="1041" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_6" rendition="Line" ulx="2712" uly="1027" lrx="3396" lry="1143" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_7" rendition="Line" ulx="2818" uly="1129" lrx="3399" lry="1238" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_8" rendition="Line" ulx="2720" uly="1237" lrx="3405" lry="1347" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_9" rendition="Line" ulx="2856" uly="1337" lrx="3419" lry="1441" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_10" rendition="Line" ulx="2942" uly="1440" lrx="3422" lry="1535" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_11" rendition="Line" ulx="2770" uly="1528" lrx="3412" lry="1646" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_12" rendition="Line" ulx="3004" uly="1634" lrx="3412" lry="1748" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_13" rendition="Line" ulx="3024" uly="1730" lrx="3416" lry="1836" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_14" rendition="Line" ulx="2819" uly="1823" lrx="3412" lry="1945" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_15" rendition="Line" ulx="2788" uly="1929" lrx="3421" lry="2037" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_16" rendition="Line" ulx="2834" uly="2021" lrx="3430" lry="2131" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_17" rendition="Line" ulx="3037" uly="2127" lrx="3422" lry="2224" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_18" rendition="Line" ulx="2758" uly="2227" lrx="3409" lry="2336" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_19" rendition="Line" ulx="2805" uly="2310" lrx="3419" lry="2437" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_20" rendition="Line" ulx="2730" uly="2432" lrx="3425" lry="2541" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_21" rendition="Line" ulx="2764" uly="2532" lrx="3421" lry="2645" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_22" rendition="Line" ulx="2788" uly="2629" lrx="3423" lry="2739" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_23" rendition="Line" ulx="2771" uly="2723" lrx="3436" lry="2840" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_24" rendition="Line" ulx="2779" uly="2827" lrx="3434" lry="2936" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_25" rendition="Line" ulx="2821" uly="2919" lrx="3441" lry="3028" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_26" rendition="Line" ulx="2703" uly="3016" lrx="3426" lry="3116" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_27" rendition="Line" ulx="2752" uly="3110" lrx="3432" lry="3205" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_250v_ar_line_28" rendition="Line" ulx="2754" uly="3204" lrx="3437" lry="3319" rend="visible"></zone><zone xml:id="hotspot" rendition="Line" ulx="3002" uly="2729" lrx="3133" lry="2871" rend="visible"></zone>
+		<!--hotspot-->	
+		<zone  corresp="#Gr-Z_0011-00379_hotspot_ar_250v_01" xml:id="Gr-Z_0011-00379_hs_ar_250v_01" rendition="HotSpot" ulx="3002" uly="2729" lrx="3133" lry="2871" rend="visible"></zone></surface>
+		<surface corresp="#Gr-Z_0011-00379_251r"><graphic url="..\Marciana Gr. Z. 11\Gr-Z_0011-00379_251r.jpg" width="3750px" height="4542px"></graphic><zone xml:id="Gr-Z_0011-00379_251r_ar_line_1" rendition="Line" ulx="1989" uly="772" lrx="2638" lry="890" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_2" rendition="Line" ulx="1961" uly="885" lrx="2624" lry="997" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_3" rendition="Line" ulx="2123" uly="982" lrx="2633" lry="1097" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_4" rendition="Line" ulx="2050" uly="1081" lrx="2633" lry="1185" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_5" rendition="Line" ulx="2130" uly="1176" lrx="2628" lry="1274" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_6" rendition="Line" ulx="2063" uly="1264" lrx="2614" lry="1376" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_7" rendition="Line" ulx="2061" uly="1369" lrx="2616" lry="1497" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_8" rendition="Line" ulx="1990" uly="1483" lrx="2608" lry="1585" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_9" rendition="Line" ulx="2014" uly="1578" lrx="2614" lry="1702" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_10" rendition="Line" ulx="2024" uly="1691" lrx="2620" lry="1793" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_11" rendition="Line" ulx="1979" uly="1777" lrx="2628" lry="1902" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_12" rendition="Line" ulx="2080" uly="1895" lrx="2623" lry="2004" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_13" rendition="Line" ulx="1988" uly="1985" lrx="2625" lry="2097" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_14" rendition="Line" ulx="1984" uly="2090" lrx="2623" lry="2195" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_15" rendition="Line" ulx="1902" uly="2182" lrx="2626" lry="2295" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_16" rendition="Line" ulx="1968" uly="2284" lrx="2622" lry="2378" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_17" rendition="Line" ulx="2016" uly="2371" lrx="2622" lry="2486" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_18" rendition="Line" ulx="1942" uly="2462" lrx="2613" lry="2584" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_19" rendition="Line" ulx="1881" uly="2565" lrx="2620" lry="2682" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_20" rendition="Line" ulx="2036" uly="2678" lrx="2608" lry="2795" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_21" rendition="Line" ulx="1892" uly="2778" lrx="2619" lry="2909" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_22" rendition="Line" ulx="1920" uly="2891" lrx="2627" lry="3010" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_23" rendition="Line" ulx="1869" uly="2997" lrx="2614" lry="3107" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_24" rendition="Line" ulx="1877" uly="3084" lrx="2620" lry="3218" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_25" rendition="Line" ulx="1994" uly="3196" lrx="2616" lry="3309" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_26" rendition="Line" ulx="1931" uly="3298" lrx="2611" lry="3408" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_27" rendition="Line" ulx="1912" uly="3390" lrx="2612" lry="3506" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_28" rendition="Line" ulx="1934" uly="3484" lrx="2662" lry="3627" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251r_ar_line_29" rendition="Line" ulx="1883" uly="3591" lrx="2261" lry="3695" rend="visible"></zone></surface>
+		<surface corresp="#Gr-Z_0011-00379_251v"><graphic url="..\Marciana Gr. Z. 11\Gr-Z_0011-00379_251v.jpg" width="3525px" height="4088px"></graphic><zone xml:id="Gr-Z_0011-00379_251v_ar_line_1" rendition="Line" ulx="2561" uly="582" lrx="3194" lry="685" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251v_ar_line_2" rendition="Line" ulx="2491" uly="683" lrx="3205" lry="790" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251v_ar_line_3" rendition="Line" ulx="2481" uly="784" lrx="3203" lry="887" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251v_ar_line_4" rendition="Line" ulx="2624" uly="877" lrx="3200" lry="979" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251v_ar_line_5" rendition="Line" ulx="2740" uly="967" lrx="3211" lry="1077" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251v_ar_line_6" rendition="Line" ulx="2520" uly="1043" lrx="3202" lry="1168" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251v_ar_line_7" rendition="Line" ulx="2577" uly="1163" lrx="3198" lry="1283" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251v_ar_line_8" rendition="Line" ulx="2554" uly="1283" lrx="3202" lry="1381" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251v_ar_line_9" rendition="Line" ulx="2708" uly="1379" lrx="3203" lry="1483" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251v_ar_line_10" rendition="Line" ulx="2541" uly="1463" lrx="3197" lry="1579" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251v_ar_line_11" rendition="Line" ulx="2541" uly="1558" lrx="3195" lry="1667" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251v_ar_line_12" rendition="Line" ulx="2556" uly="1658" lrx="3197" lry="1776" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251v_ar_line_13" rendition="Line" ulx="2559" uly="1771" lrx="3204" lry="1871" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251v_ar_line_14" rendition="Line" ulx="2486" uly="1867" lrx="3211" lry="1978" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251v_ar_line_15" rendition="Line" ulx="2598" uly="1954" lrx="3227" lry="2058" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251v_ar_line_16" rendition="Line" ulx="2576" uly="2050" lrx="3241" lry="2151" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251v_ar_line_17" rendition="Line" ulx="2582" uly="2137" lrx="3234" lry="2260" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251v_ar_line_18" rendition="Line" ulx="2592" uly="2231" lrx="3242" lry="2359" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251v_ar_line_19" rendition="Line" ulx="2410" uly="2325" lrx="3236" lry="2475" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251v_ar_line_20" rendition="Line" ulx="2506" uly="2467" lrx="3242" lry="2596" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251v_ar_line_21" rendition="Line" ulx="1849" uly="2573" lrx="2489" lry="2674" rend="visible"></zone><zone xml:id="Gr-Z_0011-00379_251v_ar_line_22" rendition="Line" ulx="1870" uly="2670" lrx="2459" lry="2784" rend="visible"></zone></surface>
 	</facsimile>
+	
 	<text  xml:id="Paul_transcript" n="Paul">
 		<group>
 			<text xml:lang="ar" rend="ar" xml:id="Paul_transcript_Rom" n="Rom">
@@ -332,43 +344,43 @@
 						<lb facs="#Gr-Z_0011-00379_125r_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_125r_ar_lb_19"/>	بسم الثالوث الواحد
 						<lb facs="#Gr-Z_0011-00379_125r_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_125r_ar_lb_20"/>	المقدس المبارك المحمود
 						<lb facs="#Gr-Z_0011-00379_125r_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_125r_ar_lb_21"/>	فى دهور العالمين امين</hi>
-						<lb facs="#Gr-Z_0011-00379_125r_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_125r_ar_lb_22"/>	<milestone unit="verse" n="1:1"/> من بولس عند يسوع المسيح <hi rend="red">//</hi>
-						<lb facs="#Gr-Z_0011-00379_125r_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_125r_ar_lb_23"/>	المدعو بالرسول <hi rend="red">//</hi> المنتحب
-						<lb facs="#Gr-Z_0011-00379_125r_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_125r_ar_lb_24"/>	انجيل اللّه <hi rend="red">//</hi> <milestone unit="verse" n="1:2"/> الدي وعد به
-						<lb facs="#Gr-Z_0011-00379_125r_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_125r_ar_lb_25"/>	‫<choice><reg>من قبل</reg><orig>مں ٯبل</orig></choice> <hi rend="red">//</hi> على السن انبايه <hi rend="red">//</hi>
-						<lb facs="#Gr-Z_0011-00379_125r_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_125r_ar_lb_26"/>	في كتب مقدّسه <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_125r_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_125r_ar_lb_22"/>	<milestone unit="verse" n="1:1"/> من بولس عند يسوع المسيح <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_125r_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_125r_ar_lb_23"/>	المدعو بالرسول <hi rend="red">⫽</hi> المنتحب
+						<lb facs="#Gr-Z_0011-00379_125r_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_125r_ar_lb_24"/>	انجيل اللّه <hi rend="red">⫽</hi> <milestone unit="verse" n="1:2"/> الدي وعد به
+						<lb facs="#Gr-Z_0011-00379_125r_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_125r_ar_lb_25"/>	‫<choice><reg>من قبل</reg><orig>مں ٯبل</orig></choice> <hi rend="red">⫽</hi> على السن انبايه <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_125r_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_125r_ar_lb_26"/>	في كتب مقدّسه <hi rend="red">⫽</hi>
 							<lb facs="#Gr-Z_0011-00379_125r_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_125r_ar_lb_27"/>	<milestone unit="verse" n="1:3"/> بابنه الذي
 						</p>
 						<!--folio 125v-->
 						<pb xml:id="Gr-Z_0011-00379_125v" facs="#Gr-Z_0011-00379_125v" n="125v"/>	
 						<p>
 							<lb facs="#Gr-Z_0011-00379_125v_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_125v_ar_lb_1"/>	خلق <choice><reg>من</reg><orig>مں</orig></choice> <choice><orig>رريعة</orig><reg>زريعة</reg></choice>
-							<lb facs="#Gr-Z_0011-00379_125v_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_125v_ar_lb_2"/>	داود من <choice><orig>طريٯ‬</orig><reg>طريق‬</reg></choice> اللحمه <hi rend="red">//</hi>
-							<lb facs="#Gr-Z_0011-00379_125v_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_125v_ar_lb_3"/>	<milestone unit="verse" n="1:4"/> و المجتوم ابنًا اللّه <hi rend="red">//</hi> بالقدره
-							<lb facs="#Gr-Z_0011-00379_125v_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_125v_ar_lb_4"/>	على حسب روح القدس <hi rend="red">//</hi> عن
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_125v_ar_lb_2"/>	داود من <choice><orig>طريٯ‬</orig><reg>طريق‬</reg></choice> اللحمه <hi rend="red">⫽</hi>
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_125v_ar_lb_3"/>	<milestone unit="verse" n="1:4"/> و المجتوم ابنًا اللّه <hi rend="red">⫽</hi> بالقدره
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_125v_ar_lb_4"/>	على حسب روح القدس <hi rend="red">⫽</hi> عن
 							<lb facs="#Gr-Z_0011-00379_125v_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_125v_ar_lb_5"/>	قيامه يسوع ربنا عن الموتى
 							<lb facs="#Gr-Z_0011-00379_125v_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_125v_ar_lb_6"/>	<milestone unit="verse" n="1:5"/> الذي به نلنا امتنان
-							<lb facs="#Gr-Z_0011-00379_125v_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_125v_ar_lb_7"/>	الرساله <hi rend="red">//</hi> ليطيع جميع
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_125v_ar_lb_7"/>	الرساله <hi rend="red">⫽</hi> ليطيع جميع
 							<lb facs="#Gr-Z_0011-00379_125v_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_125v_ar_lb_8"/>	الاجناس مُسارعون
-							<lb facs="#Gr-Z_0011-00379_125v_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_125v_ar_lb_9"/>	الى الايمان باسمه <hi rend="red">//</hi> <milestone unit="verse" n="1:6"/> الذى
-							<lb facs="#Gr-Z_0011-00379_125v_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_125v_ar_lb_10"/>	منهم دعيتم الى يسوع المسيح <hi rend="red">//</hi>
-							<lb facs="#Gr-Z_0011-00379_125v_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_125v_ar_lb_11"/>	<milestone unit="verse" n="1:7"/> الى جميع <choice><reg>من</reg><orig>مں</orig></choice> برومه <hi rend="red">//</hi> <choice><orig>احبا</orig><reg>احباء</reg></choice>
-							<lb facs="#Gr-Z_0011-00379_125v_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_125v_ar_lb_12"/>	الله المدعين مقدسين <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_125v_ar_lb_9"/>	الى الايمان باسمه <hi rend="red">⫽</hi> <milestone unit="verse" n="1:6"/> الذى
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_125v_ar_lb_10"/>	منهم دعيتم الى يسوع المسيح <hi rend="red">⫽</hi>
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_125v_ar_lb_11"/>	<milestone unit="verse" n="1:7"/> الى جميع <choice><reg>من</reg><orig>مں</orig></choice> برومه <hi rend="red">⫽</hi> <choice><orig>احبا</orig><reg>احباء</reg></choice>
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_125v_ar_lb_12"/>	الله المدعين مقدسين <hi rend="red">⫽</hi>
 							<lb facs="#Gr-Z_0011-00379_125v_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_125v_ar_lb_13"/>	كان الامتنان و السّلم من
-							<lb facs="#Gr-Z_0011-00379_125v_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_125v_ar_lb_14"/>	اللّه ابينا <hi rend="red">//</hi> و الرب يسوع
-							<lb facs="#Gr-Z_0011-00379_125v_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_125v_ar_lb_15"/>	المسيح معكم و لكم وعلىكم4 <hi rend="red">//</hi> <milestone unit="verse" n="1:8"/> اما
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_125v_ar_lb_14"/>	اللّه ابينا <hi rend="red">⫽</hi> و الرب يسوع
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_125v_ar_lb_15"/>	المسيح معكم و لكم وعلىكم4 <hi rend="red">⫽</hi> <milestone unit="verse" n="1:8"/> اما
 							<lb facs="#Gr-Z_0011-00379_125v_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_125v_ar_lb_16"/>	بعد فانى اشكر الاهي بيسوع
-							<lb facs="#Gr-Z_0011-00379_125v_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_125v_ar_lb_17"/>	المسيح عن جميعكم <hi rend="red">//</hi> <choice><reg>من</reg><orig>مں</orig></choice> ايمانكم
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_125v_ar_lb_17"/>	المسيح عن جميعكم <hi rend="red">⫽</hi> <choice><reg>من</reg><orig>مں</orig></choice> ايمانكم
 							<lb facs="#Gr-Z_0011-00379_125v_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_125v_ar_lb_18"/>	الذي قد انتشر <choice><reg>في</reg><orig>ڡى</orig></choice> جميع
-							<lb facs="#Gr-Z_0011-00379_125v_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_125v_ar_lb_19"/>	الدنيا <hi rend="red">//</hi> <milestone unit="verse" n="1:9"/> و شاهدي
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_125v_ar_lb_19"/>	الدنيا <hi rend="red">⫽</hi> <milestone unit="verse" n="1:9"/> و شاهدي
 							<lb facs="#Gr-Z_0011-00379_125v_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_125v_ar_lb_20"/>	اللّه الذى انا اخدمه
-							<lb facs="#Gr-Z_0011-00379_125v_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_125v_ar_lb_21"/>	بروحى بانجيل ابنه <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_125v_ar_lb_21"/>	بروحى بانجيل ابنه <hi rend="red">⫽</hi>
 							<lb facs="#Gr-Z_0011-00379_125v_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_125v_ar_lb_22"/>	انى اذكركم بلا فقور
-							<lb facs="#Gr-Z_0011-00379_125v_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_125v_ar_lb_23"/>	<milestone unit="verse" n="1:10"/> <choice><reg>في</reg><orig>ڡى</orig></choice> صلواتى <hi rend="red">//</hi>
-							<lb facs="#Gr-Z_0011-00379_125v_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_125v_ar_lb_24"/>	راغبًا اليه <hi rend="red">//</hi>
-							<lb facs="#Gr-Z_0011-00379_125v_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_125v_ar_lb_25"/>	ان يجعل لي يومًا مَا <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_125v_ar_lb_23"/>	<milestone unit="verse" n="1:10"/> <choice><reg>في</reg><orig>ڡى</orig></choice> صلواتى <hi rend="red">⫽</hi>
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_125v_ar_lb_24"/>	راغبًا اليه <hi rend="red">⫽</hi>
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_125v_ar_lb_25"/>	ان يجعل لي يومًا مَا <hi rend="red">⫽</hi>
 							<lb facs="#Gr-Z_0011-00379_125v_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_125v_ar_lb_26"/>	سبيلًا سهلًا
-							<lb facs="#Gr-Z_0011-00379_125v_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_125v_ar_lb_27"/>	للقدوم عليكم بمشيّه اللّه <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_125v_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_125v_ar_lb_27"/>	للقدوم عليكم بمشيّه اللّه <hi rend="red">⫽</hi>
 							<lb facs="#Gr-Z_0011-00379_125v_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_125v_ar_lb_28"/>	<milestone unit="verse" n="1:11"/> فانى اشتاق الي
 							
 							
@@ -392,7 +404,7 @@
 						<lb facs="#Gr-Z_0011-00379_155v_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_155v_ar_lb_25"/>
 						<milestone unit="verse" n="1:1"/>من بولس الرسول المُدعَى حواري
 						<lb facs="#Gr-Z_0011-00379_155v_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_155v_ar_lb_26"/>
-						بيسوع المسيح بارادة الله <hi rend="red">//</hi>
+						بيسوع المسيح بارادة الله <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_155v_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_155v_ar_lb_27"/>
 						و من سُستان الاخ </p>
 
@@ -401,39 +413,39 @@
 					<p>
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_156r_ar_lb_1"/>
 						<milestone unit="verse" n="1:2"/> بيعه اللّه التى بقورنثه <hi rend="red"
-							>//</hi>
+							>⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_156r_ar_lb_2"/>
-						الي المقدّسين بيسوع المسيح <hi rend="red">//</hi>
+						الي المقدّسين بيسوع المسيح <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_156r_ar_lb_3"/>
-						المدعون مقدّسُون <hi rend="red">//</hi> مع جميع
+						المدعون مقدّسُون <hi rend="red">⫽</hi> مع جميع
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_156r_ar_lb_4"/>
 						الّذين يدعون اسم ربنا
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_156r_ar_lb_5"/>
-						يسوع المسيح <hi rend="red">//</hi> فى جميع مواضعهم
+						يسوع المسيح <hi rend="red">⫽</hi> فى جميع مواضعهم
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_156r_ar_lb_6"/>
-						و مواضعنا <hi rend="red">//</hi>
+						و مواضعنا <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_156r_ar_lb_7"/>
 						<milestone unit="verse" n="1:3"/> لكم الامتنان و السّلم من اللّه
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_156r_ar_lb_8"/>
-						ابينا و الرب يسوع المسيح <hi rend="red">//</hi>
+						ابينا و الرب يسوع المسيح <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_156r_ar_lb_9"/>
 						<milestone unit="verse" n="1:4"/> امّا بعد فانى اشكر اللّه إلهى
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_156r_ar_lb_10"/>
-						دابًا ابدًا عنكم <hi rend="red">//</hi> بامتناں
+						دابًا ابدًا عنكم <hi rend="red">⫽</hi> بامتناں
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_156r_ar_lb_11"/>
 						اللّه الذي وهبه لكم بيسوع
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_156r_ar_lb_12"/>
-						المسيح <hi rend="red">//</hi>
+						المسيح <hi rend="red">⫽</hi>
 						<milestone unit="verse" n="1:5"/> انكم صرتم اغنيا اوفارًا <lb facs="#Gr-Z_0011-00379_156r_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_156r_ar_lb_13"/>
 						<choice>
 							<orig>ڡى</orig>
 							<reg>فى</reg>
-						</choice> الجميع على يديه و به <hi rend="red">//</hi> و فى كل
+						</choice> الجميع على يديه و به <hi rend="red">⫽</hi> و فى كل
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_156r_ar_lb_14"/>
-						مقالهٍ و كل حكمه <hi rend="red">//</hi>
+						مقالهٍ و كل حكمه <hi rend="red">⫽</hi>
 						<milestone unit="verse" n="1:6"/> كما اثبتت
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_156r_ar_lb_15"/>
-						شهاده المسيح فيكم <hi rend="red">//</hi>
+						شهاده المسيح فيكم <hi rend="red">⫽</hi>
 						<milestone unit="verse" n="1:7"/> حتى
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_156r_ar_lb_16"/>
 						اصبحتم لا <choice>
@@ -441,100 +453,100 @@
 							<reg>يعجزكم</reg>
 						</choice> من الامتنان
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_156r_ar_lb_17"/>
-						شي <hi rend="red">//</hi> و تنتظرون
+						شي <hi rend="red">⫽</hi> و تنتظرون
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_156r_ar_lb_18"/>
 						انكشاف ربنا
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_156r_ar_lb_19"/>
-						يسوع المسيح <hi rend="red">//</hi>
+						يسوع المسيح <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_156r_ar_lb_20"/>
 						<milestone unit="verse" n="1:8"/> الذي يثبتكم الي الا
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_156r_ar_lb_21"/>
-						نقضا بغير ملامه <hi rend="red">//</hi>
+						نقضا بغير ملامه <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_156r_ar_lb_22"/>
 						<choice>
 							<orig>ڡى</orig>
 							<reg>فى</reg>
 						</choice> يوم ربنا يسوع
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_156r_ar_lb_23"/>
-						المسيح <hi rend="red">//</hi>
+						المسيح <hi rend="red">⫽</hi>
 						<milestone unit="verse" n="1:9"/> صَادق
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_156r_ar_lb_24"/>
 						اللّه الذي دعَاكم الي
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_156r_ar_lb_25"/>
 						مُصاحبه ولده يسوع
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_156r_ar_lb_26"/>
-						المسيح ربنا <hi rend="red">//</hi>
+						المسيح ربنا <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_156r_ar_lb_27"/>
 						<milestone unit="verse" n="1:10"/> و انا <choice>
 							<orig>اس<hi rend="exp">ء</hi>لكم</orig>
 						<reg>اسألكم</reg></choice> يا معشر
 						<lb facs="#Gr-Z_0011-00379_156r_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_156r_ar_lb_28"/>
-						اخوتي <hi rend="red">//</hi> بحق اسم </p>
+						اخوتي <hi rend="red">⫽</hi> بحق اسم </p>
 					
 					<!--folio 156v-->
 					<pb xml:id="Gr-Z_0011-00379_156v" facs="#Gr-Z_0011-00379_156v" n="156v"/>
 					
 					<p>
-						<lb facs="#Gr-Z_0011-00379_156v_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_156v_ar_lb_1"/>	ربنا يسوع المسيح <hi rend="red">//</hi> ان نقولوا 
-						<lb facs="#Gr-Z_0011-00379_156v_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_156v_ar_lb_2"/>	اجمعون بهذه الماقله <hi rend="red">//</hi> وَ لَا
-						<lb facs="#Gr-Z_0011-00379_156v_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_156v_ar_lb_3"/>	يكون فيكم <choice><orig>الاحتلاف</orig><reg>الاختلاف</reg></choice> و الشتات <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_156v_ar_lb_1"/>	ربنا يسوع المسيح <hi rend="red">⫽</hi> ان نقولوا 
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_156v_ar_lb_2"/>	اجمعون بهذه الماقله <hi rend="red">⫽</hi> وَ لَا
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_156v_ar_lb_3"/>	يكون فيكم <choice><orig>الاحتلاف</orig><reg>الاختلاف</reg></choice> و الشتات <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_156v_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_156v_ar_lb_4"/>	و ان تكونوا كلكم كاملين <choice><orig>ڡي</orig><reg>في</reg></choice> ذلك
-						<lb facs="#Gr-Z_0011-00379_156v_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_156v_ar_lb_5"/>	المعنَى <hi rend="red">//</hi> و فى <choice><orig>ىلك</orig><reg>تلك</reg></choice> المقاله <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_156v_ar_lb_5"/>	المعنَى <hi rend="red">⫽</hi> و فى <choice><orig>ىلك</orig><reg>تلك</reg></choice> المقاله <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_156v_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_156v_ar_lb_6"/>	<milestone unit="verse" n="1:11"/> فقد نبغنى عنكم يا معشر
-						<lb facs="#Gr-Z_0011-00379_156v_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_156v_ar_lb_7"/>	اخوتي <hi rend="red">//</hi> بقول اهل قلوان <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_156v_ar_lb_7"/>	اخوتي <hi rend="red">⫽</hi> بقول اهل قلوان <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_156v_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_156v_ar_lb_8"/>	ان بينكم منازعه و مذاهب
-						<lb facs="#Gr-Z_0011-00379_156v_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_156v_ar_lb_9"/>	الشتات <hi rend="red">//</hi> <milestone unit="verse" n="1:12"/> و انا اقول 
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_156v_ar_lb_9"/>	الشتات <hi rend="red">⫽</hi> <milestone unit="verse" n="1:12"/> و انا اقول 
 						<lb facs="#Gr-Z_0011-00379_156v_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_156v_ar_lb_10"/>	لكم مَا يقوله كل واحد
-						<lb facs="#Gr-Z_0011-00379_156v_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_156v_ar_lb_11"/>	منكم زعهتم <hi rend="red">//</hi> انا لبولس
-						<lb facs="#Gr-Z_0011-00379_156v_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_156v_ar_lb_12"/>	و انا لابلّوا <hi rend="red">//</hi> و انا 
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_156v_ar_lb_11"/>	منكم زعهتم <hi rend="red">⫽</hi> انا لبولس
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_156v_ar_lb_12"/>	و انا لابلّوا <hi rend="red">⫽</hi> و انا 
 								<lb facs="#Gr-Z_0011-00379_156v_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_156v_ar_lb_13"/>	لكيفا و انا للمسيح <milestone unit="verse" n="1:13"/> فالمسيح
-						<lb facs="#Gr-Z_0011-00379_156v_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_156v_ar_lb_14"/>	اذًا مقسومٌ <hi rend="red">//</hi> هل صُلب بولس
-						<lb facs="#Gr-Z_0011-00379_156v_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_156v_ar_lb_15"/>	عنكم <hi rend="red">//</hi> اوصبغتم على اسم
-						<lb facs="#Gr-Z_0011-00379_156v_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_156v_ar_lb_16"/>	بولس <hi rend="red">//</hi> <milestone unit="verse" n="1:14"/> انا احمد 
-						<lb facs="#Gr-Z_0011-00379_156v_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_156v_ar_lb_17"/>	إلَهي <hi rend="red">//</hi> انى مَا عمّدت
-						<lb facs="#Gr-Z_0011-00379_156v_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_156v_ar_lb_18"/>	منكم وَاحدًا <hi rend="red">//</hi> ما عدا
-						<lb facs="#Gr-Z_0011-00379_156v_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_156v_ar_lb_19"/>	قرسبس و غاييوس <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_156v_ar_lb_14"/>	اذًا مقسومٌ <hi rend="red">⫽</hi> هل صُلب بولس
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_156v_ar_lb_15"/>	عنكم <hi rend="red">⫽</hi> اوصبغتم على اسم
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_156v_ar_lb_16"/>	بولس <hi rend="red">⫽</hi> <milestone unit="verse" n="1:14"/> انا احمد 
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_156v_ar_lb_17"/>	إلَهي <hi rend="red">⫽</hi> انى مَا عمّدت
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_156v_ar_lb_18"/>	منكم وَاحدًا <hi rend="red">⫽</hi> ما عدا
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_156v_ar_lb_19"/>	قرسبس و غاييوس <hi rend="red">⫽</hi>
 										<lb facs="#Gr-Z_0011-00379_156v_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_156v_ar_lb_20"/>	<milestone unit="verse" n="1:15"/> ليلا يقول احدٌ انكم 
-						<lb facs="#Gr-Z_0011-00379_156v_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_156v_ar_lb_21"/>	صُبغتم<ptr type="noteAnchor" target="#Note_1Cor_ar1"/> على اسمى <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_156v_ar_lb_21"/>	صُبغتم<ptr type="noteAnchor" target="#Note_1Cor_ar1"/> على اسمى <hi rend="red">⫽</hi>
 											<lb facs="#Gr-Z_0011-00379_156v_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_156v_ar_lb_22"/>	<milestone unit="verse" n="1:16"/> و قد صبغت بيت
-						<lb facs="#Gr-Z_0011-00379_156v_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_156v_ar_lb_23"/>	اصطفنه <hi rend="red">//</hi> فامّا غيرهم 
-						<lb facs="#Gr-Z_0011-00379_156v_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_156v_ar_lb_24"/>	فلستُ اعرف انى صبغته <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_156v_ar_lb_23"/>	اصطفنه <hi rend="red">⫽</hi> فامّا غيرهم 
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_156v_ar_lb_24"/>	فلستُ اعرف انى صبغته <hi rend="red">⫽</hi>
 												<lb facs="#Gr-Z_0011-00379_156v_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_156v_ar_lb_25"/>	<milestone unit="verse" n="1:17"/> فلم يبعثنى المسيح لصَبغه
-						<lb facs="#Gr-Z_0011-00379_156v_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_156v_ar_lb_26"/>	المهوديّه<ptr type="noteAnchor" target="#Note_1Cor_ar2"/> <hi rend="red">//</hi> بل بعثنى بالانداد 
-						<lb facs="#Gr-Z_0011-00379_156v_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_156v_ar_lb_27"/>	و البشرا <hi rend="red">//</hi>  وليس بحكمة المنطق <hi rend="red">//</hi>
-						<lb facs="#Gr-Z_0011-00379_156v_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_156v_ar_lb_28"/>	ليلّا يبطل صَلب المسيح <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_156v_ar_lb_26"/>	المهوديّه<ptr type="noteAnchor" target="#Note_1Cor_ar2"/> <hi rend="red">⫽</hi> بل بعثنى بالانداد 
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_156v_ar_lb_27"/>	و البشرا <hi rend="red">⫽</hi>  وليس بحكمة المنطق <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_156v_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_156v_ar_lb_28"/>	ليلّا يبطل صَلب المسيح <hi rend="red">⫽</hi>
 					</p>
 					<!--folio 157r-->
 					<pb xml:id="Gr-Z_0011-00379_157r" facs="#Gr-Z_0011-00379_157r" n="157r"/>
 					<p>
-						<lb facs="#Gr-Z_0011-00379_157r_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_157r_ar_lb_1"/>	<milestone unit="verse" n="1:18"/> فان القول بالصليب <hi rend="red">//</hi> هو
-						<lb facs="#Gr-Z_0011-00379_157r_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_157r_ar_lb_2"/>	جهل عند <choice><orig>الظالّين</orig><reg>الضالّين</reg></choice> <hi rend="red">//</hi> و هو
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_157r_ar_lb_1"/>	<milestone unit="verse" n="1:18"/> فان القول بالصليب <hi rend="red">⫽</hi> هو
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_157r_ar_lb_2"/>	جهل عند <choice><orig>الظالّين</orig><reg>الضالّين</reg></choice> <hi rend="red">⫽</hi> و هو
 						<lb facs="#Gr-Z_0011-00379_157r_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_157r_ar_lb_3"/>	للمنجيّن و نحن اوليك
-						<lb facs="#Gr-Z_0011-00379_157r_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_157r_ar_lb_4"/>	قدره اللّه <hi rend="red">//
-</hi>							<lb facs="#Gr-Z_0011-00379_157r_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_157r_ar_lb_5"/>	<milestone unit="verse" n="1:19"/> فقد كتب <hi rend="red">//</hi> سَاُتلف
-						<lb facs="#Gr-Z_0011-00379_157r_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_157r_ar_lb_6"/>	حكمه العلما <hi rend="red">//</hi> و امقت
-						<lb facs="#Gr-Z_0011-00379_157r_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_157r_ar_lb_7"/>	نُبل النُّبلا <hi rend="red">//</hi>
-						<lb facs="#Gr-Z_0011-00379_157r_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_157r_ar_lb_8"/>	اعراضًا عنه <hi rend="red">//</hi> <milestone unit="verse" n="1:20"/> اين الحكيم <hi rend="red">//</hi>
-						<lb facs="#Gr-Z_0011-00379_157r_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_157r_ar_lb_9"/>	ابن الكاتب <hi rend="red">//</hi> اين طالب هذه
-						<lb facs="#Gr-Z_0011-00379_157r_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_157r_ar_lb_10"/>	الدنيا <hi rend="red">//</hi> اليس قد 
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_157r_ar_lb_4"/>	قدره اللّه <hi rend="red">⫽
+</hi>							<lb facs="#Gr-Z_0011-00379_157r_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_157r_ar_lb_5"/>	<milestone unit="verse" n="1:19"/> فقد كتب <hi rend="red">⫽</hi> سَاُتلف
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_157r_ar_lb_6"/>	حكمه العلما <hi rend="red">⫽</hi> و امقت
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_157r_ar_lb_7"/>	نُبل النُّبلا <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_157r_ar_lb_8"/>	اعراضًا عنه <hi rend="red">⫽</hi> <milestone unit="verse" n="1:20"/> اين الحكيم <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_157r_ar_lb_9"/>	ابن الكاتب <hi rend="red">⫽</hi> اين طالب هذه
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_157r_ar_lb_10"/>	الدنيا <hi rend="red">⫽</hi> اليس قد 
 						<lb facs="#Gr-Z_0011-00379_157r_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_157r_ar_lb_11"/>	استجهل اللّه علم
-						<lb facs="#Gr-Z_0011-00379_157r_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_157r_ar_lb_12"/>	هذه الدّنيا <hi rend="red">//</hi> <milestone unit="verse" n="1:21"/> فكما انه
-						<lb facs="#Gr-Z_0011-00379_157r_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_157r_ar_lb_13"/>	 <choice><orig>كاں</orig><reg>كان</reg></choice> <choice><orig>ڡى</orig><reg>في</reg></choice> علم اللّه <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_157r_ar_lb_12"/>	هذه الدّنيا <hi rend="red">⫽</hi> <milestone unit="verse" n="1:21"/> فكما انه
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_157r_ar_lb_13"/>	 <choice><orig>كاں</orig><reg>كان</reg></choice> <choice><orig>ڡى</orig><reg>في</reg></choice> علم اللّه <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_157r_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_157r_ar_lb_14"/>	الا يفهم اهل الدّنيا اللّه 
-						<lb facs="#Gr-Z_0011-00379_157r_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_157r_ar_lb_15"/>	بعلمهم <hi rend="red">//</hi> اراد اللّه 
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_157r_ar_lb_15"/>	بعلمهم <hi rend="red">⫽</hi> اراد اللّه 
 						<lb facs="#Gr-Z_0011-00379_157r_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_157r_ar_lb_16"/>	ان يخلّص المومنين
-						<lb facs="#Gr-Z_0011-00379_157r_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_157r_ar_lb_17"/>	بجهاله الشارعين <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_157r_ar_lb_17"/>	بجهاله الشارعين <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_157r_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_157r_ar_lb_18"/>	<milestone unit="verse" n="1:22"/> لان اليهود <choice><orig>يس<hi rend="exp">ء</hi>لون</orig><reg>يسألون</reg></choice>
-						<lb facs="#Gr-Z_0011-00379_157r_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_157r_ar_lb_19"/>	الايات <hi rend="red">//</hi> و اليونانين
-						<lb facs="#Gr-Z_0011-00379_157r_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_157r_ar_lb_20"/>	يطلبون الحكمه <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_157r_ar_lb_19"/>	الايات <hi rend="red">⫽</hi> و اليونانين
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_157r_ar_lb_20"/>	يطلبون الحكمه <hi rend="red">⫽</hi>
 										<lb facs="#Gr-Z_0011-00379_157r_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_157r_ar_lb_21"/>	<milestone unit="verse" n="1:23"/> و نحن نشرع ان المسيح
-						<lb facs="#Gr-Z_0011-00379_157r_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_157r_ar_lb_22"/>	صلب <hi rend="red">//</hi> و هذا القول
-						<lb facs="#Gr-Z_0011-00379_157r_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_157r_ar_lb_23"/>	عند اليهود فتنه الزلق  <hi rend="red">//</hi>
-						<lb facs="#Gr-Z_0011-00379_157r_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_157r_ar_lb_24"/>	و عند اليونانين جهل و نقصٌ <hi rend="red">//</hi>
-						<lb facs="#Gr-Z_0011-00379_157r_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_157r_ar_lb_25"/>	<milestone unit="verse" n="1:24"/> و عند المدعين و اليهود <hi rend="red">//</hi>
-						<lb facs="#Gr-Z_0011-00379_157r_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_157r_ar_lb_26"/>		و اليونانين المسيح قدره اللّه <hi rend="red">//</hi>
-						<lb facs="#Gr-Z_0011-00379_157r_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_157r_ar_lb_27"/>		وَ عِلم اللّه <hi rend="red">//</hi> <milestone unit="verse" n="1:25"/> لان الذي هو جهل
-						<lb facs="#Gr-Z_0011-00379_157r_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_157r_ar_lb_28"/>		عند اللّه <hi rend="red">//</hi> هو اعلم
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_157r_ar_lb_22"/>	صلب <hi rend="red">⫽</hi> و هذا القول
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_157r_ar_lb_23"/>	عند اليهود فتنه الزلق  <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_157r_ar_lb_24"/>	و عند اليونانين جهل و نقصٌ <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_157r_ar_lb_25"/>	<milestone unit="verse" n="1:24"/> و عند المدعين و اليهود <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_157r_ar_lb_26"/>		و اليونانين المسيح قدره اللّه <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_157r_ar_lb_27"/>		وَ عِلم اللّه <hi rend="red">⫽</hi> <milestone unit="verse" n="1:25"/> لان الذي هو جهل
+						<lb facs="#Gr-Z_0011-00379_157r_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_157r_ar_lb_28"/>		عند اللّه <hi rend="red">⫽</hi> هو اعلم
 						
 						
 						
@@ -552,60 +564,60 @@
 						<pb facs="#Gr-Z_0011-00379_207v" xml:id="Gr-Z_0011-00379_207v" n="207v"/>
 						<p>
 							<lb facs="#Gr-Z_0011-00379_207v_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_207v_ar_lb_1"/><hi rend="red">	رسله بولس الى اهل غلاطيه</hi>
-							<lb facs="#Gr-Z_0011-00379_207v_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_207v_ar_lb_2"/>	<milestone unit="verse" n="1:1"/> من بولس الرّسول <hi rend="red">//</hi> لا رسول
-							<lb facs="#Gr-Z_0011-00379_207v_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_207v_ar_lb_3"/>	الناس و لا من انسان <hi rend="red">//</hi> بل
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_207v_ar_lb_2"/>	<milestone unit="verse" n="1:1"/> من بولس الرّسول <hi rend="red">⫽</hi> لا رسول
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_207v_ar_lb_3"/>	الناس و لا من انسان <hi rend="red">⫽</hi> بل
 							<lb facs="#Gr-Z_0011-00379_207v_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_207v_ar_lb_4"/>	رسول يسوع المسيح و الله الاب 
-							<lb facs="#Gr-Z_0011-00379_207v_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_207v_ar_lb_5"/>	<choice><orig>الدي</orig><reg>الذي</reg></choice> احياهُ عن الموتا <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_207v_ar_lb_5"/>	<choice><orig>الدي</orig><reg>الذي</reg></choice> احياهُ عن الموتا <hi rend="red">⫽</hi>
 							<lb facs="#Gr-Z_0011-00379_207v_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_207v_ar_lb_6"/>	<milestone unit="verse" n="1:2"/> و <choice><orig>مں</orig><reg>من</reg></choice> جميع الاخوه الذين معى
-							<lb facs="#Gr-Z_0011-00379_207v_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_207v_ar_lb_7"/>	الى جميع بيع غلاطيه <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_207v_ar_lb_7"/>	الى جميع بيع غلاطيه <hi rend="red">⫽</hi>
 							<lb facs="#Gr-Z_0011-00379_207v_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_207v_ar_lb_8"/>	<milestone unit="verse" n="1:3"/> كان التفضل عليكم و السلم
 							<lb facs="#Gr-Z_0011-00379_207v_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_207v_ar_lb_9"/>	<choice><orig>مں</orig><reg>من</reg></choice> الله ابينا و الرب 
-							<lb facs="#Gr-Z_0011-00379_207v_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_207v_ar_lb_10"/>	يسوع المسيح <hi rend="red">//</hi> <milestone unit="verse" n="1:4"/> الذي
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_207v_ar_lb_10"/>	يسوع المسيح <hi rend="red">⫽</hi> <milestone unit="verse" n="1:4"/> الذي
 							<lb facs="#Gr-Z_0011-00379_207v_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_207v_ar_lb_11"/>	بذل نفسه لاجل
-							<lb facs="#Gr-Z_0011-00379_207v_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_207v_ar_lb_12"/>	ذنوبنا <hi rend="red">//</hi> ان يخلّصنا مں هذا
-							<lb facs="#Gr-Z_0011-00379_207v_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_207v_ar_lb_13"/>	العالم السو <hi rend="red">//</hi> الحاضر
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_207v_ar_lb_12"/>	ذنوبنا <hi rend="red">⫽</hi> ان يخلّصنا مں هذا
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_207v_ar_lb_13"/>	العالم السو <hi rend="red">⫽</hi> الحاضر
 							<lb facs="#Gr-Z_0011-00379_207v_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_207v_ar_lb_14"/>	على قدر ارادة اللّه
-							<lb facs="#Gr-Z_0011-00379_207v_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_207v_ar_lb_15"/>	ابينا <hi rend="red">//</hi> <milestone unit="verse" n="1:5"/> له العزه
-							<lb facs="#Gr-Z_0011-00379_207v_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_207v_ar_lb_16"/>	<choice><orig>ڡى</orig></choice> عالم العوالم امن <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_207v_ar_lb_15"/>	ابينا <hi rend="red">⫽</hi> <milestone unit="verse" n="1:5"/> له العزه
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_207v_ar_lb_16"/>	<choice><orig>ڡى</orig></choice> عالم العوالم امن <hi rend="red">⫽</hi>
 							<lb facs="#Gr-Z_0011-00379_207v_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_207v_ar_lb_17"/>	<milestone unit="verse" n="1:6"/> اما بعد فانى اتعجب مَا اسرع
-							<lb facs="#Gr-Z_0011-00379_207v_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_207v_ar_lb_18"/>	مَا تتقلبون <hi rend="red">//</hi> عن الذي دعاكم
-							<lb facs="#Gr-Z_0011-00379_207v_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_207v_ar_lb_19"/>	الى امتنان المسيح <hi rend="red">//</hi> الى انجيلٍ
-							<lb facs="#Gr-Z_0011-00379_207v_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_207v_ar_lb_20"/>	اخرٍ <milestone unit="verse" n="1:7"/> و ليس هو غيره <hi rend="red">//</hi> الّا
-							<lb facs="#Gr-Z_0011-00379_207v_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_207v_ar_lb_21"/>	انّ بعض ناس يخبّلونكم <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_207v_ar_lb_18"/>	مَا تتقلبون <hi rend="red">⫽</hi> عن الذي دعاكم
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_207v_ar_lb_19"/>	الى امتنان المسيح <hi rend="red">⫽</hi> الى انجيلٍ
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_207v_ar_lb_20"/>	اخرٍ <milestone unit="verse" n="1:7"/> و ليس هو غيره <hi rend="red">⫽</hi> الّا
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_207v_ar_lb_21"/>	انّ بعض ناس يخبّلونكم <hi rend="red">⫽</hi>
 							<lb facs="#Gr-Z_0011-00379_207v_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_207v_ar_lb_22"/>	و يرومون ازاله
-							<lb facs="#Gr-Z_0011-00379_207v_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_207v_ar_lb_23"/>	انجيل المسيح <hi rend="red">//</hi> <milestone unit="verse" n="1:8"/> و لكن
+							<lb facs="#Gr-Z_0011-00379_207v_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_207v_ar_lb_23"/>	انجيل المسيح <hi rend="red">⫽</hi> <milestone unit="verse" n="1:8"/> و لكن
 												</p>
 						<!--folio 208r-->
 						<pb facs="#Gr-Z_0011-00379_208r" xml:id="Gr-Z_0011-00379_208r" n="208r"/>
 						<p>
 							<lb facs="#Gr-Z_0011-00379_208r_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_208r_ar_lb_1"/>	ان نحن او مَلك مں السّما 
 							<lb facs="#Gr-Z_0011-00379_208r_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_208r_ar_lb_2"/>	يبشركم بخلاف مَا
-							<lb facs="#Gr-Z_0011-00379_208r_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_208r_ar_lb_3"/>	بشرناكم به <hi rend="red">//</hi> فعليه 
-							<lb facs="#Gr-Z_0011-00379_208r_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_208r_ar_lb_4"/>	اللّعن <hi rend="red">//</hi> <milestone unit="verse" n="1:9"/> 
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_208r_ar_lb_3"/>	بشرناكم به <hi rend="red">⫽</hi> فعليه 
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_208r_ar_lb_4"/>	اللّعن <hi rend="red">⫽</hi> <milestone unit="verse" n="1:9"/> 
 							فكما قلنا<ptr type="noteAnchor" target="#Note_Gal_ar1"/>
-							<lb facs="#Gr-Z_0011-00379_208r_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_208r_ar_lb_5"/>	فكذلك ايضى فلنقل<ptr type="noteAnchor" target="#Note_Gal_ar2"/> <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_208r_ar_lb_5"/>	فكذلك ايضى فلنقل<ptr type="noteAnchor" target="#Note_Gal_ar2"/> <hi rend="red">⫽</hi>
 							<lb facs="#Gr-Z_0011-00379_208r_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_208r_ar_lb_6"/>	كلمن بشركم بخلاف
-							<lb facs="#Gr-Z_0011-00379_208r_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_208r_ar_lb_7"/>	مَا حملتم عنا فعليه اللعن <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_208r_ar_lb_7"/>	مَا حملتم عنا فعليه اللعن <hi rend="red">⫽</hi>
 							<lb facs="#Gr-Z_0011-00379_208r_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_208r_ar_lb_8"/>	<milestone unit="verse" n="1:10"/> فانا الان <choice><orig>مں</orig><reg>من</reg></choice> استرضى اثرا
-							<lb facs="#Gr-Z_0011-00379_208r_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_208r_ar_lb_9"/>	الله ام الناس <hi rend="red">//</hi> ام هل 
-							<lb facs="#Gr-Z_0011-00379_208r_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_208r_ar_lb_10"/>	اطلب مرضات الناس <hi rend="red">//</hi> أيم اللّه<ptr type="noteAnchor" target="#Note_Gal_ar3"/>
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_208r_ar_lb_9"/>	الله ام الناس <hi rend="red">⫽</hi> ام هل 
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_208r_ar_lb_10"/>	اطلب مرضات الناس <hi rend="red">⫽</hi> أيم اللّه<ptr type="noteAnchor" target="#Note_Gal_ar3"/>
 							<lb facs="#Gr-Z_0011-00379_208r_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_208r_ar_lb_11"/>	انى لو استرضيت بعد الناس مَا
-							<lb facs="#Gr-Z_0011-00379_208r_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_208r_ar_lb_12"/>	كنت للمسيح عبدًا <hi rend="red">//</hi> <milestone unit="verse" n="1:11"/> و انا اعلمكم
-							<lb facs="#Gr-Z_0011-00379_208r_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_208r_ar_lb_13"/>	<ptr type="noteAnchor" target="#Note_Gal_ar4"/> ان شريعه البشرى <hi rend="red">//</hi> التى اشرعَها
-							<lb facs="#Gr-Z_0011-00379_208r_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_208r_ar_lb_14"/>	ليسَت مُستفاده <choice><orig>مں</orig><reg>من</reg></choice> عند انسان <hi rend="red">//</hi>
-							<lb facs="#Gr-Z_0011-00379_208r_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_208r_ar_lb_15"/>	<milestone unit="verse" n="1:12"/> و لا تعلمتها <choice><orig>مں</orig><reg>من</reg></choice> ادمي // و لا استفدتها
-							<lb facs="#Gr-Z_0011-00379_208r_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_208r_ar_lb_16"/>	منه <hi rend="red">//</hi> الا بايجاب<ptr type="noteAnchor" target="#Note_Gal_ar5"/> يسوع المسيح <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_208r_ar_lb_12"/>	كنت للمسيح عبدًا <hi rend="red">⫽</hi> <milestone unit="verse" n="1:11"/> و انا اعلمكم
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_208r_ar_lb_13"/>	<ptr type="noteAnchor" target="#Note_Gal_ar4"/> ان شريعه البشرى <hi rend="red">⫽</hi> التى اشرعَها
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_208r_ar_lb_14"/>	ليسَت مُستفاده <choice><orig>مں</orig><reg>من</reg></choice> عند انسان <hi rend="red">⫽</hi>
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_208r_ar_lb_15"/>	<milestone unit="verse" n="1:12"/> و لا تعلمتها <choice><orig>مں</orig><reg>من</reg></choice> ادمي ⫽ و لا استفدتها
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_208r_ar_lb_16"/>	منه <hi rend="red">⫽</hi> الا بايجاب<ptr type="noteAnchor" target="#Note_Gal_ar5"/> يسوع المسيح <hi rend="red">⫽</hi>
 							<lb facs="#Gr-Z_0011-00379_208r_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_208r_ar_lb_17"/>	<milestone unit="verse" n="1:13"/> و قد بلغكم كينونتى مرّه
-							<lb facs="#Gr-Z_0011-00379_208r_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_208r_ar_lb_18"/>	<choice><orig>ڡى</orig><reg>في</reg></choice> اليهود <hi rend="red">//</hi> و انى <choice><orig>اسدّ</orig><reg>اشدّ</reg></choice>
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_208r_ar_lb_18"/>	<choice><orig>ڡى</orig><reg>في</reg></choice> اليهود <hi rend="red">⫽</hi> و انى <choice><orig>اسدّ</orig><reg>اشدّ</reg></choice>
 							<lb facs="#Gr-Z_0011-00379_208r_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_208r_ar_lb_19"/>	الناس طلبًا لبيعه
-							<lb facs="#Gr-Z_0011-00379_208r_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_208r_ar_lb_20"/>	اللّه <hi rend="red">//</hi> و كنتُ اعاديها
-							<lb facs="#Gr-Z_0011-00379_208r_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_208r_ar_lb_21"/>	و احنق عليها <hi rend="red">//</hi> <milestone unit="verse" n="1:14"/> و كنتُ في
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_208r_ar_lb_20"/>	اللّه <hi rend="red">⫽</hi> و كنتُ اعاديها
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_208r_ar_lb_21"/>	و احنق عليها <hi rend="red">⫽</hi> <milestone unit="verse" n="1:14"/> و كنتُ في
 							<lb facs="#Gr-Z_0011-00379_208r_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_208r_ar_lb_22"/>	اليهود اشرف حالًا من كثير
 							<lb facs="#Gr-Z_0011-00379_208r_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_208r_ar_lb_23"/>	من نظراي <choice><orig>مں</orig><reg>من</reg></choice> اهل رهطى
-							<lb facs="#Gr-Z_0011-00379_208r_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_208r_ar_lb_24"/>	و قبيلتى <hi rend="red">//</hi> اذ كنت اكثرهم
-							<lb facs="#Gr-Z_0011-00379_208r_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_208r_ar_lb_25"/>	شُحًا بفرايض اباي و ذبًا عنهم <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_208r_ar_lb_24"/>	و قبيلتى <hi rend="red">⫽</hi> اذ كنت اكثرهم
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_208r_ar_lb_25"/>	شُحًا بفرايض اباي و ذبًا عنهم <hi rend="red">⫽</hi>
 							<lb facs="#Gr-Z_0011-00379_208r_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_208r_ar_lb_26"/>	<milestone unit="verse" n="1:15"/> فلما شا الذى خزلنى
-							<lb facs="#Gr-Z_0011-00379_208r_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_208r_ar_lb_27"/>	<choice><orig>مں</orig><reg>من</reg></choice> بطن امى <hi rend="red">//</hi>
+							<lb facs="#Gr-Z_0011-00379_208r_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_208r_ar_lb_27"/>	<choice><orig>مں</orig><reg>من</reg></choice> بطن امى <hi rend="red">⫽</hi>
 							<lb facs="#Gr-Z_0011-00379_208r_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_208r_ar_lb_28"/>	و دعانى
 							
 						</p>
@@ -621,7 +633,7 @@
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_246r_ar_lb_1"/><milestone
 							unit="verse" n="1:1"/> من بولس و سلوانس
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_246r_ar_lb_2"/>
-						و تيموتاوس <hi rend="red">//</hi> الى بيعه <lb facs="#Gr-Z_0011-00379_246r_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_246r_ar_lb_3"/>
+						و تيموتاوس <hi rend="red">⫽</hi> الى بيعه <lb facs="#Gr-Z_0011-00379_246r_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_246r_ar_lb_3"/>
 						<choice>
 							<orig>الثسلو‫نيكىں
 							</orig>
@@ -632,11 +644,11 @@
 							<reg>فى</reg>
 						</choice> اللّه
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_246r_ar_lb_4"/>
-						الاب و سيدنا ايسوع المسيح <hi rend="red">//</hi>
+						الاب و سيدنا ايسوع المسيح <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_246r_ar_lb_5"/>
 						النعمه و السّلام معكم من الله
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_246r_ar_lb_6"/>
-						ابينا <hi rend="red">//</hi> و ر‫ٮنا‬ ايسوع المسيح <hi rend="red">//</hi>
+						ابينا <hi rend="red">⫽</hi> و ر‫ٮنا‬ ايسوع المسيح <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_246r_ar_lb_7"/>
 						<milestone unit="verse" n="1:2"/>
 						<choice>
@@ -644,7 +656,7 @@
 							<orig>ىسكر</orig>
 						</choice> الله ابدًا
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_246r_ar_lb_8"/>
-						عن جميعكم <hi rend="red">//</hi>
+						عن جميعكم <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_246r_ar_lb_9"/>
 						و نذكركم فى
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_246r_ar_lb_10"/>
@@ -652,43 +664,43 @@
 							<orig>دايم</orig>
 							<reg>دائم</reg>
 						</choice>
-						<hi rend="red">//</hi>
+						<hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_246r_ar_lb_11"/>
 						<milestone unit="verse" n="1:3"/> و نذكر اعمالكم
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_246r_ar_lb_12"/>
-						و ايمانكم <hi rend="red">//</hi>
+						و ايمانكم <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_246r_ar_lb_13"/>
-						و نصبكم و صبركم <hi rend="red">//</hi> محبتكم
+						و نصبكم و صبركم <hi rend="red">⫽</hi> محبتكم
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_246r_ar_lb_14"/>
 						على ما رجوتم به سيدنا
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_246r_ar_lb_15"/>
-						يسوع المسيح <hi rend="red">//</hi> قدام
+						يسوع المسيح <hi rend="red">⫽</hi> قدام
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_246r_ar_lb_16"/>
-						اللة و ابينا <hi rend="red">//</hi>
+						اللة و ابينا <hi rend="red">⫽</hi>
 						<milestone unit="verse" n="1:4"/> عالمين يا معشر
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_246r_ar_lb_17"/>
-						الاخوه المحبين <hi rend="red">//</hi>
+						الاخوه المحبين <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_246r_ar_lb_18"/>
-						انكم من الله دعيتم <hi rend="red">//</hi>
+						انكم من الله دعيتم <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_246r_ar_lb_19"/>
 						<milestone unit="verse" n="1:5"/> لان بشارتنا
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_246r_ar_lb_20"/>
 						لم تصير اليكم بالقول
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_246r_ar_lb_21"/>
-						فقط <hi rend="red">//</hi> الا <choice><orig>ٮالقدره</orig><reg>بالقدره</reg></choice>
+						فقط <hi rend="red">⫽</hi> الا <choice><orig>ٮالقدره</orig><reg>بالقدره</reg></choice>
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_246r_ar_lb_22"/>
-						و الرّوح القدس <hi rend="red">//</hi>
+						و الرّوح القدس <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_246r_ar_lb_23"/>
-						و كمال كثير <hi rend="red">//</hi>
+						و كمال كثير <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_246r_ar_lb_24"/>
 						كالذي تعلمون من
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_246r_ar_lb_25"/>
-						حَالاتنا بين اظهركم <hi rend="red">//</hi>
+						حَالاتنا بين اظهركم <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_246r_ar_lb_26"/>
-						من سببكم <hi rend="red">//</hi>
+						من سببكم <hi rend="red">⫽</hi>
 						<milestone unit="verse" n="1:6"/> و انتم قد صرتم
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_246r_ar_lb_27"/>
-						مقتدين بنا و بالرب <hi rend="red">//</hi> و تقبلتم
+						مقتدين بنا و بالرب <hi rend="red">⫽</hi> و تقبلتم
 						<lb facs="#Gr-Z_0011-00379_246r_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_246r_ar_lb_28"/>
 						الكلمه <choice>
 							<orig>ڡى</orig>
@@ -697,39 +709,39 @@
 						<choice>
 							<orig>حرن</orig>
 							<reg>حزن</reg>
-						</choice> كثير <hi rend="red">//</hi>
+						</choice> كثير <hi rend="red">⫽</hi>
 					</p>
 					<!--folio 246v-->
 					<pb xml:id="Gr-Z_0011-00379_246v" facs="#Gr-Z_0011-00379_246v" n="246v"/>
 					<p>
-						<lb facs="#Gr-Z_0011-00379_246v_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_246v_ar_lb_1"/>	بسرور روح القدس <hi rend="red">//</hi> <milestone unit="verse" n="1:7"/> حتى
+						<lb facs="#Gr-Z_0011-00379_246v_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_246v_ar_lb_1"/>	بسرور روح القدس <hi rend="red">⫽</hi> <milestone unit="verse" n="1:7"/> حتى
 						<lb facs="#Gr-Z_0011-00379_246v_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_246v_ar_lb_2"/>	صرتم قالبًا لجميع
-						<lb facs="#Gr-Z_0011-00379_246v_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_246v_ar_lb_3"/>	المومنين <hi rend="red">//</hi> بمقدونيه
-						<lb facs="#Gr-Z_0011-00379_246v_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_246v_ar_lb_4"/>	و فى اخاييا <hi rend="red">//</hi> <milestone unit="verse" n="1:8"/> فمن عندكم 
-						<lb facs="#Gr-Z_0011-00379_246v_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_246v_ar_lb_5"/>	انتشر كلام الرب <hi rend="red">//</hi> و ليس
+						<lb facs="#Gr-Z_0011-00379_246v_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_246v_ar_lb_3"/>	المومنين <hi rend="red">⫽</hi> بمقدونيه
+						<lb facs="#Gr-Z_0011-00379_246v_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_246v_ar_lb_4"/>	و فى اخاييا <hi rend="red">⫽</hi> <milestone unit="verse" n="1:8"/> فمن عندكم 
+						<lb facs="#Gr-Z_0011-00379_246v_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_246v_ar_lb_5"/>	انتشر كلام الرب <hi rend="red">⫽</hi> و ليس
 						<lb facs="#Gr-Z_0011-00379_246v_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_246v_ar_lb_6"/>	<choice><orig>ڡى</orig><reg>فى</reg></choice> مقدونيه و اخاييا
-						<lb facs="#Gr-Z_0011-00379_246v_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_246v_ar_lb_7"/>	فقط <hi rend="red">//</hi> الا و قد شاع فى
-						<lb facs="#Gr-Z_0011-00379_246v_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_246v_ar_lb_8"/>	كل موضع <hi rend="red">//</hi> ايمانكم و حسن
-						<lb facs="#Gr-Z_0011-00379_246v_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_246v_ar_lb_9"/>		فايدتكم الي الله <hi rend="red">//</hi> حتى ما احتاج
-						<lb facs="#Gr-Z_0011-00379_246v_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_246v_ar_lb_10"/>		الى ان نتكلم بشى <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_246v_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_246v_ar_lb_7"/>	فقط <hi rend="red">⫽</hi> الا و قد شاع فى
+						<lb facs="#Gr-Z_0011-00379_246v_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_246v_ar_lb_8"/>	كل موضع <hi rend="red">⫽</hi> ايمانكم و حسن
+						<lb facs="#Gr-Z_0011-00379_246v_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_246v_ar_lb_9"/>		فايدتكم الي الله <hi rend="red">⫽</hi> حتى ما احتاج
+						<lb facs="#Gr-Z_0011-00379_246v_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_246v_ar_lb_10"/>		الى ان نتكلم بشى <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_246v_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_246v_ar_lb_11"/>		<milestone unit="verse" n="1:9"/> فانهم يخبرون عنا
 						<lb facs="#Gr-Z_0011-00379_246v_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_246v_ar_lb_12"/>		اى دخول كان لنا 
-						<lb facs="#Gr-Z_0011-00379_246v_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_246v_ar_lb_13"/>		اليكم <hi rend="red">//</hi> و كيف رجعتم 
-						<lb facs="#Gr-Z_0011-00379_246v_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_246v_ar_lb_14"/>		الى اللّه <hi rend="red">//</hi> عن 
-						<lb facs="#Gr-Z_0011-00379_246v_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_246v_ar_lb_15"/>		الاوثان <hi rend="red">//</hi> ان تعبدوا اللّه
-						<lb facs="#Gr-Z_0011-00379_246v_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_246v_ar_lb_16"/>		الحيّ اليقين <hi rend="red">//</hi> <milestone unit="verse" n="1:10"/> و ان ننتظروا<ptr type="noteAnchor" target="#Note_1Thes_ar1"/>
-						<lb facs="#Gr-Z_0011-00379_246v_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_246v_ar_lb_17"/>		ابنه من السموات <hi rend="red">//</hi>
-						<lb facs="#Gr-Z_0011-00379_246v_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_246v_ar_lb_18"/>		الذي اقامه <choice><orig>مں‬</orig><reg>من</reg></choice> <choice><orig>ىىں</orig><reg>بين</reg></choice> الموتا <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_246v_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_246v_ar_lb_13"/>		اليكم <hi rend="red">⫽</hi> و كيف رجعتم 
+						<lb facs="#Gr-Z_0011-00379_246v_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_246v_ar_lb_14"/>		الى اللّه <hi rend="red">⫽</hi> عن 
+						<lb facs="#Gr-Z_0011-00379_246v_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_246v_ar_lb_15"/>		الاوثان <hi rend="red">⫽</hi> ان تعبدوا اللّه
+						<lb facs="#Gr-Z_0011-00379_246v_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_246v_ar_lb_16"/>		الحيّ اليقين <hi rend="red">⫽</hi> <milestone unit="verse" n="1:10"/> و ان ننتظروا<ptr type="noteAnchor" target="#Note_1Thes_ar1"/>
+						<lb facs="#Gr-Z_0011-00379_246v_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_246v_ar_lb_17"/>		ابنه من السموات <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_246v_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_246v_ar_lb_18"/>		الذي اقامه <choice><orig>مں‬</orig><reg>من</reg></choice> <choice><orig>ىىں</orig><reg>بين</reg></choice> الموتا <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_246v_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_246v_ar_lb_19"/>		يسوع الذي خلصنا من 
-						<lb facs="#Gr-Z_0011-00379_246v_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_246v_ar_lb_20"/>		السخط المقبل <hi rend="red">//</hi> <milestone unit="verse" n="2:1"/> فانكم
+						<lb facs="#Gr-Z_0011-00379_246v_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_246v_ar_lb_20"/>		السخط المقبل <hi rend="red">⫽</hi> <milestone unit="verse" n="2:1"/> فانكم
 						<lb facs="#Gr-Z_0011-00379_246v_ar_line_21" n="22" xml:id="Gr-Z_0011-00379_246v_ar_lb_21"/>		تعلمون <choice><orig>ياخوتى</orig><reg>يا اخوتى</reg></choice> دخولنا 
-						<lb facs="#Gr-Z_0011-00379_246v_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_246v_ar_lb_22"/>		اليكم فانه لم يكن خاليًا <hi rend="red">//</hi>
-						<lb facs="#Gr-Z_0011-00379_246v_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_246v_ar_lb_23"/>		<milestone unit="verse" n="2:2"/> بل كابدنا المشقه اوّلًا <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_246v_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_246v_ar_lb_22"/>		اليكم فانه لم يكن خاليًا <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_246v_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_246v_ar_lb_23"/>		<milestone unit="verse" n="2:2"/> بل كابدنا المشقه اوّلًا <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_246v_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_246v_ar_lb_24"/>		و نالنا التمريث كالذي
-						<lb facs="#Gr-Z_0011-00379_246v_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_246v_ar_lb_25"/>		علمتم بفيلبّه <hi rend="red">//</hi> و اتكلنا
-						<lb facs="#Gr-Z_0011-00379_246v_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_246v_ar_lb_26"/>		على الهنا <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_246v_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_246v_ar_lb_25"/>		علمتم بفيلبّه <hi rend="red">⫽</hi> و اتكلنا
+						<lb facs="#Gr-Z_0011-00379_246v_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_246v_ar_lb_26"/>		على الهنا <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_246v_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_246v_ar_lb_27"/>		ان نكلمكم 
-						<lb facs="#Gr-Z_0011-00379_246v_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_246v_ar_lb_28"/>		بانجيل اللّه باهتبال كثير <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_246v_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_246v_ar_lb_28"/>		بانجيل اللّه باهتبال كثير <hi rend="red">⫽</hi>
 						
 						
 					</p>
@@ -739,66 +751,66 @@
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_247r_ar_lb_1"/>
 						<milestone unit="verse" n="2:3"/> فان ارشادنا لكم ليس
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_247r_ar_lb_2"/>
-						عن غلط <hi rend="red">//</hi> و لا عن نجاسه <hi rend="red">//</hi>
+						عن غلط <hi rend="red">⫽</hi> و لا عن نجاسه <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_247r_ar_lb_3"/>
-						و لا فى مجابره <hi rend="red">//</hi>
+						و لا فى مجابره <hi rend="red">⫽</hi>
 						<milestone unit="verse" n="2:4"/> الا كالذى
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_247r_ar_lb_4"/>
 							بلوناه من اللّه
-							<hi rend="red">//</hi> ان
+							<hi rend="red">⫽</hi> ان
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_247r_ar_lb_5"/>
 						تقبلوا منا<ptr type="noteAnchor" target="#Note_1Thes_ar2"/> الانجيل كذلك
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_247r_ar_lb_6"/>
-						نقول <hi rend="red">//</hi> و ليس كمن يستحمد الي
+						نقول <hi rend="red">⫽</hi> و ليس كمن يستحمد الي
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_247r_ar_lb_7"/>
-						الناس <hi rend="red">//</hi> بل كمن يستحمد الى اللّه <hi rend="red">//</hi>
+						الناس <hi rend="red">⫽</hi> بل كمن يستحمد الى اللّه <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_247r_ar_lb_8"/>
-						الذي يبتلى قلوبنا <hi rend="red">//</hi>
+						الذي يبتلى قلوبنا <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_247r_ar_lb_9"/>
 						<milestone unit="verse" n="2:5"/>فانا لم نكن قط فى قول
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_10" n="1" xml:id="Gr-Z_0011-00379_247r_ar_lb_10"/>
-						المُساعده <hi rend="red">//</hi> كالذي
+						المُساعده <hi rend="red">⫽</hi> كالذي
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_247r_ar_lb_11"/>
-						تعلمون <hi rend="red">//</hi> و لا فى سبيل
+						تعلمون <hi rend="red">⫽</hi> و لا فى سبيل
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_247r_ar_lb_12"/>
-						الرّغبه <hi rend="red">//</hi> و شاهدنا الله
+						الرّغبه <hi rend="red">⫽</hi> و شاهدنا الله
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_247r_ar_lb_13"/>
-						على ذلك <hi rend="red">//</hi>
+						على ذلك <hi rend="red">⫽</hi>
 						<milestone unit="verse" n="2:6"/> و لا طلبنا من
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_247r_ar_lb_14"/>
-						الناس تعظيمًا <hi rend="red">//</hi> و لا منكم
+						الناس تعظيمًا <hi rend="red">⫽</hi> و لا منكم
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_247r_ar_lb_15"/>
-						و لا من غيركم <hi rend="red">//</hi> كل ذلك
+						و لا من غيركم <hi rend="red">⫽</hi> كل ذلك
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_247r_ar_lb_16"/>
-						<milestone unit="verse" n="2:7"/> ان نكون عند جميعكم مكرمين <hi rend="red">//</hi>
+						<milestone unit="verse" n="2:7"/> ان نكون عند جميعكم مكرمين <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_247r_ar_lb_17"/>
-						كرسل المسيح <hi rend="red">//</hi> و  لقد صرنا 
+						كرسل المسيح <hi rend="red">⫽</hi> و  لقد صرنا 
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_247r_ar_lb_18"/>
-						اطفالًا بينكم <hi rend="red">//</hi> كمثل الطير<ptr type="noteAnchor" target="#Note_1Thes_ar3"/>
+						اطفالًا بينكم <hi rend="red">⫽</hi> كمثل الطير<ptr type="noteAnchor" target="#Note_1Thes_ar3"/>
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_247r_ar_lb_19"/>
-						الحاضنه لاولادها <hi rend="red">//</hi>
+						الحاضنه لاولادها <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_247r_ar_lb_20"/>
 						<milestone unit="verse" n="2:8"/> فكذلك شوقنا اليكم <choice>
 							<reg>راغبين</reg>
 							<orig>راعبين</orig>
 						</choice>
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_247r_ar_lb_21"/>
-						و مريدين<hi rend="red">//</hi> ان نشارككم <hi rend="red">//</hi>
+						و مريدين<hi rend="red">⫽</hi> ان نشارككم <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_247r_ar_lb_22"/>
 						ليس قط في
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_247r_ar_lb_23"/>
-						انجيل اللّه <hi rend="red">//</hi> الا و فى
+						انجيل اللّه <hi rend="red">⫽</hi> الا و فى
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_247r_ar_lb_24"/>
-						نفوسنا <hi rend="red">//</hi> لانكم
+						نفوسنا <hi rend="red">⫽</hi> لانكم
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_247r_ar_lb_25"/>
-						صرتم لنا محبين <hi rend="red">//</hi>
+						صرتم لنا محبين <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_247r_ar_lb_26"/>
 						<milestone unit="verse" n="2:9"/> فانكم تذكرون <choice>
 							<reg>يا اخوتى</reg>
 							<orig>ياخوتى</orig>
 						</choice>
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_247r_ar_lb_27"/>
-						تعبنا و شخوصنا <hi rend="red">//</hi>
+						تعبنا و شخوصنا <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_247r_ar_lb_28"/>
 						ليلا و نهارًا
 						<lb facs="#Gr-Z_0011-00379_247r_ar_line_29" n="29" xml:id="Gr-Z_0011-00379_247r_ar_lb_29"/>
@@ -808,72 +820,72 @@
 					
 					<pb facs="#Gr-Z_0011-00379_247v" xml:id="Gr-Z_0011-00379_247v" n="247v"/>
 					<p>
-						<lb facs="#Gr-Z_0011-00379_247v_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_247v_ar_lb_1"/>	نثقل على احدٍ منكم <hi rend="red">//</hi> و شرعنا
-						<lb facs="#Gr-Z_0011-00379_247v_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_247v_ar_lb_2"/>	فيكم انجيل اللّه <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_247v_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_247v_ar_lb_1"/>	نثقل على احدٍ منكم <hi rend="red">⫽</hi> و شرعنا
+						<lb facs="#Gr-Z_0011-00379_247v_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_247v_ar_lb_2"/>	فيكم انجيل اللّه <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_247v_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_247v_ar_lb_3"/>	<milestone unit="verse" n="2:10"/> و انتم شهودي
-						<lb facs="#Gr-Z_0011-00379_247v_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_247v_ar_lb_4"/>	و اللّه <hi rend="red">//</hi> فاصلح مَا كنا
-						<lb facs="#Gr-Z_0011-00379_247v_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_247v_ar_lb_5"/>	لكم و اعدل <hi rend="red">//</hi> و بلا شكيه
-						<lb facs="#Gr-Z_0011-00379_247v_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_247v_ar_lb_6"/>	<choice><orig>يايها</orig><reg>يا ايها</reg></choice> الذين امنتم <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_247v_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_247v_ar_lb_4"/>	و اللّه <hi rend="red">⫽</hi> فاصلح مَا كنا
+						<lb facs="#Gr-Z_0011-00379_247v_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_247v_ar_lb_5"/>	لكم و اعدل <hi rend="red">⫽</hi> و بلا شكيه
+						<lb facs="#Gr-Z_0011-00379_247v_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_247v_ar_lb_6"/>	<choice><orig>يايها</orig><reg>يا ايها</reg></choice> الذين امنتم <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_247v_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_247v_ar_lb_7"/>	<milestone unit="verse" n="2:11"/> كالذي تعلمون <choice><orig>كيڡ</orig><reg>كيف</reg></choice> تضرعنا<ptr type="noteAnchor" target="#Note_1Thes_ar4"/>
-						<lb facs="#Gr-Z_0011-00379_247v_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_247v_ar_lb_8"/>	الى كل واحدٍ منكم <hi rend="red">//</hi> كالاب الي
-								<lb facs="#Gr-Z_0011-00379_247v_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_247v_ar_lb_9"/>	اولاده <hi rend="red">//</hi> <milestone unit="verse" n="2:12"/> طالبين اليكم
-						<lb facs="#Gr-Z_0011-00379_247v_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_247v_ar_lb_10"/>	و معزين لكم <hi rend="red">//</hi> و شهدنا ان 
-						<lb facs="#Gr-Z_0011-00379_247v_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_247v_ar_lb_11"/>	تسيروا سيرًا جميلًا لله <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_247v_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_247v_ar_lb_8"/>	الى كل واحدٍ منكم <hi rend="red">⫽</hi> كالاب الي
+								<lb facs="#Gr-Z_0011-00379_247v_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_247v_ar_lb_9"/>	اولاده <hi rend="red">⫽</hi> <milestone unit="verse" n="2:12"/> طالبين اليكم
+						<lb facs="#Gr-Z_0011-00379_247v_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_247v_ar_lb_10"/>	و معزين لكم <hi rend="red">⫽</hi> و شهدنا ان 
+						<lb facs="#Gr-Z_0011-00379_247v_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_247v_ar_lb_11"/>	تسيروا سيرًا جميلًا لله <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_247v_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_247v_ar_lb_12"/>	الذي دعاكم الى ملكه
-						<lb facs="#Gr-Z_0011-00379_247v_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_247v_ar_lb_13"/>	و عزته <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_247v_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_247v_ar_lb_13"/>	و عزته <hi rend="red">⫽</hi>
 									<lb facs="#Gr-Z_0011-00379_247v_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_247v_ar_lb_14"/>	<milestone unit="verse" n="2:13"/> و لذلك نحن نحمد
-						<lb facs="#Gr-Z_0011-00379_247v_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_247v_ar_lb_15"/>	الله بلا فتور <hi rend="red">//</hi> اذ
+						<lb facs="#Gr-Z_0011-00379_247v_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_247v_ar_lb_15"/>	الله بلا فتور <hi rend="red">⫽</hi> اذ
 						<lb facs="#Gr-Z_0011-00379_247v_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_247v_ar_lb_16"/>	كنتم تتقبلون عنا
-						<lb facs="#Gr-Z_0011-00379_247v_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_247v_ar_lb_17"/>	سماع قول اللّه // تقبّلتموه
-						<lb facs="#Gr-Z_0011-00379_247v_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_247v_ar_lb_18"/>	ليس كتقبّل اقوال الناس <hi rend="red">//</hi>
-						<lb facs="#Gr-Z_0011-00379_247v_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_247v_ar_lb_19"/>	بل كما انه قول الله حقًا <hi rend="red">//</hi>
-						<lb facs="#Gr-Z_0011-00379_247v_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_247v_ar_lb_20"/>	<choice><orig>الدي</orig><reg>الذي</reg></choice> يعمل فيكم ايها المومنين <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_247v_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_247v_ar_lb_17"/>	سماع قول اللّه ⫽ تقبّلتموه
+						<lb facs="#Gr-Z_0011-00379_247v_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_247v_ar_lb_18"/>	ليس كتقبّل اقوال الناس <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_247v_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_247v_ar_lb_19"/>	بل كما انه قول الله حقًا <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_247v_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_247v_ar_lb_20"/>	<choice><orig>الدي</orig><reg>الذي</reg></choice> يعمل فيكم ايها المومنين <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_247v_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_247v_ar_lb_21"/>	<milestone unit="verse" n="2:14"/> و انتم <choice><orig>ياخوتى</orig><reg>يا اخوتى</reg></choice> صرتم
-						<lb facs="#Gr-Z_0011-00379_247v_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_247v_ar_lb_22"/>	مقتدين بيع اللّه <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_247v_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_247v_ar_lb_22"/>	مقتدين بيع اللّه <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_247v_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_247v_ar_lb_23"/>	 التى هى بارض
-						<lb facs="#Gr-Z_0011-00379_247v_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_247v_ar_lb_24"/>	يهودا <choice><orig>ڡى</orig><reg>في</reg></choice> المسيح يسوع <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_247v_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_247v_ar_lb_24"/>	يهودا <choice><orig>ڡى</orig><reg>في</reg></choice> المسيح يسوع <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_247v_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_247v_ar_lb_25"/>	<choice><orig>قفد</orig><reg>فقد</reg></choice> لقيتم مَا لقوا من اهل
-						<lb facs="#Gr-Z_0011-00379_247v_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_247v_ar_lb_26"/>	عشايركم <hi rend="red">//</hi> كمثل
+						<lb facs="#Gr-Z_0011-00379_247v_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_247v_ar_lb_26"/>	عشايركم <hi rend="red">⫽</hi> كمثل
 						<lb facs="#Gr-Z_0011-00379_247v_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_247v_ar_lb_27"/>	مَا لقوه هم من
-									<lb facs="#Gr-Z_0011-00379_247v_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_247v_ar_lb_28"/>	اليهود <hi rend="red">//</hi> <milestone unit="verse" n="2:15"/> الذين قتلوا
+									<lb facs="#Gr-Z_0011-00379_247v_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_247v_ar_lb_28"/>	اليهود <hi rend="red">⫽</hi> <milestone unit="verse" n="2:15"/> الذين قتلوا
 						
 					</p>
 					<!--folio 248r-->
 					
 					<pb facs="#Gr-Z_0011-00379_248r" xml:id="Gr-Z_0011-00379_248r" n="248r"/>
 					<p>
-						<lb facs="#Gr-Z_0011-00379_248r_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_248r_ar_lb_1"/>	الرب يسوع <hi rend="red">//</hi>
-						<lb facs="#Gr-Z_0011-00379_248r_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_248r_ar_lb_2"/>	و <choice><orig>الانبيا</orig><reg>الانبياء</reg></choice> <hi rend="red">//</hi> و طالبونا
-						<lb facs="#Gr-Z_0011-00379_248r_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_248r_ar_lb_3"/>	و لم يرضَ الله عنهم <hi rend="red">//</hi>
-						<lb facs="#Gr-Z_0011-00379_248r_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_248r_ar_lb_4"/>	و يخالفوا جميع الناس <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_248r_ar_lb_1"/>	الرب يسوع <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_248r_ar_lb_2"/>	و <choice><orig>الانبيا</orig><reg>الانبياء</reg></choice> <hi rend="red">⫽</hi> و طالبونا
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_248r_ar_lb_3"/>	و لم يرضَ الله عنهم <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_248r_ar_lb_4"/>	و يخالفوا جميع الناس <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_248r_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_248r_ar_lb_5"/>	<milestone unit="verse" n="2:16"/> و يمنعونا الدخول
-						<lb facs="#Gr-Z_0011-00379_248r_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_248r_ar_lb_6"/>	اليكم <hi rend="red">//</hi> ان نكالم الاجناس ان
-						<lb facs="#Gr-Z_0011-00379_248r_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_248r_ar_lb_7"/>	تتخلص سالمه <hi rend="red">//</hi> <choice><orig>ا‫ں‬</orig><reg>ان</reg></choice> يوعبوا
-						<lb facs="#Gr-Z_0011-00379_248r_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_248r_ar_lb_8"/>	ذنوبهم ابدًا <hi rend="red">//</hi> فقد غافصهم سخط
-						<lb facs="#Gr-Z_0011-00379_248r_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_248r_ar_lb_9"/>	اللّه<ptr type="noteAnchor" target="#Note_1Thes_ar5"/> و نزل اليهم <hi rend="red">//</hi> حتى الى
-						<lb facs="#Gr-Z_0011-00379_248r_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_248r_ar_lb_10"/>	الانقراض <hi rend="red">//</hi> <milestone unit="verse" n="2:17"/> و امّا <choice><orig>ىحں</orig><reg>نحن</reg></choice>
-						<lb facs="#Gr-Z_0011-00379_248r_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_248r_ar_lb_11"/>	<choice><orig>‬ىاخوتى</orig><reg>يا يخوتي</reg></choice> فانا مستوحشون لكم <hi rend="red">//</hi>
-						<lb facs="#Gr-Z_0011-00379_248r_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_248r_ar_lb_12"/>	الى زمان ساعه <hi rend="red">//</hi> بالوجه و ليس
-						<lb facs="#Gr-Z_0011-00379_248r_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_248r_ar_lb_13"/>	بالقلب <hi rend="red">//</hi> فلقد سَارعنا جدا
-						<lb facs="#Gr-Z_0011-00379_248r_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_248r_ar_lb_14"/>	الى رويه وجوهكم <hi rend="red">//</hi> شوق
-						<lb facs="#Gr-Z_0011-00379_248r_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_248r_ar_lb_15"/>	شديد <hi rend="red">//</hi> <milestone unit="verse" n="2:18"/> لانا اردنا
-						<lb facs="#Gr-Z_0011-00379_248r_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_248r_ar_lb_16"/>	الاقبال اليكم <hi rend="red">//</hi> انا
-						<lb facs="#Gr-Z_0011-00379_248r_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_248r_ar_lb_17"/>	بولس مرّه و ثانيه <hi rend="red">//</hi>
-						<lb facs="#Gr-Z_0011-00379_248r_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_248r_ar_lb_18"/>	فعارضنا الشيطان <hi rend="red">//</hi>
-						<lb facs="#Gr-Z_0011-00379_248r_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_248r_ar_lb_19"/>	<milestone unit="verse" n="2:19"/> فماذا <choice><orig>رجانا</orig><reg>رجاؤنا</reg></choice> <hi rend="red">//</hi> او
-						<lb facs="#Gr-Z_0011-00379_248r_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_248r_ar_lb_20"/>	سرورنا <hi rend="red">//</hi> و اكليل فخرنا <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_248r_ar_lb_6"/>	اليكم <hi rend="red">⫽</hi> ان نكالم الاجناس ان
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_248r_ar_lb_7"/>	تتخلص سالمه <hi rend="red">⫽</hi> <choice><orig>ا‫ں‬</orig><reg>ان</reg></choice> يوعبوا
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_248r_ar_lb_8"/>	ذنوبهم ابدًا <hi rend="red">⫽</hi> فقد غافصهم سخط
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_248r_ar_lb_9"/>	اللّه<ptr type="noteAnchor" target="#Note_1Thes_ar5"/> و نزل اليهم <hi rend="red">⫽</hi> حتى الى
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_248r_ar_lb_10"/>	الانقراض <hi rend="red">⫽</hi> <milestone unit="verse" n="2:17"/> و امّا <choice><orig>ىحں</orig><reg>نحن</reg></choice>
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_248r_ar_lb_11"/>	<choice><orig>‬ىاخوتى</orig><reg>يا يخوتي</reg></choice> فانا مستوحشون لكم <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_248r_ar_lb_12"/>	الى زمان ساعه <hi rend="red">⫽</hi> بالوجه و ليس
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_248r_ar_lb_13"/>	بالقلب <hi rend="red">⫽</hi> فلقد سَارعنا جدا
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_248r_ar_lb_14"/>	الى رويه وجوهكم <hi rend="red">⫽</hi> شوق
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_248r_ar_lb_15"/>	شديد <hi rend="red">⫽</hi> <milestone unit="verse" n="2:18"/> لانا اردنا
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_248r_ar_lb_16"/>	الاقبال اليكم <hi rend="red">⫽</hi> انا
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_248r_ar_lb_17"/>	بولس مرّه و ثانيه <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_248r_ar_lb_18"/>	فعارضنا الشيطان <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_248r_ar_lb_19"/>	<milestone unit="verse" n="2:19"/> فماذا <choice><orig>رجانا</orig><reg>رجاؤنا</reg></choice> <hi rend="red">⫽</hi> او
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_248r_ar_lb_20"/>	سرورنا <hi rend="red">⫽</hi> و اكليل فخرنا <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_248r_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_248r_ar_lb_21"/>	اليس انتم امام ربنا
-						<lb facs="#Gr-Z_0011-00379_248r_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_248r_ar_lb_22"/>	يسوع المسيح <hi rend="red">//</hi> فى حين
-						<lb facs="#Gr-Z_0011-00379_248r_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_248r_ar_lb_23"/>	اقباله <hi rend="red">//</hi> <milestone unit="verse" n="2:20"/> فانتم عزّتنا
-						<lb facs="#Gr-Z_0011-00379_248r_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_248r_ar_lb_24"/>	و سرورنا <hi rend="red">//</hi> <milestone unit="verse" n="3:1"/> و لذلك لا
-						<lb facs="#Gr-Z_0011-00379_248r_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_248r_ar_lb_25"/>	تنتظرونا<ptr type="noteAnchor" target="#Note_1Thes_ar6"/> بعدها <hi rend="red">//</hi> فقد
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_248r_ar_lb_22"/>	يسوع المسيح <hi rend="red">⫽</hi> فى حين
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_248r_ar_lb_23"/>	اقباله <hi rend="red">⫽</hi> <milestone unit="verse" n="2:20"/> فانتم عزّتنا
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_248r_ar_lb_24"/>	و سرورنا <hi rend="red">⫽</hi> <milestone unit="verse" n="3:1"/> و لذلك لا
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_248r_ar_lb_25"/>	تنتظرونا<ptr type="noteAnchor" target="#Note_1Thes_ar6"/> بعدها <hi rend="red">⫽</hi> فقد
 						<lb facs="#Gr-Z_0011-00379_248r_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_248r_ar_lb_26"/>		رضينا ان نمكث باثينس
-						<lb facs="#Gr-Z_0011-00379_248r_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_248r_ar_lb_27"/>		خاصّه فرادًا <hi rend="red">//</hi> <milestone unit="verse" n="3:2"/> و بعثنا
-						<lb facs="#Gr-Z_0011-00379_248r_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_248r_ar_lb_28"/>		تيموثاوس اخانا <hi rend="red">//</hi>
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_248r_ar_lb_27"/>		خاصّه فرادًا <hi rend="red">⫽</hi> <milestone unit="verse" n="3:2"/> و بعثنا
+						<lb facs="#Gr-Z_0011-00379_248r_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_248r_ar_lb_28"/>		تيموثاوس اخانا <hi rend="red">⫽</hi>
 						
 					</p>	
 					
-					<!--folio 248r-->
+					<!--folio 248v-->
 					
 					<pb facs="#Gr-Z_0011-00379_248v" xml:id="Gr-Z_0011-00379_248v" n="248v"/>
 					
@@ -881,39 +893,39 @@
 						<lb facs="#Gr-Z_0011-00379_248v_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_248v_ar_lb_1"/>
 						و خادم اللّه<ptr type="noteAnchor" target="#Note_1Thes_ar7"/> بانجيل
 						<lb facs="#Gr-Z_0011-00379_248v_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_248v_ar_lb_2"/>
-						المسيح // لتثبيتكم و ارشادكم
+						المسيح <hi rend="red">⫽</hi> لتثبيتكم و ارشادكم
 						<lb facs="#Gr-Z_0011-00379_248v_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_248v_ar_lb_3"/>
 						و موعضتكم
 						<lb facs="#Gr-Z_0011-00379_248v_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_248v_ar_lb_4"/>
-							لدينكم<ptr type="noteAnchor" target="#Note_1Thes_ar8"/> // <milestone
+						لدينكم<ptr type="noteAnchor" target="#Note_1Thes_ar8"/> <hi rend="red">⫽</hi> <milestone
 							unit="verse" n="3:3"/> الا يتزلزل
 						<lb facs="#Gr-Z_0011-00379_248v_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_248v_ar_lb_5"/>
 						احد فى هذه
 						<lb facs="#Gr-Z_0011-00379_248v_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_248v_ar_lb_6"/>
-						الاحزان // فقد تعلمون
+						الاحزان <hi rend="red">⫽</hi> فقد تعلمون
 						<lb facs="#Gr-Z_0011-00379_248v_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_248v_ar_lb_7"/>
-						انا لتلك جعلنا // <lb facs="#Gr-Z_0011-00379_248v_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_248v_ar_lb_8"/>
-						<milestone unit="verse" n="3:4"/> فان يوم كوننا عندكم //
+						انا لتلك جعلنا <hi rend="red">⫽</hi> <lb facs="#Gr-Z_0011-00379_248v_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_248v_ar_lb_8"/>
+						<milestone unit="verse" n="3:4"/> فان يوم كوننا عندكم <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_248v_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_248v_ar_lb_9"/>
 						كنا نخبركم بما سَوف نلقى
 						<lb facs="#Gr-Z_0011-00379_248v_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_248v_ar_lb_10"/>
-						من الكروب // كما قد كان
+						من الكروب <hi rend="red">⫽</hi> كما قد كان
 						<lb facs="#Gr-Z_0011-00379_248v_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_248v_ar_lb_11"/>
-						تعرفونه // <milestone unit="verse" n="3:5"/> و لذلك لم <lb facs="#Gr-Z_0011-00379_248v_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_248v_ar_lb_12"/>
+						تعرفونه <hi rend="red">⫽</hi> <milestone unit="verse" n="3:5"/> و لذلك لم <lb facs="#Gr-Z_0011-00379_248v_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_248v_ar_lb_12"/>
 						<choice>
 							<orig>اترفٯ</orig>
 							<reg>اترفق</reg>
-						</choice><ptr type="noteAnchor" target="#Note_1Thes_ar9"/> اكثر// فبعثت
+						</choice><ptr type="noteAnchor" target="#Note_1Thes_ar9"/> اكثر⫽ فبعثت
 						لمعرفه
 						<lb facs="#Gr-Z_0011-00379_248v_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_248v_ar_lb_13"/>
-						ايمانكم حزرًا // من ان يمتحنكم
+						ايمانكم حزرًا <hi rend="red">⫽</hi> من ان يمتحنكم
 						<lb facs="#Gr-Z_0011-00379_248v_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_248v_ar_lb_14"/>
-						ذا الذي يمتحن // <choice>
+						ذا الذي يمتحن <hi rend="red">⫽</hi> <choice>
 							<orig>فىكون</orig>
 							<reg>فيكون</reg>
 						</choice> عملنا
 						<lb facs="#Gr-Z_0011-00379_248v_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_248v_ar_lb_15"/>
-						بوارًا // <milestone unit="verse" n="3:6"/>
+						بوارًا <hi rend="red">⫽</hi> <milestone unit="verse" n="3:6"/>
 						<choice>
 							<orig>فالأ‫ں‬</orig>
 							<reg>فالآن‬</reg>
@@ -921,21 +933,21 @@
 						<lb facs="#Gr-Z_0011-00379_248v_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_248v_ar_lb_16"/>
 						تيموثاوس
 						<lb facs="#Gr-Z_0011-00379_248v_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_248v_ar_lb_17"/>
-						الينا من عندكم //
+						الينا من عندكم <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_248v_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_248v_ar_lb_18"/>
 						و بشرنا بايمانكم
 						<lb facs="#Gr-Z_0011-00379_248v_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_248v_ar_lb_19"/>
-						و محبتكم // و انكم <choice>
+						و محبتكم <hi rend="red">⫽</hi> و انكم <choice>
 							<orig>تذكرونثا</orig>
 							<reg>تذكروننا</reg>
 						</choice>
 						<lb facs="#Gr-Z_0011-00379_248v_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_248v_ar_lb_20"/>
-						خير ذكر // و تشتاقون
+						خير ذكر <hi rend="red">⫽</hi> و تشتاقون
 						<lb facs="#Gr-Z_0011-00379_248v_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_248v_ar_lb_21"/>
-						ابدًا رويتنا // كما
+						ابدًا رويتنا <hi rend="red">⫽</hi> كما
 						<lb facs="#Gr-Z_0011-00379_248v_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_248v_ar_lb_22"/>
-						نشتاق نحن الى رويتكم // <lb facs="#Gr-Z_0011-00379_248v_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_248v_ar_lb_23"/>
-						<milestone unit="verse" n="3:7"/> فتعزينا لذلك // <choice>
+						نشتاق نحن الى رويتكم <hi rend="red">⫽</hi> <lb facs="#Gr-Z_0011-00379_248v_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_248v_ar_lb_23"/>
+						<milestone unit="verse" n="3:7"/> فتعزينا لذلك <hi rend="red">⫽</hi> <choice>
 							<orig>ياخوتى</orig>
 							<reg>ياخوتى</reg>
 						</choice>
@@ -943,18 +955,213 @@
 						بكم <choice>
 							<orig>ڡى</orig>
 							<reg>في</reg>
-						</choice> جميع احزاننا //
-						<lb facs="#Gr-Z_0011-00379_248v_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_248v_ar_lb_25"/>
-						و احتياجنا // لاجل ايمانكم // <lb facs="#Gr-Z_0011-00379_248v_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_248v_ar_lb_26"/>
+						</choice> جميع احزاننا <hi rend="red">⫽</hi>						<lb facs="#Gr-Z_0011-00379_248v_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_248v_ar_lb_25"/>
+						و احتياجنا <hi rend="red">⫽</hi> لاجل ايمانكم <hi rend="red">⫽</hi> <lb facs="#Gr-Z_0011-00379_248v_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_248v_ar_lb_26"/>
 						<milestone unit="verse" n="3:8"/> لاننا الان نعيش اذ انتم
 						<lb facs="#Gr-Z_0011-00379_248v_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_248v_ar_lb_27"/>
 						ثابتون <choice>
 							<orig>ڡى</orig>
 							<reg>في</reg>
-						</choice> الرب //
+						</choice> الرب <hi rend="red">⫽</hi>
 						<lb facs="#Gr-Z_0011-00379_248v_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_248v_ar_lb_28"/>
 						فايما شكر للّه نقوا على </p>
+					<!--folio 249r-->
 					
+					<pb facs="#Gr-Z_0011-00379_249r" xml:id="Gr-Z_0011-00379_249r" n="249r"/>
+					<p>
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_249r_ar_lb_1"/>	تاديته عنكم بكل
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_249r_ar_lb_2"/>	سرور <hi rend="red">⫽</hi> استسرنا
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_249r_ar_lb_3"/>	بكم قدام الاهنا <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_249r_ar_lb_4"/>	<milestone unit="verse" n="3:10"/> ليلًا و نهارًا <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_249r_ar_lb_5"/>	دَاعين سَرفًا <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_249r_ar_lb_6"/>	ان نرا وجوهكم <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_249r_ar_lb_7"/>	و نتم الذي نقَص
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_249r_ar_lb_8"/>	من ايمانكم <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_249r_ar_lb_9"/>	<milestone unit="verse" n="3:11"/> فذلك الاله و ابونا <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_249r_ar_lb_10"/>	و الرب يسوع المسيح <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_249r_ar_lb_11"/>	يسهّل طريقنا اليكم <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_249r_ar_lb_12"/>	<milestone unit="verse" n="3:12"/> فكثركم الرب <hi rend="red">⫽</hi> و كثر
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_249r_ar_lb_13"/>	عندكم المحبه بعضكم
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_249r_ar_lb_14"/>	لبعضٍ <hi rend="red">⫽</hi> و للجميع <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_249r_ar_lb_15"/>	كمحبتنا فيكم <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_249r_ar_lb_16"/>	<milestone unit="verse" n="3:13"/> لتثبت قلوبكم
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_249r_ar_lb_17"/>	بلا وَصلهٍ<ptr type="noteAnchor" target="#Note_1Thes_ar10"/> بالتقديس
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_249r_ar_lb_18"/>	قدام اللّه و ابينا <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_249r_ar_lb_19"/>	حين اقبال ربنا
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_249r_ar_lb_20"/>	يسوع المسيح <hi rend="red">⫽</hi> مع
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_249r_ar_lb_21"/>	جميع مقدّسيه <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_249r_ar_lb_22"/>	<milestone unit="verse" n="4:1"/> و بعد <choice><orig>ياخوتي</orig><reg>يا اخوتي</reg></choice>
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_249r_ar_lb_23"/>	<choice><orig>نسلكم</orig><reg>نسألكم</reg></choice> و نضرع اليكم
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_249r_ar_lb_24"/>	بالرب يسوع <hi rend="red">⫽</hi> ان
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_249r_ar_lb_25"/>	تسيروا كالذي تقبلتموه منا <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_249r_ar_lb_26"/>	كالذي يجب عليكم تسيروا
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_249r_ar_lb_27"/>	و تَرضوا الله <hi rend="red">⫽</hi> و ان تزيدوا
+						<lb facs="#Gr-Z_0011-00379_249r_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_249r_ar_lb_28"/>	اكثر من ذلك <hi rend="red">⫽</hi> <milestone unit="verse" n="4:2"/> فقد تعلمون
+						
+					</p>
+					<!--folio 249v-->
+					
+					<pb facs="#Gr-Z_0011-00379_249v" xml:id="Gr-Z_0011-00379_249v" n="249v"/>
+					<p>
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_249v_ar_lb_1"/>	انى عهود اعطيناكموها
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_249v_ar_lb_2"/>	بالرب يسوع <hi rend="red">⫽</hi> <milestone unit="verse" n="4:3"/> فتلك
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_249v_ar_lb_3"/>	ارادة اللّه <hi rend="red">⫽</hi> تقديسكم
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_249v_ar_lb_4"/>	ان تمتنعوا عن الزنا <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_249v_ar_lb_5"/>	<milestone unit="verse" n="4:4"/> و يدري كل واحدٌواحدٌ منكم
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_249v_ar_lb_6"/>	ان يملك انيته
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_249v_ar_lb_7"/>	بتقديس و اكرام <hi rend="red">⫽</hi> <milestone unit="verse" n="4:5"/> ليس
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_249v_ar_lb_8"/>		فى مرض الشهوه كا
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_249v_ar_lb_9"/>	لامم الجاهله باللّه <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_249v_ar_lb_10"/>	<milestone unit="verse" n="4:6"/> و لا يتعدى احدكم <hi rend="red">⫽</hi> و لا يلجى
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_249v_ar_lb_11"/>	المرؤ<ptr type="noteAnchor" target="#Note_1Thes_ar11"/> اخاه الى امرٍ مَا <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_249v_ar_lb_12"/>	لان الفّب منتقم من 
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_249v_ar_lb_13"/>	جميع هده الافات <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_249v_ar_lb_14"/>			<choice><orig>كالدي</orig><reg>كالذي</reg></choice> اعلمناكم به <hi rend="red">⫽</hi> و شهدنا
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_249v_ar_lb_15"/>	به عندكم <hi rend="red">⫽</hi> <milestone unit="verse" n="4:7"/> فلم يدعونا
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_249v_ar_lb_16"/>	اللّه للنجاسه <hi rend="red">⫽</hi> الا الي
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_249v_ar_lb_17"/>	التقديس <hi rend="red">⫽</hi> <milestone unit="verse" n="4:8"/> و كذلك من
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_249v_ar_lb_18"/>	رفض هذه <hi rend="red">⫽</hi> ليس يرفص الا
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_249v_ar_lb_19"/>	نسان <hi rend="red">⫽</hi> بل انما يرفض الله <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_249v_ar_lb_20"/>	الذى اعطى روحه المقدي فينا <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_249v_ar_lb_21"/>	<milestone unit="verse" n="4:9"/> و امّا محبه الاخا <hi rend="red">⫽</hi> فلسنا
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_249v_ar_lb_22"/>	نحتاج<ptr type="noteAnchor" target="#Note_1Thes_ar12"/> ان لكتب عنها اليكم <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_249v_ar_lb_23"/>	فانتم انفسكم تعلمتم
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_249v_ar_lb_24"/>	من اللّه ان تحبّوا بعضكم
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_249v_ar_lb_25"/>	بعضًا <hi rend="red">⫽</hi> <milestone unit="verse" n="4:10"/> <choice><orig>ففد</orig><reg>فقد</reg></choice> تصنعوه
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_249v_ar_lb_26"/>	في جميع الاخوه <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_249v_ar_lb_27"/>	<choice><orig>ڡى</orig><reg>فى</reg></choice> مقدونيه كلها <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_249v_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_249v_ar_lb_28"/>	و <choice><orig>ىحں</orig><reg>نحن</reg></choice> <choice><orig>نسلكم</orig><reg>نسألكم</reg></choice> <choice><orig>يَاخوتنا</orig><reg>يَا اخوتنا</reg></choice> <hi rend="red">⫽</hi>
+						</p>
+					<!--folio 250r-->
+					
+					<pb facs="#Gr-Z_0011-00379_250r" xml:id="Gr-Z_0011-00379_250r" n="250r"/>
+					<p>
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_250r_ar_lb_1"/>	ان تزيدوا الكثر <hi rend="red">⫽</hi> و <choice><orig>بالعزا</orig><reg>بالعزاء</reg></choice>
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_250r_ar_lb_2"/>	و <choice><orig>بالمتابره</orig><reg>بالمثابرة</reg></choice> عليه <hi rend="red">⫽</hi> <milestone unit="verse" n="4:11"/> ان
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_250r_ar_lb_3"/>	تكونوا فى <choice><orig>هدو</orig><reg>هدوء</reg></choice> <hi rend="red">⫽</hi> و ان تعملوا
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_250r_ar_lb_4"/>	شغلكم بايديكم <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_250r_ar_lb_5"/>	كالذى امرناكم به <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_250r_ar_lb_6"/>	<milestone unit="verse" n="4:12"/> و <choice><reg>ان</reg><orig>ا‫ں</orig></choice> تسيروا سيرًا جميلًا <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_250r_ar_lb_7"/>	مع الّذين هم خارجون 
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_250r_ar_lb_8"/>	عنا<ptr type="noteAnchor" target="#Note_1Thes_ar13"/> <hi rend="red">⫽</hi> و لا تشتاقوا الى <choice><reg>من</reg><orig>‫مں</orig></choice> <ptr type="noteAnchor" target="#Note_1Thes_ar14"/> غيركم <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_250r_ar_lb_9"/>	<milestone unit="verse" n="4:13"/> و نكره ياخوتى ان تجهلوا امر
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_250r_ar_lb_10"/>	الراقدين <hi rend="red">⫽</hi> الا تحزنوا كغيركم <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_250r_ar_lb_11"/>	الّذين لا رجا لهُم <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_250r_ar_lb_12"/>	<milestone unit="verse" n="4:14"/> فان كنا نومن
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_250r_ar_lb_13"/>	ان يسوع مات و <choice><orig>فام</orig><reg>قام</reg></choice> <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_250r_ar_lb_14"/>	فكذلك يسوق الله الذين
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_250r_ar_lb_15"/>	رقدوا بيسوع معه <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_250r_ar_lb_16"/>	<milestone unit="verse" n="4:15"/> نقول لكم هذا 
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_250r_ar_lb_17"/>	بكلمة الرب <hi rend="red">⫽</hi> ان نحن
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_250r_ar_lb_18"/>	الذين نعيش <hi rend="red">⫽</hi> <choice><orig>الدىں</orig><reg>الذين</reg></choice> بقينا
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_250r_ar_lb_19"/>	<choice><orig>ڡى</orig><reg>في</reg></choice> قدوم الرب <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_250r_ar_lb_20"/>	لسنا نسبق الذين رقدوا <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_250r_ar_lb_21"/>	<milestone unit="verse" n="4:16"/> فان دلك الرب <choice><orig>ڡى</orig><reg>في</reg></choice> اذن <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_250r_ar_lb_22"/>	و صوت الملك الاعظم
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_250r_ar_lb_23"/>	و <choice><orig>ڡى</orig><reg>في</reg></choice> قرن اللّه <hi rend="red">⫽</hi> ينزل
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_250r_ar_lb_24"/>	من <choice><orig>السّما</orig><reg>السّماء</reg></choice> <hi rend="red">⫽</hi> و الموتا الذين
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_250r_ar_lb_25"/>	هم <choice><orig>ڡى</orig><reg>في</reg></choice> المسيح يقومون ڡى
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_250r_ar_lb_26"/>	الاوّل <hi rend="red">⫽</hi> <milestone unit="verse" n="4:17"/> و من بعد نحن الذين 
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_250r_ar_lb_27"/>	نعيش <hi rend="red">⫽</hi> الذين نتحلا و نخطف
+						<lb facs="#Gr-Z_0011-00379_250r_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_250r_ar_lb_28"/>	معهم <choice><orig>ڡى</orig><reg>في</reg></choice> واحدٍ <choice><orig>ڡى</orig><reg>في</reg></choice> السّحاب <hi rend="red">⫽</hi>
+					</p>
+					
+					<!--folio 250v-->
+					
+					<pb facs="#Gr-Z_0011-00379_250v" xml:id="Gr-Z_0011-00379_250v" n="250v"/>
+					<p>
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_250v_ar_lb_1"/>	مُلاقين للمسيح<ptr type="noteAnchor" target="#Note_1Thes_ar15"/> <choice><orig><reg>ڡى</reg></orig></choice> الايار<ptr type="noteAnchor" target="#Note_1Thes_ar16"/>
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_250v_ar_lb_2"/>	و كذلك نكون ابدًا مع <choice><orig>الربً</orig><reg>الربِ</reg></choice> <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_250v_ar_lb_3"/>	<milestone unit="verse" n="4:18"/> فهكذا تعزوا بعضكم بعض
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_250v_ar_lb_4"/>	بهذه الالفاظ <hi rend="red">⫽</hi> <milestone unit="verse" n="5:1"/> و اما عن الا
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_250v_ar_lb_5"/>	زمان و الاوقات <choice><orig>ياخوتى</orig><reg>يا اخوتى</reg></choice> <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_250v_ar_lb_6"/>	لستم تحتاجون ان نكتب اليكم <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_250v_ar_lb_7"/>	<milestone unit="verse" n="5:2"/> فانكم نعم مَا تعلمون <hi rend="red">⫽</hi> ان
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_250v_ar_lb_8"/>		يوم الرب سياتى كالسارق
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_250v_ar_lb_9"/>		بالليل <hi rend="red">⫽</hi> <milestone unit="verse" n="5:3"/> فاذا حان<ptr type="noteAnchor" target="#Note_1Thes_ar17"/> السلم
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_250v_ar_lb_10"/>		و الهديه <hi rend="red">⫽</hi> عندها
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_250v_ar_lb_11"/>		<choice><orig>يفاجيهم</orig><reg>يفاجئهم</reg></choice> الهلاك السّريع <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_250v_ar_lb_12"/>		كالوجع للحبلا <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_250v_ar_lb_13"/>		وَ لَا يفلتوا <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_250v_ar_lb_14"/>		<milestone unit="verse" n="5:4"/> و انتم <choice><orig>ىاخوتى</orig><reg>يا اخوتى</reg></choice> لستم <choice><orig><reg>ڡى</reg></orig></choice>
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_250v_ar_lb_15"/>		الظلمات <hi rend="red">⫽</hi> ان يخطفكم ذلك
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_250v_ar_lb_16"/>		اليوم كالسّارق <hi rend="red">⫽</hi> <milestone unit="verse" n="5:5"/> فكلكم
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_250v_ar_lb_17"/>		اولاد النهار<ptr type="noteAnchor" target="#Note_1Thes_ar18"/> <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_250v_ar_lb_18"/>		و لسنا لليل و لا للظلمه <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_250v_ar_lb_19"/>		<milestone unit="verse" n="5:6"/> و لاكن لا تنعسوا كساير
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_250v_ar_lb_20"/>		الناعسين <hi rend="red">⫽</hi> بل اسهم بنا و كن
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_250v_ar_lb_21"/>		بنا صُحاهً مقتصدين<ptr type="noteAnchor" target="#Note_1Thes_ar19"/> <hi rend="red">⫽</hi> <milestone unit="verse" n="5:7"/> فان
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_250v_ar_lb_22"/>		<choice><orig>الراقدىن</orig><reg>الراقدين</reg></choice> بالليل يرقدون <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_250v_ar_lb_23"/>		و <choice><orig>الدين</orig><reg>الذين</reg></choice> يسكرون بالليل هم
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_250v_ar_lb_24"/>		سُكاري <hi rend="red">⫽</hi> <milestone unit="verse" n="5:8"/> و اما نحن الذين
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_250v_ar_lb_25"/>		نلى<ptr type="noteAnchor" target="#Note_1Thes_ar20"/> النهار <hi rend="red">⫽</hi> فمقتصدون
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_250v_ar_lb_26"/>		لابسين درع الايمان و المحبه <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_250v_ar_lb_27"/>		و المغفر <hi rend="red">⫽</hi> ثقه السّلامه <milestone unit="verse" n="5:9"/> <hi rend="red">⫽</hi> لانه
+						<lb facs="#Gr-Z_0011-00379_250v_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_250v_ar_lb_28"/>		لم يجعلنا اللّه فى السخط <hi rend="red">⫽</hi>						
+						
+					</p>
+					<!--folio 251r-->
+					
+					<pb facs="#Gr-Z_0011-00379_251r" xml:id="Gr-Z_0011-00379_251r" n="251r"/>
+					<p>
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_251r_ar_lb_1"/>	الّا لاكتساب السّلامه <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_251r_ar_lb_2"/>	بربا يسوع المسيح <hi rend="red">⫽</hi> <milestone unit="verse" n="5:10"/> الذى
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_251r_ar_lb_3"/>	مات لاجلنا <hi rend="red">⫽</hi> فمهما
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_251r_ar_lb_4"/>	سهرنا و مهما رقدنا <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_251r_ar_lb_5"/>	فلنجيا معه معًا <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_251r_ar_lb_6"/>	<milestone unit="verse" n="5:11"/> فذلك عزّوا بعضكم
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_251r_ar_lb_7"/>	بعضًا و ابنوا بعضكم
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_251r_ar_lb_8"/>	بعضًا <hi rend="red">⫽</hi> كالذي تفعلون <hi rend="red">⫽</hi> 
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_251r_ar_lb_9"/>	<milestone unit="verse" n="5:12"/> و نحن <choice><orig>نسلكم</orig><reg>نسألكم</reg></choice> <choice><orig>ياخوتى</orig><reg>يا اخوتى</reg></choice> <hi rend="red">⫽</hi> ان
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_251r_ar_lb_10"/>	تعرفوا الذين يعملون فيها
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_251r_ar_lb_11"/>	يثبتكم <hi rend="red">⫽</hi> يتراسون نظرًا لكم 
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_251r_ar_lb_12"/>	فى الرب <hi rend="red">⫽</hi> و يعظمونكم
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_251r_ar_lb_13"/>	منذرين <hi rend="red">⫽</hi> <milestone unit="verse" n="5:13"/> ان تكونوا لهم <choice><orig>ڡى</orig><reg>فى</reg></choice>
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_251r_ar_lb_14"/>	المحبه كثيرا جدا <hi rend="red">⫽</hi> لاجل عملهم
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_251r_ar_lb_15"/>	فسالموهم و التزموا الصلح معهم <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_251r_ar_lb_16"/>	كالذى تفعلون<ptr type="noteAnchor" target="#Note_1Thes_ar21"/> <hi rend="red">⫽</hi> <milestone unit="verse" n="5:14"/> و نطلب
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_251r_ar_lb_17"/>	اليكم <choice><orig>ياخوتى</orig><reg>يا اخوتى</reg></choice> <hi rend="red">⫽</hi> ان تعاتبوا 
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_251r_ar_lb_18"/>	القلوق <choice><orig>المتشوفين</orig><reg>المتشوقين</reg></choice> <hi rend="red">⫽</hi> و تعزُوا
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_251r_ar_lb_19"/>	المنقوصين الضعفا الانفس و ان
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_251r_ar_lb_20"/>	تتقبلوا المرضى <hi rend="red">⫽</hi> و تكونوا
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_21" n="21" xml:id="Gr-Z_0011-00379_251r_ar_lb_21"/>	حلما على جميع الناس <hi rend="red">⫽</hi> <milestone unit="verse" n="5:15"/> و ابصروا 
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_22" n="22" xml:id="Gr-Z_0011-00379_251r_ar_lb_22"/>	الا يكافى احدكم صَاحبه <choice><orig>بسيته</orig><reg>بسيئته</reg></choice>
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_23" n="23" xml:id="Gr-Z_0011-00379_251r_ar_lb_23"/>	لسيته <hi rend="red">⫽</hi> لكنكم اطلبوا ابدًا الخير
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_24" n="24" xml:id="Gr-Z_0011-00379_251r_ar_lb_24"/>	فيها بينكم <choice><orig>ڡى</orig><reg>فى</reg></choice> جميعكم <hi rend="red">⫽</hi> <milestone unit="verse" n="5:16"/> افرحوا ابدًا <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_25" n="25" xml:id="Gr-Z_0011-00379_251r_ar_lb_25"/>	<milestone unit="verse" n="5:17"/> و ادعوا بلا فتور <hi rend="red">⫽</hi> <milestone unit="verse" n="5:18"/> و ودوا
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_26" n="26" xml:id="Gr-Z_0011-00379_251r_ar_lb_26"/>	المحامد ڡى الحالات كلها <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_27" n="27" xml:id="Gr-Z_0011-00379_251r_ar_lb_27"/>	فان هذه ارادة اللّه بالمسيح
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_28" n="28" xml:id="Gr-Z_0011-00379_251r_ar_lb_28"/>	يسوع فيكم اجمعين <hi rend="red">⫽</hi> و اياكم ان 
+						<lb facs="#Gr-Z_0011-00379_251r_ar_line_29" n="29" xml:id="Gr-Z_0011-00379_251r_ar_lb_29"/>	<milestone unit="verse" n="5:19"/> <choice><orig>تطڡوا‬</orig><reg>تطفِئوا</reg></choice> الرّوح<ptr type="noteAnchor" target="#Note_1Thes_ar21"/> <hi rend="red">⫽</hi>
+						
+					</p>
+					<!--folio 251v-->
+					
+					<pb facs="#Gr-Z_0011-00379_251v" xml:id="Gr-Z_0011-00379_251v" n="251v"/>
+					<p>
+						<lb facs="#Gr-Z_0011-00379_251v_ar_line_1" n="1" xml:id="Gr-Z_0011-00379_251v_ar_lb_1"/>	<milestone unit="verse" n="5:20"/> فلا ان تجانبوا النبوات
+						<lb facs="#Gr-Z_0011-00379_251v_ar_line_2" n="2" xml:id="Gr-Z_0011-00379_251v_ar_lb_2"/>	مُحتقرين لها<ptr type="noteAnchor" target="#Note_1Thes_ar23"/> <hi rend="red">⫽</hi> <milestone unit="verse" n="5:21"/> و امتحنوا كل شى
+						<lb facs="#Gr-Z_0011-00379_251v_ar_line_3" n="3" xml:id="Gr-Z_0011-00379_251v_ar_lb_3"/>	ثم <choice><orig>الثزموا</orig><reg>اثزموا</reg></choice> الخير منه <milestone unit="verse" n="5:22"/> و تحاموا
+						<lb facs="#Gr-Z_0011-00379_251v_ar_line_4" n="4" xml:id="Gr-Z_0011-00379_251v_ar_lb_4"/>	عن كل صفة <choice><orig>سوّ</orig><reg>سوء</reg></choice> <hi rend="red">⫽</hi> <milestone unit="verse" n="5:23"/> و اله
+						<lb facs="#Gr-Z_0011-00379_251v_ar_line_5" n="5" xml:id="Gr-Z_0011-00379_251v_ar_lb_5"/>	السلم يقدسكم
+						<lb facs="#Gr-Z_0011-00379_251v_ar_line_6" n="6" xml:id="Gr-Z_0011-00379_251v_ar_lb_6"/>	فى الحالات كلها <hi rend="red">⫽</hi> ان تكو‫<choice><reg>ن</reg><orig>ں</orig></choice>
+						<lb facs="#Gr-Z_0011-00379_251v_ar_line_7" n="7" xml:id="Gr-Z_0011-00379_251v_ar_lb_7"/>	‬روحكم صحيحا النفس
+						<lb facs="#Gr-Z_0011-00379_251v_ar_line_8" n="8" xml:id="Gr-Z_0011-00379_251v_ar_lb_8"/>	و البدن بلاعيب فى
+						<lb facs="#Gr-Z_0011-00379_251v_ar_line_9" n="9" xml:id="Gr-Z_0011-00379_251v_ar_lb_9"/>	قدوم ربنا يسوع
+						<lb facs="#Gr-Z_0011-00379_251v_ar_line_10" n="10" xml:id="Gr-Z_0011-00379_251v_ar_lb_10"/>	المسيح محفوظًا <hi rend="red">⫽</hi> <milestone unit="verse" n="5:24"/> فان الذي
+						<lb facs="#Gr-Z_0011-00379_251v_ar_line_11" n="11" xml:id="Gr-Z_0011-00379_251v_ar_lb_11"/>	دعاكم امين و سيفعل <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_251v_ar_line_12" n="12" xml:id="Gr-Z_0011-00379_251v_ar_lb_12"/>	<milestone unit="verse" n="5:25"/> <choice><orig>ياخوتى</orig><reg>يا اخوتى</reg></choice> فادعوا عنا <hi rend="red">⫽</hi> <milestone unit="verse" n="5:26"/> <choice><orig>اقروا</orig><reg>أقرؤوا</reg></choice>
+						<lb facs="#Gr-Z_0011-00379_251v_ar_line_13" n="13" xml:id="Gr-Z_0011-00379_251v_ar_lb_13"/>	سلامى جميع الاخوة بقبله
+						<lb facs="#Gr-Z_0011-00379_251v_ar_line_14" n="14" xml:id="Gr-Z_0011-00379_251v_ar_lb_14"/>	مقدسه <hi rend="red">⫽</hi> <milestone unit="verse" n="5:27"/> و انا اقسم عليكم <choice><orig>ىاللّه</orig><reg>باللّه</reg></choice> <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_251v_ar_line_15" n="15" xml:id="Gr-Z_0011-00379_251v_ar_lb_15"/>	ان تقرا هذه الرّساله
+						<lb facs="#Gr-Z_0011-00379_251v_ar_line_16" n="16" xml:id="Gr-Z_0011-00379_251v_ar_lb_16"/>	على اخوتنا المقدسين
+						<lb facs="#Gr-Z_0011-00379_251v_ar_line_17" n="17" xml:id="Gr-Z_0011-00379_251v_ar_lb_17"/>	عَامه <hi rend="red">⫽</hi> <milestone unit="verse" n="5:28"/> فضيله ربنا يسوع
+						<lb facs="#Gr-Z_0011-00379_251v_ar_line_18" n="18" xml:id="Gr-Z_0011-00379_251v_ar_lb_18"/>	المسيح تكون معكم امين <hi rend="red">⫽</hi>
+						<lb facs="#Gr-Z_0011-00379_251v_ar_line_19" n="19" xml:id="Gr-Z_0011-00379_251v_ar_lb_19"/>	<hi rend="red">تمت الرساله <choice><orig>الى هل</orig><reg>الى اهل</reg></choice> تسلونىقيه
+						<lb facs="#Gr-Z_0011-00379_251v_ar_line_20" n="20" xml:id="Gr-Z_0011-00379_251v_ar_lb_20"/>	الاولى كىبت ڡى اثنيه
+						</hi>
+						
+					</p>
 				</body>
 			</text>
 		</group>
@@ -970,6 +1177,12 @@
 					<p>Text of the previous folio appears through a hole</p>
 					<figure>
 						<graphic url="Gr-Z_0011-00379_hs_ar_247v_01.jpg"/>
+					</figure>
+				</div>
+				<div facs="#Gr-Z_0011-00379_hs_ar_250v_01" xml:id="Gr-Z_0011-00379_hotspot_ar_250v_01">
+					<p>Text of the previous folio appears through a hole</p>
+					<figure>
+						<graphic url="Gr-Z_0011-00379_hs_ar_250v_01.jpg"/>
 					</figure>
 				</div>
 			</div>
@@ -992,6 +1205,21 @@
 			<note xml:id="Note_1Thes_ar7">Similar reading as in the Latin column; Greek column differs</note>
 			<note xml:id="Note_1Thes_ar8">Interesting translation for πίστεως / <emph>fide</emph></note>
 			<note xml:id="Note_1Thes_ar9">We suppose اترفق. Meaning?</note>
-			 	</back>
+			<note xml:id="Note_1Thes_ar10">Meaning here?</note>
+			<note xml:id="Note_1Thes_ar11">Meaning?</note>
+			<note xml:id="Note_1Thes_ar12">Corresponds to the Latin reading <emph>habuimus</emph>; Greek columns has εχετε</note>
+			<note xml:id="Note_1Thes_ar13">What is the meaning here?</note>
+			<note xml:id="Note_1Thes_ar14">من ? We are not sure to read the text correcty here </note>
+			<note xml:id="Note_1Thes_ar15">Corresponds to the Latin reading <emph>christo</emph></note>
+			<note xml:id="Note_1Thes_ar16">Meaning? Is it a translitteration of <emph>aera</emph> / ἀέρα ?</note>
+			<note xml:id="Note_1Thes_ar17">The verb "to say" was expected here. Scribal error?</note>
+			<note xml:id="Note_1Thes_ar18">The Arabic translation does not have the pair of <emph>synonyms filii lucis et filii diei</emph> / υἱοὶ φωτός ἐστε καὶ υἱοὶ ἡμέρας</note>
+			<note xml:id="Note_1Thes_ar19">The grammatical constuction is difficult. There are two 2-nd person singular imperatives when the Greek and Latin show two 1st plural form. In addition, the complement of كن are plurals. </note>
+			<note xml:id="Note_1Thes_ar20">We read نلى but this is unlikely. Maybe على ?</note>
+			<note xml:id="Note_1Thes_ar21">This is an extented translation.</note>		
+			<note xml:id="Note_1Thes_ar22">The negation is missing.</note>
+			<note xml:id="Note_1Thes_ar23">مُحتقرين لها seems to be an addition</note>
+			<note xml:id="Note_1Thes_ar24"></note>
+		</back>
 	</text>
 </TEI>
