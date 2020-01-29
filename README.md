@@ -1,6 +1,6 @@
 # humarec-manuscript-viewer
 
-<p>HumaReC is a Vital-DH@Vital-IT project.</p>
+<p>HumaReC is a project of DH+, SIB|Swiss Institute of Bioinformatics.</p>
 
 <p>The viewer is based on Edition Visualization Technology (EVT).<br>
 Check: https://visualizationtechnology.wordpress.com<br>
